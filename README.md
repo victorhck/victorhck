@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <strong>Medios de contacto:</strong>
+
 <strong>📫 Correo:</strong>
 <ul>
 	<li><strong>victorhck </strong><em>arroba </em><strong>opensuse </strong><em>punto</em> <strong>org (GPG Key: <a href="https://keyserver.opensuse.org/pks/lookup?search=0xcc742e8dc9b7e22a&amp;fingerprint=on&amp;op=index" target="_blank" rel="noopener">0xcc742e8dc9b7e22a</a> )</strong></li>

@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 - [#openSUSE Tumbleweed revisión de la semana 53 de 2020](https://victorhckinthefreeworld.com/2021/01/02/opensuse-tumbleweed-revision-de-la-semana-53-de-2020/)
 <!-- BLOG-POST-LIST:END -->
 
+## Canal de Telegram del blog
+[![Telegram](https://victorhckinthefreeworld.files.wordpress.com/2020/05/telegram.png) Canal de Telegram(https://t.me/victorhck)
+
 <strong>Si te gusta lo que hago y te apetece invitarme a una cerveza puedes utilizar LiberaPay</strong>
  
 <p style="text-align: center;"><a href="https://es.liberapay.com/victorhck/donate" target="_blank" rel="noopener"><img class="aligncenter wp-image-8601 size-full" title="LiberaPay" src="https://victorhckinthefreeworld.files.wordpress.com/2019/12/widgets-victorhck-liberapay.png" alt="" width="74" height="30" /></a></p>

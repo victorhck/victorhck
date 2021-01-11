@@ -34,6 +34,15 @@ Here are some ideas to get you started:
 * [![YouTube](https://pod.orkz.net/uploads/images/scaled_full_7156003ff74aaa4308f7.png) YouTube](https://www.youtube.com/user/jcwl70/)
 * [![GitLab](https://pod.orkz.net/uploads/images/scaled_full_af4ca769a2cd313d8363.png) GitLab](https://gitlab.com/victorhck)
 
+## Últimos artículos en mi blog:
+<!-- BLOG-POST-LIST:START -->
+- [¡Me entrevista un androide!](https://victorhckinthefreeworld.com/2021/01/11/me-entrevista-un-androide/)
+- [#openSUSE Tumbleweed revisión de la semana 1 de 2021](https://victorhckinthefreeworld.com/2021/01/08/opensuse-tumbleweed-revision-de-la-semana-1-de-2021/)
+- [Importar una clave de cifrado en Thunderbird con OpenPGP](https://victorhckinthefreeworld.com/2021/01/07/importar-una-clave-de-cifrado-en-thunderbird-con-openpgp/)
+- [lichess.org un servidor de ajedrez libre y gratuito contruido con #softwarelibre](https://victorhckinthefreeworld.com/2021/01/04/lichess-org-un-servidor-de-ajedrez-libre-y-gratuito-contruido-con-softwarelibre/)
+- [#openSUSE Tumbleweed revisión de la semana 53 de 2020](https://victorhckinthefreeworld.com/2021/01/02/opensuse-tumbleweed-revision-de-la-semana-53-de-2020/)
+<!-- BLOG-POST-LIST:END -->
+
 <strong>Si te gusta lo que hago y te apetece invitarme a una cerveza puedes utilizar LiberaPay</strong>
  
 <p style="text-align: center;"><a href="https://es.liberapay.com/victorhck/donate" target="_blank" rel="noopener"><img class="aligncenter wp-image-8601 size-full" title="LiberaPay" src="https://victorhckinthefreeworld.files.wordpress.com/2019/12/widgets-victorhck-liberapay.png" alt="" width="74" height="30" /></a></p>
@@ -46,11 +55,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=victorhck&layout=compact&theme=radical" />
 </a>
 
-## Últimos artículos en mi blog:
-<!-- BLOG-POST-LIST:START -->
-- [¡Me entrevista un androide!](https://victorhckinthefreeworld.com/2021/01/11/me-entrevista-un-androide/)
-- [#openSUSE Tumbleweed revisión de la semana 1 de 2021](https://victorhckinthefreeworld.com/2021/01/08/opensuse-tumbleweed-revision-de-la-semana-1-de-2021/)
-- [Importar una clave de cifrado en Thunderbird con OpenPGP](https://victorhckinthefreeworld.com/2021/01/07/importar-una-clave-de-cifrado-en-thunderbird-con-openpgp/)
-- [lichess.org un servidor de ajedrez libre y gratuito contruido con #softwarelibre](https://victorhckinthefreeworld.com/2021/01/04/lichess-org-un-servidor-de-ajedrez-libre-y-gratuito-contruido-con-softwarelibre/)
-- [#openSUSE Tumbleweed revisión de la semana 53 de 2020](https://victorhckinthefreeworld.com/2021/01/02/opensuse-tumbleweed-revision-de-la-semana-53-de-2020/)
-<!-- BLOG-POST-LIST:END -->
+

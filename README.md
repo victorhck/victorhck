@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ## Canal de Telegram del blog
-[![Telegram](https://victorhckinthefreeworld.files.wordpress.com/2020/05/telegram.png) Canal de Telegram(https://t.me/victorhck)
+[![Telegram](https://victorhckinthefreeworld.files.wordpress.com/2020/05/telegram.png) Canal de Telegram](https://t.me/victorhck)
 
 <strong>Si te gusta lo que hago y te apetece invitarme a una cerveza puedes utilizar LiberaPay</strong>
  

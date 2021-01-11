@@ -1,4 +1,4 @@
-### Hi there 👋
+### keep on rockin'n in the free world 
 
 <!--
 **victorhck/victorhck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <strong>Medios de contacto:</strong>
 
-<strong>📫 Correo:</strong>
+<strong>📫 Correo:</strong>💬
 <ul>
 	<li><strong>victorhck </strong><em>arroba </em><strong>opensuse </strong><em>punto</em> <strong>org (GPG Key: <a href="http://keys.gnupg.net/pks/lookup?search=0xcc742e8dc9b7e22a&fingerprint=on&op=index" target="_blank" rel="noopener">0xcc742e8dc9b7e22a</a> )</strong></li>
 	<li><strong>victorhck </strong><em>arroba </em><strong>mailbox </strong><em>punto</em><strong> org </strong>(<strong>GPG Key:</strong> <a href="http://keys.gnupg.net/pks/lookup?search=0xcc742e8dc9b7e22a&fingerprint=on&op=index" target="_blank" rel="noopener"><strong>0xcc742e8dc9b7e22a</strong></a> )</li>
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 	<li><strong>victorhck</strong> <em>arroba</em> <strong>protonmail</strong> <em>punto</em> <strong>com</strong></li>
 </ul>
 
+<strong>💬 Otros medios:</strong>
 * [![Mi blog](https://s1.wp.com/wp-content/mu-plugins/post-flair/sharing/images/icon-wordpress.png) Mi blog](https://victorhckinthefreeworld.com)
 * [![Mastodon](https://pod.orkz.net/uploads/images/scaled_full_439a55d6cac2086fdd94.png) Mastodon](https://mastodon.social/@victorhck)
 * [![diaspora*](https://pod.orkz.net/uploads/images/scaled_full_a87cf779ccf3face1d8a.png) diaspora*](https://pod.orkz.net/u/victorhck)
@@ -33,6 +34,10 @@ Here are some ideas to get you started:
 * [![YouTube](https://pod.orkz.net/uploads/images/scaled_full_7156003ff74aaa4308f7.png) YouTube](https://www.youtube.com/user/jcwl70/)
 * [![GitLab](https://pod.orkz.net/uploads/images/scaled_full_af4ca769a2cd313d8363.png) GitLab](https://gitlab.com/victorhck)
 
+<strong>Si te gusta lo que hago y te apetece invitarme a una cerveza puedes utilizar LiberaPay</strong>
+ 
+<p style="text-align: center;"><a href="https://es.liberapay.com/victorhck/donate" target="_blank" rel="noopener"><img class="aligncenter wp-image-8601 size-full" title="LiberaPay" src="https://victorhckinthefreeworld.files.wordpress.com/2019/12/widgets-victorhck-liberapay.png" alt="" width="74" height="30" /></a></p>
+
 <a href="https://github.com/victorhck">
 <img align="center" alt="estadísticas de GitHub de Victorhck" src="https://github-readme-stats.codestackr.vercel.app/api?username=victorhck&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
@@ -40,7 +45,3 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=victorhck&layout=compact&theme=radical" />
 </a>
 
-<strong>Si te gusta lo que hago y te apetece invitarme a una cerveza puedes utilizar LiberaPay</strong>
- 
-<p style="text-align: center;"><a href="https://es.liberapay.com/victorhck/donate" target="_blank" rel="noopener"><img class="aligncenter wp-image-8601 size-full" title="LiberaPay" src="https://victorhckinthefreeworld.files.wordpress.com/2019/12/widgets-victorhck-liberapay.png" alt="" width="74" height="30" /></a></p>
-<strong>keep on rockin'n in the free world</strong>

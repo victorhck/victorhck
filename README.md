@@ -48,4 +48,9 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [¡Me entrevista un androide!](https://victorhckinthefreeworld.com/2021/01/11/me-entrevista-un-androide/)
+- [#openSUSE Tumbleweed revisión de la semana 1 de 2021](https://victorhckinthefreeworld.com/2021/01/08/opensuse-tumbleweed-revision-de-la-semana-1-de-2021/)
+- [Importar una clave de cifrado en Thunderbird con OpenPGP](https://victorhckinthefreeworld.com/2021/01/07/importar-una-clave-de-cifrado-en-thunderbird-con-openpgp/)
+- [lichess.org un servidor de ajedrez libre y gratuito contruido con #softwarelibre](https://victorhckinthefreeworld.com/2021/01/04/lichess-org-un-servidor-de-ajedrez-libre-y-gratuito-contruido-con-softwarelibre/)
+- [#openSUSE Tumbleweed revisión de la semana 53 de 2020](https://victorhckinthefreeworld.com/2021/01/02/opensuse-tumbleweed-revision-de-la-semana-53-de-2020/)
 <!-- BLOG-POST-LIST:END -->

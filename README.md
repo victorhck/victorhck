@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 	<li><strong>victorhck</strong> <em>arroba</em> <strong>protonmail</strong> <em>punto</em> <strong>com</strong></li>
 </ul>
 
-* [![Mi blog](https://pod.orkz.net/uploads/images/scaled_full_439a55d6cac2086fdd94.png) Mi blog](https://victorhckinthefreeworld.com)
+* [![Mi blog](https://s1.wp.com/wp-content/mu-plugins/post-flair/sharing/images/icon-wordpress.png) Mi blog](https://victorhckinthefreeworld.com)
 * [![Mastodon](https://pod.orkz.net/uploads/images/scaled_full_439a55d6cac2086fdd94.png) Mastodon](https://mastodon.social/@victorhck)
 * [![diaspora*](https://pod.orkz.net/uploads/images/scaled_full_a87cf779ccf3face1d8a.png) diaspora*](https://pod.orkz.net/u/victorhck)
 * [![PixelFed](https://pod.orkz.net/uploads/images/scaled_full_b7c16a11d5410ab02911.png) PixelFed](https://pixelfed.social/victorhck)
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=victorhck&layout=compact&theme=radical" />
 </a>
 
-<strong>Si te gusta lo que hago y  te apetece invitarme a una cerveza puedes utilizar LiberaPay</strong>
+<strong>Si te gusta lo que hago y te apetece invitarme a una cerveza puedes utilizar LiberaPay</strong>
  
 <p style="text-align: center;"><a href="https://es.liberapay.com/victorhck/donate" target="_blank" rel="noopener"><img class="aligncenter wp-image-8601 size-full" title="LiberaPay" src="https://victorhckinthefreeworld.files.wordpress.com/2019/12/widgets-victorhck-liberapay.png" alt="" width="74" height="30" /></a></p>
 <strong>keep on rockin'n in the free world</strong>

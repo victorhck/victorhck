@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 2 de 2021](https://victorhckinthefreeworld.com/2021/01/15/opensuse-tumbleweed-revision-de-la-semana-2-de-2021/)
 - [Curso de Vim: Utilizando archivos de plantillas en #Vim](https://victorhckinthefreeworld.com/2021/01/13/utilizando-archivos-de-plantillas-en-vim/)
 - [¡Me entrevista un androide!](https://victorhckinthefreeworld.com/2021/01/11/me-entrevista-un-androide/)
 - [#openSUSE Tumbleweed revisión de la semana 1 de 2021](https://victorhckinthefreeworld.com/2021/01/08/opensuse-tumbleweed-revision-de-la-semana-1-de-2021/)
 - [Importar una clave de cifrado en Thunderbird con OpenPGP](https://victorhckinthefreeworld.com/2021/01/07/importar-una-clave-de-cifrado-en-thunderbird-con-openpgp/)
-- [lichess.org un servidor de ajedrez libre y gratuito contruido con #softwarelibre](https://victorhckinthefreeworld.com/2021/01/04/lichess-org-un-servidor-de-ajedrez-libre-y-gratuito-contruido-con-softwarelibre/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

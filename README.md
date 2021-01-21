@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Actualizar un fork de un repositorio git desde la interfaz web de GitHub](https://victorhckinthefreeworld.com/2021/01/21/actualizar-un-fork-de-un-repositorio-git-desde-la-interfaz-web-de-github/)
 - [Curso de Vim: arriba, abajo al centro… y #Vim](https://victorhckinthefreeworld.com/2021/01/20/arriba-abajo-al-centro-y-vim/)
 - [Decimoquinta edición del Concurso Universitario de Software Libre](https://victorhckinthefreeworld.com/2021/01/19/decimoquinta-edicion-concurso-universitario-de-software-libre/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – enero de 2021](https://victorhckinthefreeworld.com/2021/01/18/recopilacion-boletin-de-noticias-free-software-foundation-enero-2021/)
 - [#openSUSE Tumbleweed revisión de la semana 2 de 2021](https://victorhckinthefreeworld.com/2021/01/15/opensuse-tumbleweed-revision-de-la-semana-2-de-2021/)
-- [Curso de Vim: Utilizando archivos de plantillas en #Vim](https://victorhckinthefreeworld.com/2021/01/13/utilizando-archivos-de-plantillas-en-vim/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

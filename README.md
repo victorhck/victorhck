@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Instalar un emulador de Commodore 64 en #openSUSE #Linux](https://victorhckinthefreeworld.com/2021/01/25/instalar-emulador-commodore-64-en-opensuse-linux/)
 - [#openSUSE Tumbleweed revisión de la semana 3 de 2021](https://victorhckinthefreeworld.com/2021/01/24/opensuse-tumbleweed-revision-de-la-semana-3-de-2021/)
 - [Actualizar un fork de un repositorio git desde la interfaz web de GitHub](https://victorhckinthefreeworld.com/2021/01/21/actualizar-un-fork-de-un-repositorio-git-desde-la-interfaz-web-de-github/)
 - [Curso de Vim: arriba, abajo al centro… y #Vim](https://victorhckinthefreeworld.com/2021/01/20/arriba-abajo-al-centro-y-vim/)
 - [Decimoquinta edición del Concurso Universitario de Software Libre](https://victorhckinthefreeworld.com/2021/01/19/decimoquinta-edicion-concurso-universitario-de-software-libre/)
-- [Recopilación del boletín de noticias de la Free Software Foundation – enero de 2021](https://victorhckinthefreeworld.com/2021/01/18/recopilacion-boletin-de-noticias-free-software-foundation-enero-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

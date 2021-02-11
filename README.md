@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Recupera tu vida digital con los servicios que ofrece nogafam.es](https://victorhckinthefreeworld.com/2021/02/11/recupera-tu-vida-digital-con-los-servicios-que-ofrece-nogafam-es/)
 - [Curso de Vim: La ayuda de #Vim](https://victorhckinthefreeworld.com/2021/02/10/curso-de-vim-la-ayuda-de-vim/)
 - [Juega al ajedrez en el servidor lichess en tu dispositivo móvil](https://victorhckinthefreeworld.com/2021/02/09/juega-al-ajedrez-en-lichess-en-tu-dispositivo-movil/)
 - [#openSUSE para #Pinephone con Plasma Mobile](https://victorhckinthefreeworld.com/2021/02/03/opensuse-para-pinephone-con-plasma-mobile/)
 - [#openSUSE Leap 15.1 llega a su fin de soporte oficial](https://victorhckinthefreeworld.com/2021/02/01/opensuse-leap-15-1-llega-a-su-fin-de-soporte-oficial/)
-- [#openSUSE Tumbleweed revisión de la semana 4 de 2021](https://victorhckinthefreeworld.com/2021/01/29/opensuse-tumbleweed-revision-de-la-semana-4-de-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

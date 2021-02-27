@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 8 de 2021](https://victorhckinthefreeworld.com/2021/02/27/opensuse-tumbleweed-revision-de-la-semana-8-de-2021/)
 - [Curso de Vim: entrevista a un desarrollador que utiliza #Vim](https://victorhckinthefreeworld.com/2021/02/24/entrevista-a-desarrollador-que-utiliza-vim/)
 - [El menú Kickoff de Plasma no busca aplicaciones – Solucionado](https://victorhckinthefreeworld.com/2021/02/22/el-menu-kickoff-de-plasma-no-busca-aplicaciones/)
 - [#openSUSE Tumbleweed revisión de la semana 7 de 2021](https://victorhckinthefreeworld.com/2021/02/19/opensuse-tumbleweed-revision-de-la-semana-7-de-2021/)
 - [openSUSE Step. La familia de openSUSE crece en opciones](https://victorhckinthefreeworld.com/2021/02/17/opensuse-step-la-familia-opensuse-crece/)
-- [Recopilación del boletín de noticias de la Free Software Foundation – febrero de 2021](https://victorhckinthefreeworld.com/2021/02/16/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-febrero-de-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

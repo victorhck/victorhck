@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Leap 15.3 Beta disponible](https://victorhckinthefreeworld.com/2021/03/03/opensuse-leap-15-3-beta-disponible/)
 - [Plasma Brezze oscuro especial para #openSUSE](https://victorhckinthefreeworld.com/2021/03/02/plasma-brezze-oscuro-especial-para-opensuse/)
 - [#openSUSE Tumbleweed revisión de la semana 8 de 2021](https://victorhckinthefreeworld.com/2021/02/27/opensuse-tumbleweed-revision-de-la-semana-8-de-2021/)
 - [Curso de Vim: entrevista a un desarrollador que utiliza #Vim](https://victorhckinthefreeworld.com/2021/02/24/entrevista-a-desarrollador-que-utiliza-vim/)
 - [El menú Kickoff de Plasma no busca aplicaciones – Solucionado](https://victorhckinthefreeworld.com/2021/02/22/el-menu-kickoff-de-plasma-no-busca-aplicaciones/)
-- [#openSUSE Tumbleweed revisión de la semana 7 de 2021](https://victorhckinthefreeworld.com/2021/02/19/opensuse-tumbleweed-revision-de-la-semana-7-de-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

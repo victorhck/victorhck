@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [forosuse.org está caído por cambio de servidor](https://victorhckinthefreeworld.com/2021/03/11/forosuse-org-esta-caido-por-cambio-de-servidor/)
 - [#openSUSE Tumbleweed revisión de la semana 9 de 2021](https://victorhckinthefreeworld.com/2021/03/05/opensuse-tumbleweed-revision-de-la-semana-9-de-2021/)
 - [freewear.org tu tienda geek. Entrevista exclusiva a los creadores](https://victorhckinthefreeworld.com/2021/03/04/freewear-org-tu-tienda-geek-entrevista-exclusiva-a-los-creadores/)
 - [#openSUSE Leap 15.3 Beta disponible](https://victorhckinthefreeworld.com/2021/03/03/opensuse-leap-15-3-beta-disponible/)
 - [Plasma Brezze oscuro especial para #openSUSE](https://victorhckinthefreeworld.com/2021/03/02/plasma-brezze-oscuro-especial-para-opensuse/)
-- [#openSUSE Tumbleweed revisión de la semana 8 de 2021](https://victorhckinthefreeworld.com/2021/02/27/opensuse-tumbleweed-revision-de-la-semana-8-de-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

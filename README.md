@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Ningún proyecto de GNU seleccionado para GSoC 2021](https://victorhckinthefreeworld.com/2021/03/21/ningun-proyecto-de-gnu-seleccionado-para-gsoc-2021/)
 - [#openSUSE Tumbleweed revisión de la semana 11 de 2021](https://victorhckinthefreeworld.com/2021/03/19/opensuse-tumbleweed-revision-de-la-semana-11-de-2021/)
 - [Solucionar problema con el repositorio Packman de #openSUSE](https://victorhckinthefreeworld.com/2021/03/18/solucionar-problema-con-el-repositorio-packman-de-opensuse/)
 - [Depurando un error en una tarea cron en Rapsberry Pi](https://victorhckinthefreeworld.com/2021/03/15/depurando-un-error-en-una-tarea-cron-en-rapsberry-pi/)
 - [#openSUSE Tumbleweed revisión de la semana 10 de 2021](https://victorhckinthefreeworld.com/2021/03/12/opensuse-tumbleweed-revision-de-la-semana-10-de-2021/)
-- [forosuse.org está caído por cambio de servidor](https://victorhckinthefreeworld.com/2021/03/11/forosuse-org-esta-caido-por-cambio-de-servidor/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

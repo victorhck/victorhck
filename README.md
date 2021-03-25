@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [El cliente de correo para Android K9mail busca financiación](https://victorhckinthefreeworld.com/2021/03/25/el-cliente-de-correo-para-android-k9mail-busca-financiacion/)
 - [Los registros numerados en #Vim](https://victorhckinthefreeworld.com/2021/03/24/los-registros-numerados-en-vim/)
 - [El comando split de GNU en Linux](https://victorhckinthefreeworld.com/2021/03/23/el-comando-split-de-gnu-en-linux/)
 - [Ningún proyecto de GNU seleccionado para GSoC 2021](https://victorhckinthefreeworld.com/2021/03/21/ningun-proyecto-de-gnu-seleccionado-para-gsoc-2021/)
 - [#openSUSE Tumbleweed revisión de la semana 11 de 2021](https://victorhckinthefreeworld.com/2021/03/19/opensuse-tumbleweed-revision-de-la-semana-11-de-2021/)
-- [Solucionar problema con el repositorio Packman de #openSUSE](https://victorhckinthefreeworld.com/2021/03/18/solucionar-problema-con-el-repositorio-packman-de-opensuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

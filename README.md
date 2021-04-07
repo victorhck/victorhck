@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Curso de Vim: Los registros nominales en #Vim](https://victorhckinthefreeworld.com/2021/04/07/los-registros-nominales-en-vim/)
 - [qView el visor de imágenes rápido y ligero](https://victorhckinthefreeworld.com/2021/04/05/qview-el-visor-de-imagenes-rapido-y-ligero/)
 - [Curso de Vim: Analiza el punto débil del arranque de tu editor #Vim](https://victorhckinthefreeworld.com/2021/03/31/analiza-el-punto-debil-del-arranque-de-tu-editor-vim/)
 - [#openSUSE Tumbleweed revisión de la semana 12 de 2021](https://victorhckinthefreeworld.com/2021/03/26/opensuse-tumbleweed-revision-de-la-semana-12-de-2021/)
 - [El cliente de correo para Android K9mail busca financiación](https://victorhckinthefreeworld.com/2021/03/25/el-cliente-de-correo-para-android-k9mail-busca-financiacion/)
-- [Curso de Vim: Los registros numerados en #Vim](https://victorhckinthefreeworld.com/2021/03/24/los-registros-numerados-en-vim/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

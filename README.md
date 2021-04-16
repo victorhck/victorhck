@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 15 de 2021](https://victorhckinthefreeworld.com/2021/04/16/opensuse-tumbleweed-revision-de-la-semana-15-de-2021/)
 - [¿De dónde viene #Vim? La historia de este gran editor](https://victorhckinthefreeworld.com/2021/04/14/de-donde-viene-vim-la-historia-de-este-gran-editor/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – abril de 2021](https://victorhckinthefreeworld.com/2021/04/12/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-abril-de-2021/)
 - [#openSUSE Tumbleweed revisión de las semanas 13 y 14 de 2021](https://victorhckinthefreeworld.com/2021/04/09/opensuse-tumbleweed-revision-de-las-semanas-13-y-14-de-2021/)
 - [Curso de Vim: Los registros nominales en #Vim](https://victorhckinthefreeworld.com/2021/04/07/los-registros-nominales-en-vim/)
-- [qView el visor de imágenes rápido y ligero](https://victorhckinthefreeworld.com/2021/04/05/qview-el-visor-de-imagenes-rapido-y-ligero/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

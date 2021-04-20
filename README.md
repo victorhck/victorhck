@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#Softwarelibre desde Asturias al mundo este #Flisol 2021](https://victorhckinthefreeworld.com/2021/04/20/softwarelibre-desde-asturias-al-mundo-este-flisol-2021/)
 - [Charla sobre cómo montar un servidor de streaming libre](https://victorhckinthefreeworld.com/2021/04/19/charla-sobre-como-montar-un-servidor-de-streaming-libre/)
 - [#openSUSE Tumbleweed revisión de la semana 15 de 2021](https://victorhckinthefreeworld.com/2021/04/16/opensuse-tumbleweed-revision-de-la-semana-15-de-2021/)
 - [¿De dónde viene #Vim? La historia de este gran editor](https://victorhckinthefreeworld.com/2021/04/14/de-donde-viene-vim-la-historia-de-este-gran-editor/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – abril de 2021](https://victorhckinthefreeworld.com/2021/04/12/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-abril-de-2021/)
-- [#openSUSE Tumbleweed revisión de las semanas 13 y 14 de 2021](https://victorhckinthefreeworld.com/2021/04/09/opensuse-tumbleweed-revision-de-las-semanas-13-y-14-de-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

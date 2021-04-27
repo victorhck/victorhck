@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Los números del blog](https://victorhckinthefreeworld.com/2021/04/27/los-numeros-del-blog/)
 - [10 años y 1 día](https://victorhckinthefreeworld.com/2021/04/26/10-anos-y-1-dia/)
 - [#openSUSE Tumbleweed revisión de la semana 16 de 2021](https://victorhckinthefreeworld.com/2021/04/23/opensuse-tumbleweed-revision-de-la-semana-16-de-2021/)
 - [#Softwarelibre en Tenerife en el Flisol 2021](https://victorhckinthefreeworld.com/2021/04/21/softwarelibre-en-tenerife-en-el-flisol-2021/)
 - [#Softwarelibre desde Asturias al mundo este #Flisol 2021](https://victorhckinthefreeworld.com/2021/04/20/softwarelibre-desde-asturias-al-mundo-este-flisol-2021/)
-- [Charla sobre cómo montar un servidor de streaming libre](https://victorhckinthefreeworld.com/2021/04/19/charla-sobre-como-montar-un-servidor-de-streaming-libre/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

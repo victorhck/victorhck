@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Guía visual sobre #tmux](https://victorhckinthefreeworld.com/2021/05/17/guia-visual-sobre-tmux/)
 - [Soñando al anochecer](https://victorhckinthefreeworld.com/2021/05/15/sonando-al-anochecer/)
 - [#openSUSE Tumbleweed revisión de la semana 19 de 2021](https://victorhckinthefreeworld.com/2021/05/14/opensuse-tumbleweed-revision-de-la-semana-19-de-2021/)
 - [Ver las diferencias en Git entre el commit más reciente y el anterior](https://victorhckinthefreeworld.com/2021/05/13/ver-las-diferencias-en-git-entre-el-commit-mas-reciente-y-el-anterior/)
 - [Curso de Vim: atajos de teclado de #Vim en tmux](https://victorhckinthefreeworld.com/2021/05/12/atajos-de-teclado-de-vim-en-tmux/)
-- [Prueba la versión Beta de MyGNUHealth PHR](https://victorhckinthefreeworld.com/2021/05/11/prueba-la-version-beta-de-mygnuhealth-phr/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 20 de 2021](https://victorhckinthefreeworld.com/2021/05/21/opensuse-tumbleweed-revision-de-la-semana-20-de-2021/)
 - [EpiLinux la distro de #Linux enfocada a estudios epidemiológicos](https://victorhckinthefreeworld.com/2021/05/20/epilinux-la-distro-de-linux-enfocada-a-estudios-epidemiologicos/)
 - [Cambios en freenode hacen que la comunidad busque alternativas](https://victorhckinthefreeworld.com/2021/05/19/cambios-en-freenode-hacen-que-la-comunidad-busque-alternativas/)
 - [Comenzando con GNU Screen](https://victorhckinthefreeworld.com/2021/05/18/comenzando-con-gnu-screen/)
 - [Guía visual sobre #tmux](https://victorhckinthefreeworld.com/2021/05/17/guia-visual-sobre-tmux/)
-- [Soñando al anochecer](https://victorhckinthefreeworld.com/2021/05/15/sonando-al-anochecer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -53,6 +53,10 @@ Si te gusta lo que hago y te apetece invitarme a una cerveza puedes utilizar Lib
  
 <p style="text-align: center;"><a href="https://es.liberapay.com/victorhck/donate" target="_blank" rel="noopener"><img class="aligncenter wp-image-8601 size-full" title="LiberaPay" src="https://victorhckinthefreeworld.files.wordpress.com/2019/12/widgets-victorhck-liberapay.png" alt="" width="74" height="30" /></a></p>
 
+## Estadísticas de GitHub
+
+![Estadísticas](https://github-readme-stats.vercel.app/api/?username=victorhck&count_private=true&theme=tokyonight&showicons=true)
+
 <!--
 ## Estadísticas de GitHub
 <a href="https://github.com/victorhck">

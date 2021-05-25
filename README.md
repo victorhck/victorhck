@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [¡Mamá, salgo en la tira de Linux Hispano!](https://victorhckinthefreeworld.com/2021/05/25/mama-salgo-en-la-tira-de-linux-hispano/)
 - [Ejecutar un script en segundo plano con GNU Screen](https://victorhckinthefreeworld.com/2021/05/24/ejecutar-un-script-en-segundo-plano-con-gnu-screen/)
 - [#openSUSE Tumbleweed revisión de la semana 20 de 2021](https://victorhckinthefreeworld.com/2021/05/21/opensuse-tumbleweed-revision-de-la-semana-20-de-2021/)
 - [EpiLinux la distro de #Linux enfocada a estudios epidemiológicos](https://victorhckinthefreeworld.com/2021/05/20/epilinux-la-distro-de-linux-enfocada-a-estudios-epidemiologicos/)
 - [Cambios en freenode hacen que la comunidad busque alternativas](https://victorhckinthefreeworld.com/2021/05/19/cambios-en-freenode-hacen-que-la-comunidad-busque-alternativas/)
-- [Comenzando con GNU Screen](https://victorhckinthefreeworld.com/2021/05/18/comenzando-con-gnu-screen/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Encuesta sobre el lanzamiento de #openSUSE Leap 15.3](https://victorhckinthefreeworld.com/2021/06/07/encuesta-sobre-el-lanzamiento-de-opensuse-leap-15-3/)
 - [4232](https://victorhckinthefreeworld.com/2021/06/05/4232/)
 - [#openSUSE Tumbleweed revisión de la semana 22 de 2021](https://victorhckinthefreeworld.com/2021/06/04/opensuse-tumbleweed-revision-de-la-semana-22-de-2021/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – junio de 2021](https://victorhckinthefreeworld.com/2021/06/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-junio-de-2021/)
 - [Publicada #openSUSE Leap 15.3](https://victorhckinthefreeworld.com/2021/06/02/publicada-opensuse-leap-15-3/)
-- [Siempre presente en tus canales IRC con WeeChat, tmux y Raspberry Pi](https://victorhckinthefreeworld.com/2021/05/31/siempre-presente-en-tus-canales-irc-con-weechat-tmux-y-raspberry-pi/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

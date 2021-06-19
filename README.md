@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de las semanas 23 y 24 de 2021](https://victorhckinthefreeworld.com/2021/06/19/opensuse-tumbleweed-revision-de-las-semanas-23-y-24-de-2021/)
 - [Akademy-es 2021 para noviembre](https://victorhckinthefreeworld.com/2021/06/15/akademy-es-2021-para-noviembre/)
 - [Quirinux la distribución de #Linux orientada a la producción multimedia](https://victorhckinthefreeworld.com/2021/06/14/quirinux-distribucion-linux-orientada-produccion-multimedia/)
 - [Jugando al ajedrez por correo electrónico con gnuchess](https://victorhckinthefreeworld.com/2021/06/10/jugando-al-ajedrez-por-correo-electronico-con-gnuchess/)
 - [Curso de Vim: Corrección ortográfica en el editor #Vim](https://victorhckinthefreeworld.com/2021/06/09/correccion-ortografica-en-vim/)
-- [Encuentro #esLibre 2021 los días 25 y 26 de junio](https://victorhckinthefreeworld.com/2021/06/08/encuentro-eslibre-2021-los-dias-25-y-26-de-junio/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Mi complemento para zsh para manejar el reproductor moc](https://victorhckinthefreeworld.com/2021/06/24/mi-complemento-para-zsh-para-manejar-el-reproductor-moc/)
 - [Curso de Vim: cómo abrir la ayuda de #Vim en una pestaña nueva](https://victorhckinthefreeworld.com/2021/06/23/abrir-ayuda-vim-pestana-nueva/)
 - [Un par de complementos muy útiles para zsh](https://victorhckinthefreeworld.com/2021/06/22/un-par-de-complementos-muy-utiles-para-zsh/)
 - [Instalar la shell zsh en openSUSE](https://victorhckinthefreeworld.com/2021/06/21/instalar-la-shell-zsh-en-opensuse/)
 - [#openSUSE Tumbleweed revisión de las semanas 23 y 24 de 2021](https://victorhckinthefreeworld.com/2021/06/19/opensuse-tumbleweed-revision-de-las-semanas-23-y-24-de-2021/)
-- [Akademy-es 2021 para noviembre](https://victorhckinthefreeworld.com/2021/06/15/akademy-es-2021-para-noviembre/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

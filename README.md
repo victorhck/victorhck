@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 26 de 2021](https://victorhckinthefreeworld.com/2021/07/02/opensuse-tumbleweed-revision-de-la-semana-26-de-2021/)
 - [Curso de Vim: cómo usar el complemento vim-surround](https://victorhckinthefreeworld.com/2021/06/30/como-usar-complemento-vim-surround/)
 - [#openSUSE Tumbleweed revisión de la semana 25 de 2021](https://victorhckinthefreeworld.com/2021/06/26/opensuse-tumbleweed-revision-de-la-semana-25-de-2021/)
 - [Versión 1.0 de MyGNUHealth](https://victorhckinthefreeworld.com/2021/06/25/version-1-0-de-mygnuhealth/)
 - [Mi complemento para zsh para manejar el reproductor moc](https://victorhckinthefreeworld.com/2021/06/24/mi-complemento-para-zsh-para-manejar-el-reproductor-moc/)
-- [Curso de Vim: cómo abrir la ayuda de #Vim en una pestaña nueva](https://victorhckinthefreeworld.com/2021/06/23/abrir-ayuda-vim-pestana-nueva/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

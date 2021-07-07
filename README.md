@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#Chatcontrol el fin de la privacidad en internet](https://victorhckinthefreeworld.com/2021/07/07/chatcontrol-el-fin-de-la-privacidad-en-internet/)
 - [Tutorial del gestor de archivos Ranger en #Linux](https://victorhckinthefreeworld.com/2021/07/07/tutorial-del-gestor-de-archivos-ranger-en-linux/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – julio de 2021](https://victorhckinthefreeworld.com/2021/07/05/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-julio-de-2021/)
 - [#openSUSE Tumbleweed revisión de la semana 26 de 2021](https://victorhckinthefreeworld.com/2021/07/02/opensuse-tumbleweed-revision-de-la-semana-26-de-2021/)
 - [Curso de Vim: cómo usar el complemento vim-surround](https://victorhckinthefreeworld.com/2021/06/30/como-usar-complemento-vim-surround/)
-- [#openSUSE Tumbleweed revisión de la semana 25 de 2021](https://victorhckinthefreeworld.com/2021/06/26/opensuse-tumbleweed-revision-de-la-semana-25-de-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

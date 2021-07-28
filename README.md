@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Alternativas modernas de reemplazo a los comandos de Unix](https://victorhckinthefreeworld.com/2021/07/28/alternativas-modernas-de-reemplazo-a-los-comandos-de-unix/)
 - [Integrar los botones de la ventana en Thunderbird](https://victorhckinthefreeworld.com/2021/07/26/integrar-los-botones-de-la-ventana-en-thunderbird/)
 - [#openSUSE Tumbleweed revisión de la semana 29 de 2021](https://victorhckinthefreeworld.com/2021/07/23/opensuse-tumbleweed-revision-de-la-semana-29-de-2021/)
 - [#openSUSE Tumbleweed revisión de la semana 28 de 2021](https://victorhckinthefreeworld.com/2021/07/16/opensuse-tumbleweed-revision-de-la-semana-28-de-2021/)
 - [Curso de Vim: Las macros en #Vim](https://victorhckinthefreeworld.com/2021/07/14/las-macros-en-vim/)
-- [#openSUSE Tumbleweed revisión de la semana 27 de 2021](https://victorhckinthefreeworld.com/2021/07/09/opensuse-tumbleweed-revision-de-la-semana-27-de-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

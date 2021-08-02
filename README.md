@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [privacytools-es se renueva y actualiza](https://victorhckinthefreeworld.com/2021/08/02/privacytools-es-se-renueva-y-actualiza/)
 - [#openSUSE Tumbleweed revisión de la semana 30 de 2021](https://victorhckinthefreeworld.com/2021/07/30/opensuse-tumbleweed-revision-de-la-semana-30-de-2021/)
 - [Alternativas modernas de reemplazo a los comandos de Unix](https://victorhckinthefreeworld.com/2021/07/28/alternativas-modernas-de-reemplazo-a-los-comandos-de-unix/)
 - [Integrar los botones de la ventana en Thunderbird](https://victorhckinthefreeworld.com/2021/07/26/integrar-los-botones-de-la-ventana-en-thunderbird/)
 - [#openSUSE Tumbleweed revisión de la semana 29 de 2021](https://victorhckinthefreeworld.com/2021/07/23/opensuse-tumbleweed-revision-de-la-semana-29-de-2021/)
-- [#openSUSE Tumbleweed revisión de la semana 28 de 2021](https://victorhckinthefreeworld.com/2021/07/16/opensuse-tumbleweed-revision-de-la-semana-28-de-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

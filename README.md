@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 31 de 2021](https://victorhckinthefreeworld.com/2021/08/06/opensuse-tumbleweed-revision-de-la-semana-31-de-2021/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2021](https://victorhckinthefreeworld.com/2021/08/05/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2021/)
 - [KDE Express el nuevo podcast de la asociación KDE Expaña](https://victorhckinthefreeworld.com/2021/08/04/kde-express-el-nuevo-podcast-de-la-asociacion-kde-expana/)
 - [privacytools-es se renueva y actualiza](https://victorhckinthefreeworld.com/2021/08/02/privacytools-es-se-renueva-y-actualiza/)
 - [#openSUSE Tumbleweed revisión de la semana 30 de 2021](https://victorhckinthefreeworld.com/2021/07/30/opensuse-tumbleweed-revision-de-la-semana-30-de-2021/)
-- [Alternativas modernas de reemplazo a los comandos de Unix](https://victorhckinthefreeworld.com/2021/07/28/alternativas-modernas-de-reemplazo-a-los-comandos-de-unix/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

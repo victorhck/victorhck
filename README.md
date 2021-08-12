@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Cómo instalar lolcat en openSUSE](https://victorhckinthefreeworld.com/2021/08/12/como-instalar-lolcat-en-opensuse/)
 - [git switch y git restore. Nuevos comandos para Git](https://victorhckinthefreeworld.com/2021/08/09/git-switch-y-git-restore-nuevos-comandos-para-git/)
 - [#openSUSE Tumbleweed revisión de la semana 31 de 2021](https://victorhckinthefreeworld.com/2021/08/06/opensuse-tumbleweed-revision-de-la-semana-31-de-2021/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2021](https://victorhckinthefreeworld.com/2021/08/05/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2021/)
 - [KDE Express el nuevo podcast de la asociación KDE Expaña](https://victorhckinthefreeworld.com/2021/08/04/kde-express-el-nuevo-podcast-de-la-asociacion-kde-expana/)
-- [privacytools-es se renueva y actualiza](https://victorhckinthefreeworld.com/2021/08/02/privacytools-es-se-renueva-y-actualiza/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

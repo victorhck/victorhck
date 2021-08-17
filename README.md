@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Configura los colores de tu i3wm con esta herramienta online](https://victorhckinthefreeworld.com/2021/08/17/configura-los-colores-de-tu-i3wm-con-esta-herramienta-online/)
 - [Monitoriza los procesos en Linux](https://victorhckinthefreeworld.com/2021/08/16/monitoriza-los-procesos-en-linux/)
 - [Guía para aconsejar qué distribución de #GNU #Linux escoger](https://victorhckinthefreeworld.com/2021/08/13/guia-distribucion-de-gnu-linux-escoger/)
 - [Cómo instalar lolcat en openSUSE](https://victorhckinthefreeworld.com/2021/08/12/como-instalar-lolcat-en-opensuse/)
 - [git switch y git restore. Nuevos comandos para Git](https://victorhckinthefreeworld.com/2021/08/09/git-switch-y-git-restore-nuevos-comandos-para-git/)
-- [#openSUSE Tumbleweed revisión de la semana 31 de 2021](https://victorhckinthefreeworld.com/2021/08/06/opensuse-tumbleweed-revision-de-la-semana-31-de-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

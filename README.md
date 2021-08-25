@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Curso de Vim: añadir una barra de scroll en #Vim](https://victorhckinthefreeworld.com/2021/08/25/anadir-barra-scroll-vim/)
 - [#openSUSE Tumbleweed revisión de las semanas 32 y 33 de 2021](https://victorhckinthefreeworld.com/2021/08/21/opensuse-tumbleweed-revision-de-las-semanas-32-y-33-de-2021/)
 - [Programar tareas con el comando at en Linux](https://victorhckinthefreeworld.com/2021/08/19/programar-tareas-con-el-comando-at-en-linux/)
 - [Configura los colores de tu i3wm con esta herramienta online](https://victorhckinthefreeworld.com/2021/08/17/configura-los-colores-de-tu-i3wm-con-esta-herramienta-online/)
 - [Monitoriza los procesos en Linux](https://victorhckinthefreeworld.com/2021/08/16/monitoriza-los-procesos-en-linux/)
-- [Guía para aconsejar qué distribución de #GNU #Linux escoger](https://victorhckinthefreeworld.com/2021/08/13/guia-distribucion-de-gnu-linux-escoger/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 34 de 2021](https://victorhckinthefreeworld.com/2021/08/28/opensuse-tumbleweed-revision-de-la-semana-34-de-2021/)
 - [El comando date de GNU](https://victorhckinthefreeworld.com/2021/08/27/el-comando-date-de-gnu/)
 - [Actualizada la guía de la FSF para defender tu privacidad al usar el correo electrónico](https://victorhckinthefreeworld.com/2021/08/26/actualizada-la-guia-de-la-fsf-para-defender-tu-privacidad-al-usar-el-correo-electronico/)
 - [Curso de Vim: añadir una barra de scroll en #Vim](https://victorhckinthefreeworld.com/2021/08/25/anadir-barra-scroll-vim/)
 - [#openSUSE Tumbleweed revisión de las semanas 32 y 33 de 2021](https://victorhckinthefreeworld.com/2021/08/21/opensuse-tumbleweed-revision-de-las-semanas-32-y-33-de-2021/)
-- [Programar tareas con el comando at en Linux](https://victorhckinthefreeworld.com/2021/08/19/programar-tareas-con-el-comando-at-en-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Recopilación del boletín de noticias de la Free Software Foundation – septiembre de 2021](https://victorhckinthefreeworld.com/2021/09/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-septiembre-de-2021/)
 - [Cómo evitar eliminar por error un archivo con el comando rm en Linux](https://victorhckinthefreeworld.com/2021/08/31/como-recuperar-un-archivo-eliminado-con-el-comando-rm/)
 - [Cómo borrar en #Linux una archivo que comienza con dos guiones desde la consola](https://victorhckinthefreeworld.com/2021/08/30/como-borrar-en-linux-una-archivo-que-comienza-con-dos-guiones-desde-la-consola/)
 - [#openSUSE Tumbleweed revisión de la semana 34 de 2021](https://victorhckinthefreeworld.com/2021/08/28/opensuse-tumbleweed-revision-de-la-semana-34-de-2021/)
 - [El comando date de GNU](https://victorhckinthefreeworld.com/2021/08/27/el-comando-date-de-gnu/)
-- [Actualizada la guía de la FSF para defender tu privacidad al usar el correo electrónico](https://victorhckinthefreeworld.com/2021/08/26/actualizada-la-guia-de-la-fsf-para-defender-tu-privacidad-al-usar-el-correo-electronico/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

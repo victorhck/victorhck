@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [El comando head de #GNU](https://victorhckinthefreeworld.com/2021/09/08/el-comando-head-de-gnu/)
 - [El comando yes de #GNU](https://victorhckinthefreeworld.com/2021/09/07/el-comando-yes-de-gnu/)
 - [#openSUSE Tumbleweed revisión de la semana 35 de 2021](https://victorhckinthefreeworld.com/2021/09/03/opensuse-tumbleweed-revision-de-la-semana-35-de-2021/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – septiembre de 2021](https://victorhckinthefreeworld.com/2021/09/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-septiembre-de-2021/)
 - [Cómo evitar eliminar por error un archivo con el comando rm en Linux](https://victorhckinthefreeworld.com/2021/08/31/como-recuperar-un-archivo-eliminado-con-el-comando-rm/)
-- [Cómo borrar en #Linux una archivo que comienza con dos guiones desde la consola](https://victorhckinthefreeworld.com/2021/08/30/como-borrar-en-linux-una-archivo-que-comienza-con-dos-guiones-desde-la-consola/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <strong>📫 Correo:</strong>
 <ul>
-	<li><strong>victorhck </strong><em>arroba </em><strong>opensuse </strong><em>punto</em> <strong>org (GPG Key: <a href="http://keys.gnupg.net/pks/lookup?search=0xcc742e8dc9b7e22a&fingerprint=on&op=index" target="_blank" rel="noopener">0xcc742e8dc9b7e22a</a> )</strong></li>
-	<li><strong>victorhck </strong><em>arroba </em><strong>mailbox </strong><em>punto</em><strong> org </strong>(<strong>GPG Key:</strong> <a href="http://keys.gnupg.net/pks/lookup?search=0xcc742e8dc9b7e22a&fingerprint=on&op=index" target="_blank" rel="noopener"><strong>0xcc742e8dc9b7e22a</strong></a> )</li>
+	<li><strong>victorhck </strong><em>arroba </em><strong>opensuse </strong><em>punto</em> <strong>org (GPG Key: <a href="https://keyserver.ubuntu.com/pks/lookup?search=0xcc742e8dc9b7e22a&fingerprint=on&op=index" target="_blank" rel="noopener">0xcc742e8dc9b7e22a</a> )</strong></li>
+	<li><strong>victorhck </strong><em>arroba </em><strong>mailbox </strong><em>punto</em><strong> org </strong>(<strong>GPG Key:</strong> <a href="https://keyserver.ubuntu.com/pks/lookup?search=0xcc742e8dc9b7e22a&fingerprint=on&op=index" target="_blank" rel="noopener"><strong>0xcc742e8dc9b7e22a</strong></a> )</li>
 	<li><em>Fingerprint = 6FE2 3B1F AAC8 E5B7 63EA 88A9 CC74 2E8D C9B7 E22A</em></li>
 	<li><strong>victorhck</strong> <em>arroba</em> <strong>protonmail</strong> <em>punto</em> <strong>com</strong></li>
 </ul>

@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [El comando find de #GNU](https://victorhckinthefreeworld.com/2021/09/10/el-comando-find-de-gnu/)
 - [El comando tail de #GNU](https://victorhckinthefreeworld.com/2021/09/09/el-comando-tail-de-gnu/)
 - [El comando head de #GNU](https://victorhckinthefreeworld.com/2021/09/08/el-comando-head-de-gnu/)
 - [El comando yes de #GNU](https://victorhckinthefreeworld.com/2021/09/07/el-comando-yes-de-gnu/)
 - [#openSUSE Tumbleweed revisión de la semana 35 de 2021](https://victorhckinthefreeworld.com/2021/09/03/opensuse-tumbleweed-revision-de-la-semana-35-de-2021/)
-- [Recopilación del boletín de noticias de la Free Software Foundation – septiembre de 2021](https://victorhckinthefreeworld.com/2021/09/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-septiembre-de-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

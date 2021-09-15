@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Curso de Vim: Eliminar las líneas que contengan un texto en #Vim](https://victorhckinthefreeworld.com/2021/09/15/eliminar-lineas-contengan-un-texto-vim/)
 - [El comando wc de #GNU](https://victorhckinthefreeworld.com/2021/09/14/el-comando-wc-de-gnu/)
 - [Minus, la red social con límite](https://victorhckinthefreeworld.com/2021/09/13/minus-la-red-social-con-limite/)
 - [El comando find de #GNU](https://victorhckinthefreeworld.com/2021/09/10/el-comando-find-de-gnu/)
 - [El comando tail de #GNU](https://victorhckinthefreeworld.com/2021/09/09/el-comando-tail-de-gnu/)
-- [El comando head de #GNU](https://victorhckinthefreeworld.com/2021/09/08/el-comando-head-de-gnu/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

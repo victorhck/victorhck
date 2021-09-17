@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [El comando sleep de #GNU](https://victorhckinthefreeworld.com/2021/09/17/el-comando-sleep-de-gnu/)
 - [Lagrange un navegador para el protocolo Gemini](https://victorhckinthefreeworld.com/2021/09/16/lagrange-un-navegador-para-el-protocolo-gemini/)
 - [Curso de Vim: Eliminar las líneas que contengan un texto en #Vim](https://victorhckinthefreeworld.com/2021/09/15/eliminar-lineas-contengan-un-texto-vim/)
 - [El comando wc de #GNU](https://victorhckinthefreeworld.com/2021/09/14/el-comando-wc-de-gnu/)
 - [Minus, la red social con límite](https://victorhckinthefreeworld.com/2021/09/13/minus-la-red-social-con-limite/)
-- [El comando find de #GNU](https://victorhckinthefreeworld.com/2021/09/10/el-comando-find-de-gnu/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

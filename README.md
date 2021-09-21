@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [El comando shuf de #GNU](https://victorhckinthefreeworld.com/2021/09/21/el-comando-shuf-de-gnu/)
 - [El comando seq de #GNU](https://victorhckinthefreeworld.com/2021/09/20/el-comando-seq-de-gnu/)
 - [#openSUSE Tumbleweed revisión de las semanas 36 y 37 de 2021](https://victorhckinthefreeworld.com/2021/09/19/opensuse-tumbleweed-revision-de-las-semanas-36-y-37-de-2021/)
 - [El comando sleep de #GNU](https://victorhckinthefreeworld.com/2021/09/17/el-comando-sleep-de-gnu/)
 - [Lagrange un navegador para el protocolo Gemini](https://victorhckinthefreeworld.com/2021/09/16/lagrange-un-navegador-para-el-protocolo-gemini/)
-- [Curso de Vim: Eliminar las líneas que contengan un texto en #Vim](https://victorhckinthefreeworld.com/2021/09/15/eliminar-lineas-contengan-un-texto-vim/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

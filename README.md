@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 38 de 2021](https://victorhckinthefreeworld.com/2021/09/24/opensuse-tumbleweed-revision-de-la-semana-38-de-2021/)
 - [Un par de trucos con el portapapeles de Plasma de #KDE](https://victorhckinthefreeworld.com/2021/09/23/un-par-de-trucos-con-el-portapapeles-de-plasma-de-kde/)
 - [Curso de Vim: Añadir un nuevo resaltado de sintaxis en #Vim](https://victorhckinthefreeworld.com/2021/09/22/curso-de-vim-anadir-un-nuevo-resaltado-de-sintaxis-en-vim/)
 - [El comando shuf de #GNU](https://victorhckinthefreeworld.com/2021/09/21/el-comando-shuf-de-gnu/)
 - [El comando seq de #GNU](https://victorhckinthefreeworld.com/2021/09/20/el-comando-seq-de-gnu/)
-- [#openSUSE Tumbleweed revisión de las semanas 36 y 37 de 2021](https://victorhckinthefreeworld.com/2021/09/19/opensuse-tumbleweed-revision-de-las-semanas-36-y-37-de-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

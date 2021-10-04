@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Recopilación del boletín de noticias de la Free Software Foundation – octubre de 2021](https://victorhckinthefreeworld.com/2021/10/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-octubre-de-2021/)
 - [#openSUSE Tumbleweed revisión de la semana 39 de 2021](https://victorhckinthefreeworld.com/2021/10/01/opensuse-tumbleweed-revision-de-la-semana-39-de-2021/)
 - [Establecer un tema oscuro para YaST de #openSUSE en Plasma](https://victorhckinthefreeworld.com/2021/09/30/establecer-un-tema-oscuro-para-yast-de-opensuse-en-plasma/)
 - [Un concurso puesto en marcha por la #FSFE para promocionar el #softwarelibre entre la juventud](https://victorhckinthefreeworld.com/2021/09/28/un-concurso-puesto-en-marcha-por-la-fsfe-para-promocionar-el-softwarelibre-entre-la-juventud/)
 - [Las profecías del libro de Mozilla](https://victorhckinthefreeworld.com/2021/09/27/las-profecias-del-libro-de-mozilla/)
-- [Publicada la versión 9.0 de GNU core utilities](https://victorhckinthefreeworld.com/2021/09/25/publicada-la-version-9-0-de-gnu-core-utilities/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

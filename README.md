@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Un par de “huevos de pascua” en Python](https://victorhckinthefreeworld.com/2021/10/06/un-par-de-huevos-de-pascua-en-python/)
 - [¿Por qué la aplicación Gwenview de KDE tiene ese extraño nombre?](https://victorhckinthefreeworld.com/2021/10/05/por-que-la-aplicacion-gwenview-de-kde-tiene-ese-extrano-nombre/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – octubre de 2021](https://victorhckinthefreeworld.com/2021/10/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-octubre-de-2021/)
 - [#openSUSE Tumbleweed revisión de la semana 39 de 2021](https://victorhckinthefreeworld.com/2021/10/01/opensuse-tumbleweed-revision-de-la-semana-39-de-2021/)
 - [Establecer un tema oscuro para YaST de #openSUSE en Plasma](https://victorhckinthefreeworld.com/2021/09/30/establecer-un-tema-oscuro-para-yast-de-opensuse-en-plasma/)
-- [Un concurso puesto en marcha por la #FSFE para promocionar el #softwarelibre entre la juventud](https://victorhckinthefreeworld.com/2021/09/28/un-concurso-puesto-en-marcha-por-la-fsfe-para-promocionar-el-softwarelibre-entre-la-juventud/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

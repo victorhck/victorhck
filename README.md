@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de las semanas 40 y 41 de 2021](https://victorhckinthefreeworld.com/2021/10/15/opensuse-tumbleweed-revision-de-las-semanas-40-y-41-de-2021/)
 - [25 años de #KDE (mi visión personal)](https://victorhckinthefreeworld.com/2021/10/14/25-anos-de-kde-mi-vision-personal/)
 - [25 maneras de contribuir con la comunidad #KDE](https://victorhckinthefreeworld.com/2021/10/13/25-maneras-de-contribuir-con-la-comunidad-kde/)
 - [Los desarrolladores del editor nano publican la versión 5.9](https://victorhckinthefreeworld.com/2021/10/11/los-desarrolladores-del-editor-nano-publican-la-version-5-9/)
 - [Un par de “huevos de pascua” en Python](https://victorhckinthefreeworld.com/2021/10/06/un-par-de-huevos-de-pascua-en-python/)
-- [¿Por qué la aplicación Gwenview de KDE tiene ese extraño nombre?](https://victorhckinthefreeworld.com/2021/10/05/por-que-la-aplicacion-gwenview-de-kde-tiene-ese-extrano-nombre/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

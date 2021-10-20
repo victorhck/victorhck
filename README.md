@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Dona tu Raspberry Pi para colaborar con las campañas de GNU Health](https://victorhckinthefreeworld.com/2021/10/20/dona-tu-raspberry-pi-para-colaborar-con-las-campanas-de-gnu-health/)
 - [El comando comm de #GNU](https://victorhckinthefreeworld.com/2021/10/19/el-comando-comm-de-gnu/)
 - [Actualizaciones de las imágenes de #openSUSE Leap](https://victorhckinthefreeworld.com/2021/10/18/actualizaciones-de-las-imagenes-de-opensuse-leap/)
 - [#openSUSE Tumbleweed revisión de las semanas 40 y 41 de 2021](https://victorhckinthefreeworld.com/2021/10/15/opensuse-tumbleweed-revision-de-las-semanas-40-y-41-de-2021/)
 - [25 años de #KDE (mi visión personal)](https://victorhckinthefreeworld.com/2021/10/14/25-anos-de-kde-mi-vision-personal/)
-- [25 maneras de contribuir con la comunidad #KDE](https://victorhckinthefreeworld.com/2021/10/13/25-maneras-de-contribuir-con-la-comunidad-kde/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

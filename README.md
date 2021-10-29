@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 43 de 2021](https://victorhckinthefreeworld.com/2021/10/29/opensuse-tumbleweed-revision-de-la-semana-43-de-2021/)
 - [La comunidad de #openSUSE en español tiene nuevo foro](https://victorhckinthefreeworld.com/2021/10/28/la-comunidad-de-opensuse-en-espanol-tiene-nuevo-foro/)
 - [La privacidad como derecho y Tor como herramienta para obtenerla en la red](https://victorhckinthefreeworld.com/2021/10/25/la-privacidad-como-derecho-y-tor-como-herramienta-para-obtenerla-en-la-red/)
 - [#openSUSE Tumbleweed revisión de la semana 42 de 2021](https://victorhckinthefreeworld.com/2021/10/22/opensuse-tumbleweed-revision-de-la-semana-42-de-2021/)
 - [El comando uniq de #GNU](https://victorhckinthefreeworld.com/2021/10/21/el-comando-uniq-de-gnu/)
-- [Dona tu Raspberry Pi para colaborar con las campañas de GNU Health](https://victorhckinthefreeworld.com/2021/10/20/dona-tu-raspberry-pi-para-colaborar-con-las-campanas-de-gnu-health/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

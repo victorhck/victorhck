@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicada la primera actualización trimestral de Leap](https://victorhckinthefreeworld.com/2021/11/03/publicada-la-primera-actualizacion-trimestral-de-leap/)
 - [Jam chat de voz de software libre alternativa a Clubhouse o Spaces](https://victorhckinthefreeworld.com/2021/11/02/jam-chat-de-voz-de-software-libre-alternativa-a-clubhouse-o-spaces/)
 - [Introducción rápida del lenguaje de marcado para el protocolo Gemini](https://victorhckinthefreeworld.com/2021/11/01/introduccion-rapida-del-lenguaje-de-marcado-para-el-protocolo-gemini/)
 - [#openSUSE Tumbleweed revisión de la semana 43 de 2021](https://victorhckinthefreeworld.com/2021/10/29/opensuse-tumbleweed-revision-de-la-semana-43-de-2021/)
 - [La comunidad de #openSUSE en español tiene nuevo foro](https://victorhckinthefreeworld.com/2021/10/28/la-comunidad-de-opensuse-en-espanol-tiene-nuevo-foro/)
-- [La privacidad como derecho y Tor como herramienta para obtenerla en la red](https://victorhckinthefreeworld.com/2021/10/25/la-privacidad-como-derecho-y-tor-como-herramienta-para-obtenerla-en-la-red/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

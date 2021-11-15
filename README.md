@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Charlas sobre #softwarelibre en general y #KDE en Akademy-es 2021](https://victorhckinthefreeworld.com/2021/11/15/charlas-sobre-softwarelibre-en-general-y-kde-en-akademy-es-2021/)
 - [#openSUSE Tumbleweed revisión de la semana 45 de 2021](https://victorhckinthefreeworld.com/2021/11/12/opensuse-tumbleweed-revision-de-la-semana-45-de-2021/)
 - [Haz crecer un bonsai en la terminal de Linux](https://victorhckinthefreeworld.com/2021/11/11/haz-crecer-un-bonsai-en-la-terminal-de-linux/)
 - [Configuraciones alternativas del teclado con Plasma de KDE](https://victorhckinthefreeworld.com/2021/11/09/configuraciones-alternativas-del-teclado-con-plasma-de-kde/)
 - [Macchina muestra información de tu sistema GNU Linux](https://victorhckinthefreeworld.com/2021/11/08/macchina-muestra-informacion-de-tu-sistema-gnu-linux/)
-- [#openSUSE Tumbleweed revisión de la semana 44 de 2021](https://victorhckinthefreeworld.com/2021/11/05/opensuse-tumbleweed-revision-de-la-semana-44-de-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

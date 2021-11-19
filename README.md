@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 46 de 2021](https://victorhckinthefreeworld.com/2021/11/19/opensuse-tumbleweed-revision-de-la-semana-46-de-2021/)
 - [Curso de Vim: mostrar el commit que ha añadido la línea de un texto en #Vim](https://victorhckinthefreeworld.com/2021/11/17/mostrar-el-commit-que-ha-anadido-la-linea-de-un-texto-en-vim/)
 - [Charlas sobre #softwarelibre en general y #KDE en Akademy-es 2021](https://victorhckinthefreeworld.com/2021/11/15/charlas-sobre-softwarelibre-en-general-y-kde-en-akademy-es-2021/)
 - [#openSUSE Tumbleweed revisión de la semana 45 de 2021](https://victorhckinthefreeworld.com/2021/11/12/opensuse-tumbleweed-revision-de-la-semana-45-de-2021/)
 - [Haz crecer un bonsai en la terminal de Linux](https://victorhckinthefreeworld.com/2021/11/11/haz-crecer-un-bonsai-en-la-terminal-de-linux/)
-- [Configuraciones alternativas del teclado con Plasma de KDE](https://victorhckinthefreeworld.com/2021/11/09/configuraciones-alternativas-del-teclado-con-plasma-de-kde/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

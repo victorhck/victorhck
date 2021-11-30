@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Leap 15.4 ya en fase Alfa](https://victorhckinthefreeworld.com/2021/11/30/opensuse-leap-15-4-ya-en-fase-alfa/)
 - [Powerlevel10k como prompt para la shell zsh](https://victorhckinthefreeworld.com/2021/11/29/powerlevel10k-como-prompt-para-la-shell-zsh/)
 - [#openSUSE Tumbleweed revisión de la semana 47 de 2021](https://victorhckinthefreeworld.com/2021/11/26/opensuse-tumbleweed-revision-de-la-semana-47-de-2021/)
 - [Tide como prompt para la shell Fish](https://victorhckinthefreeworld.com/2021/11/25/tide-como-prompt-para-la-shell-fish/)
 - [#openSUSE Tumbleweed revisión de la semana 46 de 2021](https://victorhckinthefreeworld.com/2021/11/19/opensuse-tumbleweed-revision-de-la-semana-46-de-2021/)
-- [Curso de Vim: mostrar el commit que ha añadido la línea de un texto en #Vim](https://victorhckinthefreeworld.com/2021/11/17/mostrar-el-commit-que-ha-anadido-la-linea-de-un-texto-en-vim/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

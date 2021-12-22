@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Curso de Vim: corregir texto en el modo insertar mientras escribimos](https://victorhckinthefreeworld.com/2021/12/22/curso-de-vim-corregir-texto-en-el-modo-insertar-mientras-escribimos/)
 - [Bloquea un paquete de software en #openSUSE con zypper](https://victorhckinthefreeworld.com/2021/12/16/bloquea-un-paquete-de-software-en-opensuse-con-zypper/)
 - [#openSUSE Tumbleweed revisión de la semana 49 de 2021](https://victorhckinthefreeworld.com/2021/12/10/opensuse-tumbleweed-revision-de-la-semana-49-de-2021/)
 - [Prueba tus conocimientos de #Linux con este Wargame](https://victorhckinthefreeworld.com/2021/12/09/prueba-tus-conocimientos-de-linux-con-este-wargame/)
 - [Soy un boomer. Tengo un blog geek](https://victorhckinthefreeworld.com/2021/12/07/soy-un-boomer-tengo-un-blog-geek/)
-- [#openSUSE Tumbleweed revisión de la semana 48 de 2021](https://victorhckinthefreeworld.com/2021/12/03/opensuse-tumbleweed-revision-de-la-semana-48-de-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [La web está jodida](https://victorhckinthefreeworld.com/2021/12/30/la-web-esta-jodida/)
 - [Navegador Lagrange para Gemini ahora disponible para Android](https://victorhckinthefreeworld.com/2021/12/27/navegador-lagrange-para-gemini-ahora-disponible-para-android/)
 - [#openSUSE Tumbleweed revisión de la semana 50 y 51 de 2021](https://victorhckinthefreeworld.com/2021/12/24/opensuse-tumbleweed-revision-de-la-semana-50-y-51-de-2021/)
 - [Procno: un monitor de procesos para Linux](https://victorhckinthefreeworld.com/2021/12/23/procno-un-monitor-de-procesos-para-linux/)
 - [Curso de Vim: corregir texto en el modo insertar mientras escribimos](https://victorhckinthefreeworld.com/2021/12/22/curso-de-vim-corregir-texto-en-el-modo-insertar-mientras-escribimos/)
-- [Bloquea un paquete de software en #openSUSE con zypper](https://victorhckinthefreeworld.com/2021/12/16/bloquea-un-paquete-de-software-en-opensuse-con-zypper/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

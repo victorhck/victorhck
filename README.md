@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Recopilación del boletín de noticias de la Free Software Foundation – enero de 2022](https://victorhckinthefreeworld.com/2022/01/05/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-enero-de-2022/)
 - [Con Pi-hole bloquea la publicidad de internet en tu red](https://victorhckinthefreeworld.com/2022/01/03/con-pi-hole-bloquea-la-publicidad-de-internet-en-tu-red/)
 - [#openSUSE Tumbleweed revisión de la semana 52 de 2021](https://victorhckinthefreeworld.com/2021/12/31/opensuse-tumbleweed-revision-de-la-semana-52/)
 - [La web está jodida](https://victorhckinthefreeworld.com/2021/12/30/la-web-esta-jodida/)
 - [Navegador Lagrange para Gemini ahora disponible para Android](https://victorhckinthefreeworld.com/2021/12/27/navegador-lagrange-para-gemini-ahora-disponible-para-android/)
-- [#openSUSE Tumbleweed revisión de la semana 50 y 51 de 2021](https://victorhckinthefreeworld.com/2021/12/24/opensuse-tumbleweed-revision-de-la-semana-50-y-51-de-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Añadir nuevas listas de bloqueos en Pi-hole](https://victorhckinthefreeworld.com/2022/01/11/anadir-nuevas-listas-de-bloqueos-en-pi-hole/)
 - [git log para ver los cambios de un repositorio #git](https://victorhckinthefreeworld.com/2022/01/10/git-log-para-ver-los-cambios-de-un-repositorio-git/)
 - [#openSUSE Tumbleweed revisión de la semana 1 de 2022](https://victorhckinthefreeworld.com/2022/01/07/opensuse-tumbleweed-revision-de-la-semana-1-de-2022/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – enero de 2022](https://victorhckinthefreeworld.com/2022/01/05/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-enero-de-2022/)
 - [Con Pi-hole bloquea la publicidad de internet en tu red](https://victorhckinthefreeworld.com/2022/01/03/con-pi-hole-bloquea-la-publicidad-de-internet-en-tu-red/)
-- [#openSUSE Tumbleweed revisión de la semana 52 de 2021](https://victorhckinthefreeworld.com/2021/12/31/opensuse-tumbleweed-revision-de-la-semana-52/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

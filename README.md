@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Participa en la encuesta anual 2021 de la comunidad #openSUSE](https://victorhckinthefreeworld.com/2022/01/17/participa-en-la-encuesta-anual-2021-de-la-comunidad-opensuse/)
 - [#openSUSE Tumbleweed revisión de la semana 2 de 2022](https://victorhckinthefreeworld.com/2022/01/15/opensuse-tumbleweed-revision-de-la-semana-2-de-2022/)
 - [openSUSE Leap 15.2 llega al fin de soporte oficial](https://victorhckinthefreeworld.com/2022/01/14/opensuse-leap-15-2-llega-al-fin-de-soporte-oficial/)
 - [GNU Hello](https://victorhckinthefreeworld.com/2022/01/13/gnu-hello/)
 - [Personalizar el aspecto de la barra de pestañas en Konsole](https://victorhckinthefreeworld.com/2022/01/12/personalizar-el-aspecto-de-la-barra-de-pestanas-en-konsole/)
-- [Añadir nuevas listas de bloqueos en Pi-hole](https://victorhckinthefreeworld.com/2022/01/11/anadir-nuevas-listas-de-bloqueos-en-pi-hole/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

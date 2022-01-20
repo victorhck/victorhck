@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Abrir Konsole con unas pestañas predeterminadas](https://victorhckinthefreeworld.com/2022/01/20/abrir-konsole-con-unas-pestanas-predeterminadas/)
 - [Entrevista a Bram Moolenaar el creador de #Vim](https://victorhckinthefreeworld.com/2022/01/19/entrevista-a-bram-moolenaar-el-creador-de-vim/)
 - [Participa en la encuesta anual 2021 de la comunidad #openSUSE](https://victorhckinthefreeworld.com/2022/01/17/participa-en-la-encuesta-anual-2021-de-la-comunidad-opensuse/)
 - [#openSUSE Tumbleweed revisión de la semana 2 de 2022](https://victorhckinthefreeworld.com/2022/01/15/opensuse-tumbleweed-revision-de-la-semana-2-de-2022/)
 - [openSUSE Leap 15.2 llega al fin de soporte oficial](https://victorhckinthefreeworld.com/2022/01/14/opensuse-leap-15-2-llega-al-fin-de-soporte-oficial/)
-- [GNU Hello](https://victorhckinthefreeworld.com/2022/01/13/gnu-hello/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

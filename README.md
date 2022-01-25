@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Los Simpson le dan un toque de estilo a tu escritorio Plasma de #KDE](https://victorhckinthefreeworld.com/2022/01/25/los-simpson-le-dan-un-toque-de-estilo-a-tu-escritorio-plasma-de-kde/)
 - [Renovando el instalador YaST en openSUSE y SUSE](https://victorhckinthefreeworld.com/2022/01/24/renovando-el-instalador-yast-en-opensuse-y-suse/)
 - [#openSUSE Tumbleweed revisión de la semana 3 de 2022](https://victorhckinthefreeworld.com/2022/01/21/opensuse-tumbleweed-revision-de-la-semana-3-de-2022/)
 - [Abrir Konsole con unas pestañas predeterminadas](https://victorhckinthefreeworld.com/2022/01/20/abrir-konsole-con-unas-pestanas-predeterminadas/)
 - [Entrevista a Bram Moolenaar el creador de #Vim](https://victorhckinthefreeworld.com/2022/01/19/entrevista-a-bram-moolenaar-el-creador-de-vim/)
-- [Participa en la encuesta anual 2021 de la comunidad #openSUSE](https://victorhckinthefreeworld.com/2022/01/17/participa-en-la-encuesta-anual-2021-de-la-comunidad-opensuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

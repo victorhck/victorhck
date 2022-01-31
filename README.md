@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicada la versión 3.2.0 para el navegador Falkon de #KDE](https://victorhckinthefreeworld.com/2022/01/31/publicada-la-version-3-2-0-para-el-navegador-falkon-de-kde/)
 - [#openSUSE Tumbleweed revisión de la semana 4 de 2022](https://victorhckinthefreeworld.com/2022/01/29/opensuse-tumbleweed-revision-de-la-semana-4-de-2022/)
 - [Propuestas constitucionales para Chile en la era de la información](https://victorhckinthefreeworld.com/2022/01/28/propuestas-constitucionales-para-chile-en-la-era-de-la-informacion/)
 - [#openSUSE Leap 15.4 incluirá KDE Plasma 5.24 LTS](https://victorhckinthefreeworld.com/2022/01/27/opensuse-leap-15-4-incluira-kde-plasma-5-24-lts/)
 - [Los Simpson le dan un toque de estilo a tu escritorio Plasma de #KDE](https://victorhckinthefreeworld.com/2022/01/25/los-simpson-le-dan-un-toque-de-estilo-a-tu-escritorio-plasma-de-kde/)
-- [Renovando el instalador YaST en openSUSE y SUSE](https://victorhckinthefreeworld.com/2022/01/24/renovando-el-instalador-yast-en-opensuse-y-suse/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Recopilación del boletín de noticias de la Free Software Foundation – febrero de 2022](https://victorhckinthefreeworld.com/2022/02/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-febrero-de-2022/)
 - [Publicada Trisquel 10.0. Una distribución de GNU/Linux 100% libre](https://victorhckinthefreeworld.com/2022/02/02/publicada-trisquel-10-0-una-distribucion-de-gnu-linux-100-libre/)
 - [Curso de Vim: cómo buscar y reemplazar un texto en múltiples archivos con #Vim](https://victorhckinthefreeworld.com/2022/02/02/como-buscar-y-reemplazar-un-texto-en-multiples-archivos-con-vim/)
 - [Publicada la versión 3.2.0 para el navegador Falkon de #KDE](https://victorhckinthefreeworld.com/2022/01/31/publicada-la-version-3-2-0-para-el-navegador-falkon-de-kde/)
 - [#openSUSE Tumbleweed revisión de la semana 4 de 2022](https://victorhckinthefreeworld.com/2022/01/29/opensuse-tumbleweed-revision-de-la-semana-4-de-2022/)
-- [Propuestas constitucionales para Chile en la era de la información](https://victorhckinthefreeworld.com/2022/01/28/propuestas-constitucionales-para-chile-en-la-era-de-la-informacion/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

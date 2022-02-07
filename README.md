@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Solución al error: Unable to negotiate with  port 22: no matching host key type found. Their offer: ssh-rsa](https://victorhckinthefreeworld.com/2022/02/07/solucion-al-error-unable-to-negotiate-with-port-22-no-matching-host-key-type-found-their-offer-ssh-rsa/)
 - [Cómo insertar con el editor Kate la fecha y hora en un documento](https://victorhckinthefreeworld.com/2022/02/05/como-insertar-con-el-editor-kate-la-fecha-y-hora-en-un-documento/)
 - [Slackware 15.0 publicada después de 5 años desde la última versión](https://victorhckinthefreeworld.com/2022/02/04/slackware-15-0-publicada-despues-de-5-anos-desde-la-ultima-version/)
 - [#openSUSE Tumbleweed revisión de la semana 5 de 2022](https://victorhckinthefreeworld.com/2022/02/04/opensuse-tumbleweed-revision-de-la-semana-5-de-2022/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – febrero de 2022](https://victorhckinthefreeworld.com/2022/02/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-febrero-de-2022/)
-- [Publicada Trisquel 10.0. Una distribución de GNU/Linux 100% libre](https://victorhckinthefreeworld.com/2022/02/02/publicada-trisquel-10-0-una-distribucion-de-gnu-linux-100-libre/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Utilizar el compositor Picom en Plasma de KDE](https://victorhckinthefreeworld.com/2022/02/24/utilizar-el-compositor-picom-en-plasma-de-kde/)
 - [Timer como alternativa al comando sleep de #GNU](https://victorhckinthefreeworld.com/2022/02/22/timer-como-alternativa-al-comando-sleep-de-gnu/)
 - [Añadir en Thunderbird un calendario remoto](https://victorhckinthefreeworld.com/2022/02/21/anadir-en-thunderbird-un-calendario-remoto/)
 - [#openSUSE Tumbleweed revisión de la semana 7 de 2022](https://victorhckinthefreeworld.com/2022/02/19/opensuse-tumbleweed-revision-de-la-semana-7-de-2022/)
 - [EterTICs 12 software libre diseñado por y para radios comunitarias](https://victorhckinthefreeworld.com/2022/02/14/etertics-12-software-libre-disenado-por-y-para-radios-comunitarias/)
-- [#openSUSE Tumbleweed revisión de la semana 6 de 2022](https://victorhckinthefreeworld.com/2022/02/11/opensuse-tumbleweed-revision-de-la-semana-6-de-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

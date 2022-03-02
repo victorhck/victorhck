@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicada una nueva versión de Hyperbola GNU/Linux](https://victorhckinthefreeworld.com/2022/03/02/publicada-una-nueva-version-de-hyperbola-gnu-linux/)
 - [Puedes probar SUSE Linux Enterprise 15 service pack 4](https://victorhckinthefreeworld.com/2022/02/26/puedes-probar-suse-linux-enterprise-15-service-pack-4/)
 - [#openSUSE Tumbleweed revisión de la semana 8 de 2022](https://victorhckinthefreeworld.com/2022/02/25/opensuse-tumbleweed-revision-de-la-semana-8-de-2022/)
 - [Utilizar el compositor Picom en Plasma de KDE](https://victorhckinthefreeworld.com/2022/02/24/utilizar-el-compositor-picom-en-plasma-de-kde/)
 - [Timer como alternativa al comando sleep de #GNU](https://victorhckinthefreeworld.com/2022/02/22/timer-como-alternativa-al-comando-sleep-de-gnu/)
-- [Añadir en Thunderbird un calendario remoto](https://victorhckinthefreeworld.com/2022/02/21/anadir-en-thunderbird-un-calendario-remoto/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

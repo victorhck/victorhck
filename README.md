@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Amfora un navegador para el protocolo Gemini para la terminal de linux](https://victorhckinthefreeworld.com/2022/03/08/amfora-un-navegador-para-el-protocolo-gemini-para-la-terminal-de-linux/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – marzo de 2022](https://victorhckinthefreeworld.com/2022/03/07/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-marzo-de-2022/)
 - [#openSUSE Tumbleweed revisión de la semana 9 de 2022](https://victorhckinthefreeworld.com/2022/03/04/opensuse-tumbleweed-revision-de-la-semana-9-de-2022/)
 - [openSUSE Leap 15.4 beta disponible para descargar](https://victorhckinthefreeworld.com/2022/03/03/opensuse-leap-15-4-beta-disponible-para-descargar/)
 - [Publicada una nueva versión de Hyperbola GNU/Linux](https://victorhckinthefreeworld.com/2022/03/02/publicada-una-nueva-version-de-hyperbola-gnu-linux/)
-- [Puedes probar SUSE Linux Enterprise 15 service pack 4](https://victorhckinthefreeworld.com/2022/02/26/puedes-probar-suse-linux-enterprise-15-service-pack-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

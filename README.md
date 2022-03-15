@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [¿Cual fue la fecha de instalación de tu distribución de linux?](https://victorhckinthefreeworld.com/2022/03/15/cual-fue-la-fecha-de-instalacion-de-tu-distribucion-de-linux/)
 - [#openSUSE Tumbleweed revisión de la semana 10 de 2022](https://victorhckinthefreeworld.com/2022/03/11/opensuse-tumbleweed-revision-de-la-semana-10-de-2022/)
 - [La comunidad de #openSUSE quiere alertar sobre las amenazas de sistemas preinstalados en equipos informáticos](https://victorhckinthefreeworld.com/2022/03/10/la-comunidad-de-opensuse-quiere-alertar-sobre-las-amenazas-de-sistemas-preinstalados-en-equipos-informaticos/)
 - [Amfora un navegador para el protocolo Gemini para la terminal de linux](https://victorhckinthefreeworld.com/2022/03/08/amfora-un-navegador-para-el-protocolo-gemini-para-la-terminal-de-linux/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – marzo de 2022](https://victorhckinthefreeworld.com/2022/03/07/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-marzo-de-2022/)
-- [#openSUSE Tumbleweed revisión de la semana 9 de 2022](https://victorhckinthefreeworld.com/2022/03/04/opensuse-tumbleweed-revision-de-la-semana-9-de-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

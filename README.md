@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Parcheando el reproductor moc en openSUSE](https://victorhckinthefreeworld.com/2022/04/04/parcheando-el-reproductor-moc-en-opensuse/)
 - [#openSUSE Tumbleweed revisión de la semana 13 de 2022](https://victorhckinthefreeworld.com/2022/04/01/opensuse-tumbleweed-revision-de-la-semana-13-de-2022/)
 - [Evento en Burgos de la comunidad de Open Street Map](https://victorhckinthefreeworld.com/2022/03/26/evento-en-burgos-de-la-comunidad-de-open-street-map/)
 - [#openSUSE Tumbleweed revisión de la semana 12 de 2022](https://victorhckinthefreeworld.com/2022/03/25/opensuse-tumbleweed-revision-de-la-semana-12-de-2022/)
 - [#openSUSE Tumbleweed revisión de la semana 11 de 2022](https://victorhckinthefreeworld.com/2022/03/18/opensuse-tumbleweed-revision-de-la-semana-11-de-2022/)
-- [Personaliza el tema del GRUB de tu Linux con estos temas](https://victorhckinthefreeworld.com/2022/03/17/personaliza-el-tema-del-grub-de-tu-linux-con-estos-temas/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

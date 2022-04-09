@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [GNU Health declarado bien público digital](https://victorhckinthefreeworld.com/2022/04/09/gnu-health-declarado-bien-publico-digital/)
 - [#openSUSE Tumbleweed revisión de la semana 14 de 2022](https://victorhckinthefreeworld.com/2022/04/08/opensuse-tumbleweed-revision-de-la-semana-14-de-2022/)
 - [Merchandaising de openSUSE en freewear.org](https://victorhckinthefreeworld.com/2022/04/07/merchandaising-de-opensuse-en-freewear-org/)
 - [Primer programa informático con certificación ecológica: Okular, el popular lector de PDF de KDE](https://victorhckinthefreeworld.com/2022/04/06/primer-programa-informatico-con-certificacion-ecologica-okular-el-popular-lector-de-pdf-de-kde/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – abril de 2022](https://victorhckinthefreeworld.com/2022/04/05/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-abril-de-2022/)
-- [Parcheando el reproductor moc en openSUSE](https://victorhckinthefreeworld.com/2022/04/04/parcheando-el-reproductor-moc-en-opensuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

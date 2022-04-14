@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Graba todo lo que pasa tu terminal con los comando script y scriptreplay](https://victorhckinthefreeworld.com/2022/04/14/graba-todo-lo-que-pasa-tu-terminal-con-los-comando-script-y-scriptreplay/)
 - [Curso de Vim: establecer un tema aleatorio en Vim](https://victorhckinthefreeworld.com/2022/04/13/establecer-un-tema-aleatorio-en-vim/)
 - [GNU Health declarado bien público digital](https://victorhckinthefreeworld.com/2022/04/09/gnu-health-declarado-bien-publico-digital/)
 - [#openSUSE Tumbleweed revisión de la semana 14 de 2022](https://victorhckinthefreeworld.com/2022/04/08/opensuse-tumbleweed-revision-de-la-semana-14-de-2022/)
 - [Merchandaising de openSUSE en freewear.org](https://victorhckinthefreeworld.com/2022/04/07/merchandaising-de-opensuse-en-freewear-org/)
-- [Primer programa informático con certificación ecológica: Okular, el popular lector de PDF de KDE](https://victorhckinthefreeworld.com/2022/04/06/primer-programa-informatico-con-certificacion-ecologica-okular-el-popular-lector-de-pdf-de-kde/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Mastodon ya tiene APP oficial para Android](https://victorhckinthefreeworld.com/2022/04/20/mastodon-ya-tiene-app-oficial-para-android/)
 - [El proyecto GNU Guix cumple 10 años](https://victorhckinthefreeworld.com/2022/04/19/el-proyecto-gnu-guix-cumple-10-anos/)
 - [Graba todo lo que pasa tu terminal con los comando script y scriptreplay](https://victorhckinthefreeworld.com/2022/04/14/graba-todo-lo-que-pasa-tu-terminal-con-los-comando-script-y-scriptreplay/)
 - [Curso de Vim: establecer un tema aleatorio en Vim](https://victorhckinthefreeworld.com/2022/04/13/establecer-un-tema-aleatorio-en-vim/)
 - [GNU Health declarado bien público digital](https://victorhckinthefreeworld.com/2022/04/09/gnu-health-declarado-bien-publico-digital/)
-- [#openSUSE Tumbleweed revisión de la semana 14 de 2022](https://victorhckinthefreeworld.com/2022/04/08/opensuse-tumbleweed-revision-de-la-semana-14-de-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

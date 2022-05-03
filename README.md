@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Probando #openSUSE con 24H24L](https://victorhckinthefreeworld.com/2022/05/03/probando-opensuse-con-24h24l/)
 - [#openSUSE Tumbleweed revisión de la semana 17 de 2022](https://victorhckinthefreeworld.com/2022/04/29/opensuse-tumbleweed-revision-de-la-semana-17-de-2022/)
 - [Añadir el uptime del servidor en el panel admin de Pi-hole](https://victorhckinthefreeworld.com/2022/04/27/anadir-el-uptime-del-servidor-en-el-panel-admin-de-pi-hole/)
 - [La interfaz de Pi-hole no se me muestra correctamente](https://victorhckinthefreeworld.com/2022/04/25/la-interfaz-de-pi-hole-no-se-me-muestra-correctamente/)
 - [#openSUSE Tumbleweed revisión de las semanas 15 y 16 de 2022](https://victorhckinthefreeworld.com/2022/04/22/opensuse-tumbleweed-revision-de-las-semanas-15-y-16-de-2022/)
-- [Las sedes del FLISOL 2022 en España](https://victorhckinthefreeworld.com/2022/04/21/las-sedes-del-flisol-2022-en-espana/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

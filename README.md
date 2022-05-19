@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Vídeos de Richard Stallman en la primera Hackers Conference de 1984](https://victorhckinthefreeworld.com/2022/05/19/videos-de-richard-stallman-en-la-primera-hackers-conference-de-1984/)
 - [Congreso esLibre 2022 en Vigo](https://victorhckinthefreeworld.com/2022/05/18/congreso-eslibre-2022-en-vigo/)
 - [Disponible openSUSE Leap 15.4 RC](https://victorhckinthefreeworld.com/2022/05/17/disponible-opensuse-leap-15-4-rc/)
 - [5 lugares en los que encontrar tareas cron en Linux](https://victorhckinthefreeworld.com/2022/05/16/5-lugares-en-los-que-encontrar-tareas-cron-en-linux/)
 - [#openSUSE Tumbleweed revisión de la semana 19 de 2022](https://victorhckinthefreeworld.com/2022/05/14/opensuse-tumbleweed-revision-de-la-semana-19-de-2022/)
-- [#openSUSE Tumbleweed revisión de la semana 18 de 2022](https://victorhckinthefreeworld.com/2022/05/06/opensuse-tumbleweed-revision-de-la-semana-18-de-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

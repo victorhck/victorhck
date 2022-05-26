@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [El comando shutdown en Linux te permite programar el apagado o reinicio de tu equipo](https://victorhckinthefreeworld.com/2022/05/26/el-comando-shutdown-en-linux-te-permite-programar-el-apagado-o-reinicio-de-tu-equipo/)
 - [Sci-Hub elimina las barreras en el camino de la ciencia](https://victorhckinthefreeworld.com/2022/05/23/sci-hub-elimina-las-barreras-en-el-camino-de-la-ciencia/)
 - [Cómo renombrar una rama o borrar una rama en Git](https://victorhckinthefreeworld.com/2022/05/21/como-renombrar-una-rama-o-borrar-una-rama-en-git/)
 - [#openSUSE Tumbleweed revisión de la semana 20 de 2022](https://victorhckinthefreeworld.com/2022/05/20/opensuse-tumbleweed-revision-de-la-semana-20-de-2022/)
 - [Vídeos de Richard Stallman en la primera Hackers Conference de 1984](https://victorhckinthefreeworld.com/2022/05/19/videos-de-richard-stallman-en-la-primera-hackers-conference-de-1984/)
-- [Congreso esLibre 2022 en Vigo](https://victorhckinthefreeworld.com/2022/05/18/congreso-eslibre-2022-en-vigo/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

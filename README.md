@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicada la versión final de #openSUSE Leap 15.4](https://victorhckinthefreeworld.com/2022/06/08/publicada-la-version-final-de-opensuse-leap-15-4/)
 - [Script en bash que muestra el uptime de nuestro sistema](https://victorhckinthefreeworld.com/2022/06/06/script-en-bash-que-muestra-el-uptime-de-nuestro-sistema/)
 - [#openSUSE Tumbleweed revisión de las semanas 21 y 22 de 2022](https://victorhckinthefreeworld.com/2022/06/03/opensuse-tumbleweed-revision-de-las-semanas-21-y-22-de-2022/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – junio de 2022](https://victorhckinthefreeworld.com/2022/06/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-junio-de-2022/)
 - [Enviar un mensaje en Telegram cuando cambie tu IP pública](https://victorhckinthefreeworld.com/2022/06/01/enviar-un-mensaje-en-telegram-cuando-cambie-tu-ip-publica/)
-- [El comando shutdown en Linux te permite programar el apagado o reinicio de tu equipo](https://victorhckinthefreeworld.com/2022/05/26/el-comando-shutdown-en-linux-te-permite-programar-el-apagado-o-reinicio-de-tu-equipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

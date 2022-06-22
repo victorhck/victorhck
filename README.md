@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [10 atajos de teclados útiles para #Vim](https://victorhckinthefreeworld.com/2022/06/22/10-atajos-de-teclados-utiles-para-vim/)
 - [Usando funciones en la shell Fish en #Linux](https://victorhckinthefreeworld.com/2022/06/21/usando-funciones-en-la-shell-fish-en-linux/)
 - [#openSUSE Tumbleweed revisión de la semana 24 de 2022](https://victorhckinthefreeworld.com/2022/06/17/opensuse-tumbleweed-revision-de-la-semana-24-de-2022/)
 - [¿Qué es GNU Health? Su creador nos responde](https://victorhckinthefreeworld.com/2022/06/15/que-es-gnu-health-su-creador-nos-responde/)
 - [Disfrutar de YaST sin instalar YaST en openSUSE](https://victorhckinthefreeworld.com/2022/06/14/disfrutar-de-yast-sin-instalar-yast-en-opensuse/)
-- [#openSUSE Tumbleweed revisión de la semana 23 de 2022](https://victorhckinthefreeworld.com/2022/06/11/opensuse-tumbleweed-revision-de-la-semana-23-de-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Algunos trucos útiles de uso del paginador less](https://victorhckinthefreeworld.com/2022/06/30/algunos-trucos-utiles-de-uso-del-paginador-less/)
 - [Pisa a fondo el pedal con el editor #Vim](https://victorhckinthefreeworld.com/2022/06/29/pisa-a-fondo-el-pedal-con-el-editor-vim/)
 - [#openSUSE Tumbleweed revisión de la semana 25 de 2022](https://victorhckinthefreeworld.com/2022/06/27/opensuse-tumbleweed-revision-de-la-semana-25-de-2022/)
 - [10 atajos de teclados útiles para #Vim](https://victorhckinthefreeworld.com/2022/06/22/10-atajos-de-teclados-utiles-para-vim/)
 - [Usando funciones en la shell Fish en #Linux](https://victorhckinthefreeworld.com/2022/06/21/usando-funciones-en-la-shell-fish-en-linux/)
-- [#openSUSE Tumbleweed revisión de la semana 24 de 2022](https://victorhckinthefreeworld.com/2022/06/17/opensuse-tumbleweed-revision-de-la-semana-24-de-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

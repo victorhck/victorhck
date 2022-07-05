@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [¿Qué hacer después de instalar #openSUSE Leap 15.4?](https://victorhckinthefreeworld.com/2022/07/05/que-hacer-despues-de-instalar-opensuse-leap-15-4/)
 - [Publicado #Vim 9.0](https://victorhckinthefreeworld.com/2022/07/04/publicado-vim-9-0/)
 - [#openSUSE Tumbleweed revisión de la semana 26 de 2022](https://victorhckinthefreeworld.com/2022/07/01/opensuse-tumbleweed-revision-de-la-semana-26-de-2022/)
 - [Algunos trucos útiles de uso del paginador less](https://victorhckinthefreeworld.com/2022/06/30/algunos-trucos-utiles-de-uso-del-paginador-less/)
 - [Pisa a fondo el pedal con el editor #Vim](https://victorhckinthefreeworld.com/2022/06/29/pisa-a-fondo-el-pedal-con-el-editor-vim/)
-- [#openSUSE Tumbleweed revisión de la semana 25 de 2022](https://victorhckinthefreeworld.com/2022/06/27/opensuse-tumbleweed-revision-de-la-semana-25-de-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

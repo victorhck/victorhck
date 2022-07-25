@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [El responsable de Latte Dock deja el proyecto](https://victorhckinthefreeworld.com/2022/07/25/el-responsable-de-latte-dock-deja-el-proyecto/)
 - [Migrar un repositorio git de GitHub a Codeberg](https://victorhckinthefreeworld.com/2022/07/19/migrar-un-repositorio-git-de-github-a-codeberg/)
 - [#openSUSE Tumbleweed revisión de la semana 28 de 2022](https://victorhckinthefreeworld.com/2022/07/15/opensuse-tumbleweed-revision-de-la-semana-28-de-2022/)
 - [Impedir que Akonadi de KDE abra procesos en nuestro sistema](https://victorhckinthefreeworld.com/2022/07/14/impedir-que-akonadi-de-kde-abra-procesos-en-nuestro-sistema/)
 - [Script en Bash que muestra el Top10 de procesos que consumen RAM y CPU](https://victorhckinthefreeworld.com/2022/07/11/script-en-bash-que-muestra-el-top10-de-procesos-que-consumen-ram-y-cpu/)
-- [#openSUSE Tumbleweed revisión de la semana 27 de 2022](https://victorhckinthefreeworld.com/2022/07/08/opensuse-tumbleweed-revision-de-la-semana-27-de-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

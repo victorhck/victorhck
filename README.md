@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft loves «open source» solo cuando puede sacar provecho](https://victorhckinthefreeworld.com/2022/07/27/microsoft-loves-open-source-solo-cuando-puede-sacar-provecho/)
 - [Scripts para subir texto o imágenes al servicio susepaste](https://victorhckinthefreeworld.com/2022/07/26/scripts-para-subir-texto-o-imagenes-al-servicio-susepaste/)
 - [El responsable de Latte Dock deja el proyecto](https://victorhckinthefreeworld.com/2022/07/25/el-responsable-de-latte-dock-deja-el-proyecto/)
 - [Migrar un repositorio git de GitHub a Codeberg](https://victorhckinthefreeworld.com/2022/07/19/migrar-un-repositorio-git-de-github-a-codeberg/)
 - [#openSUSE Tumbleweed revisión de la semana 28 de 2022](https://victorhckinthefreeworld.com/2022/07/15/opensuse-tumbleweed-revision-de-la-semana-28-de-2022/)
-- [Impedir que Akonadi de KDE abra procesos en nuestro sistema](https://victorhckinthefreeworld.com/2022/07/14/impedir-que-akonadi-de-kde-abra-procesos-en-nuestro-sistema/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

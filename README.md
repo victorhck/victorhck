@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de las semanas 29, 30 y 31 de 2022](https://victorhckinthefreeworld.com/2022/08/05/opensuse-tumbleweed-revision-de-las-semanas-29-30-y-31-de-2022/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2022](https://victorhckinthefreeworld.com/2022/08/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2022/)
 - [El comando locate de GNU](https://victorhckinthefreeworld.com/2022/07/28/el-comando-locate-de-gnu/)
 - [Microsoft loves «open source» solo cuando puede sacar provecho](https://victorhckinthefreeworld.com/2022/07/27/microsoft-loves-open-source-solo-cuando-puede-sacar-provecho/)
 - [Scripts para subir texto o imágenes al servicio susepaste](https://victorhckinthefreeworld.com/2022/07/26/scripts-para-subir-texto-o-imagenes-al-servicio-susepaste/)
-- [El responsable de Latte Dock deja el proyecto](https://victorhckinthefreeworld.com/2022/07/25/el-responsable-de-latte-dock-deja-el-proyecto/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

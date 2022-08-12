@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 32 de 2022](https://victorhckinthefreeworld.com/2022/08/12/opensuse-tumbleweed-revision-de-la-semana-32-de-2022/)
 - [openSUSE planea retirar el soporte al sistema de archivos reiserfs](https://victorhckinthefreeworld.com/2022/08/11/opensuse-planea-retirar-el-soporte-al-sistema-de-archivos-reiserfs/)
 - [Celebra los 17 años de openSUSE con la comunidad](https://victorhckinthefreeworld.com/2022/08/09/celebra-los-17-anos-de-opensuse-con-la-comunidad/)
 - [#openSUSE Tumbleweed revisión de las semanas 29, 30 y 31 de 2022](https://victorhckinthefreeworld.com/2022/08/05/opensuse-tumbleweed-revision-de-las-semanas-29-30-y-31-de-2022/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2022](https://victorhckinthefreeworld.com/2022/08/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2022/)
-- [El comando locate de GNU](https://victorhckinthefreeworld.com/2022/07/28/el-comando-locate-de-gnu/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

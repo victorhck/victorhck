@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [El proyecto GNOME publica una herramienta de telemetría para mejorar su escritorio](https://victorhckinthefreeworld.com/2022/08/29/el-proyecto-gnome-publica-una-herramienta-de-telemetria-para-mejorar-su-escritorio/)
 - [#openSUSE Tumbleweed revisión de la semana 34 de 2022](https://victorhckinthefreeworld.com/2022/08/26/opensuse-tumbleweed-revision-de-la-semana-34-de-2022/)
 - [Unos pequeños trucos con el cursor en tu terminal con estos scripts](https://victorhckinthefreeworld.com/2022/08/22/unos-pequenos-trucos-con-el-cursor-en-tu-terminal-con-estos-scripts/)
 - [Moodle cumple 20 años](https://victorhckinthefreeworld.com/2022/08/20/moodle-cumple-20-anos/)
 - [#openSUSE Tumbleweed revisión de la semana 33 de 2022](https://victorhckinthefreeworld.com/2022/08/19/opensuse-tumbleweed-revision-de-la-semana-33-de-2022/)
-- [¿Un ataque al software libre? El caso de Tornado Cash](https://victorhckinthefreeworld.com/2022/08/15/un-ataque-al-software-libre-el-caso-de-tornado-cash/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

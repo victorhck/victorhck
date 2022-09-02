@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 35 de 2022](https://victorhckinthefreeworld.com/2022/09/02/opensuse-tumbleweed-revision-de-la-semana-35-de-2022/)
 - [Participa en el concurso Wiki loves monuments con tus fotografías](https://victorhckinthefreeworld.com/2022/09/01/participa-en-el-concurso-wiki-loves-monuments-con-tus-fotografias/)
 - [Cómo abrir división de pantalla en Vim con un archivo en blanco o con un archivo específico](https://victorhckinthefreeworld.com/2022/08/31/como-abrir-division-de-pantalla-en-vim-con-un-archivo-en-blanco-o-con-un-archivo-especifico/)
 - [La comunidad de KDE España y KDE Internacional se reunirán en Barcelona este 2022](https://victorhckinthefreeworld.com/2022/08/30/la-comunidad-de-kde-espana-y-kde-internacional-se-reuniran-en-barcelona-este-2022/)
 - [El proyecto GNOME publica una herramienta de telemetría para mejorar su escritorio](https://victorhckinthefreeworld.com/2022/08/29/el-proyecto-gnome-publica-una-herramienta-de-telemetria-para-mejorar-su-escritorio/)
-- [#openSUSE Tumbleweed revisión de la semana 34 de 2022](https://victorhckinthefreeworld.com/2022/08/26/opensuse-tumbleweed-revision-de-la-semana-34-de-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 36 de 2022](https://victorhckinthefreeworld.com/2022/09/10/opensuse-tumbleweed-revision-de-la-semana-36-de-2022/)
 - [Capturar imágenes con tu webcam desde la terminal en Linux con fswebcam](https://victorhckinthefreeworld.com/2022/09/08/capturar-imagenes-con-tu-webcam-desde-la-terminal-en-linux-con-fswebcam/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – septiembre de 2022](https://victorhckinthefreeworld.com/2022/09/05/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-septiembre-de-2022/)
 - [¡SUSE cumple 30 años!](https://victorhckinthefreeworld.com/2022/09/02/suse-cumple-30-anos/)
 - [#openSUSE Tumbleweed revisión de la semana 35 de 2022](https://victorhckinthefreeworld.com/2022/09/02/opensuse-tumbleweed-revision-de-la-semana-35-de-2022/)
-- [Participa en el concurso Wiki loves monuments con tus fotografías](https://victorhckinthefreeworld.com/2022/09/01/participa-en-el-concurso-wiki-loves-monuments-con-tus-fotografias/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

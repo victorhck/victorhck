@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [3 formas de utilizar el comando inxi en GNU/Linux](https://victorhckinthefreeworld.com/2022/09/20/3-formas-de-utilizar-el-comando-inxi-en-gnu-linux/)
 - [Convertir archivos en Markdown a PDF con Okular](https://victorhckinthefreeworld.com/2022/09/19/convertir-archivos-en-markdown-a-pdf-con-okular/)
 - [#openSUSE Tumbleweed revisión de la semana 37 de 2022](https://victorhckinthefreeworld.com/2022/09/16/opensuse-tumbleweed-revision-de-la-semana-37-de-2022/)
 - [Comparar diferencias de archivos con vimdiff](https://victorhckinthefreeworld.com/2022/09/15/comparar-diferencias-de-archivos-con-vimdiff/)
 - [#openSUSE Tumbleweed revisión de la semana 36 de 2022](https://victorhckinthefreeworld.com/2022/09/10/opensuse-tumbleweed-revision-de-la-semana-36-de-2022/)
-- [Capturar imágenes con tu webcam desde la terminal en Linux con fswebcam](https://victorhckinthefreeworld.com/2022/09/08/capturar-imagenes-con-tu-webcam-desde-la-terminal-en-linux-con-fswebcam/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

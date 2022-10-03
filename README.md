@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [¿Cómo enviar un informe de un «bug» en KDE? Ahora es más sencillo](https://victorhckinthefreeworld.com/2022/10/03/como-enviar-un-informe-de-un-bug-en-kde-ahora-es-mas-sencillo/)
 - [#openSUSE Tumbleweed revisión de la semana 39 de 2022](https://victorhckinthefreeworld.com/2022/10/01/opensuse-tumbleweed-revision-de-la-semana-39-de-2022/)
 - [Programa de charlas de Akademy-es y Akademy 2022](https://victorhckinthefreeworld.com/2022/09/26/programa-de-charlas-de-akademy-es-y-akademy-2022/)
 - [#openSUSE Tumbleweed revisión de la semana 38 de 2022](https://victorhckinthefreeworld.com/2022/09/23/opensuse-tumbleweed-revision-de-la-semana-38-de-2022/)
 - [Tres maneras de abrir programas en Plasma de KDE sin usar el ratón](https://victorhckinthefreeworld.com/2022/09/21/tres-maneras-de-abrir-programas-en-plasma-de-kde-sin-usar-el-raton/)
-- [3 formas de utilizar el comando inxi en GNU/Linux](https://victorhckinthefreeworld.com/2022/09/20/3-formas-de-utilizar-el-comando-inxi-en-gnu-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

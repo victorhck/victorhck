@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [7 hábitos para una edición de texto más eficiente con el editor Vim](https://victorhckinthefreeworld.com/2022/10/05/7-habitos-para-una-edicion-de-texto-mas-eficiente-con-el-editor-vim/)
 - [¡El primer prototipo de Adaptable Linux Platform &lpar;ALP&rpar; ya está disponible!](https://victorhckinthefreeworld.com/2022/10/04/el-primer-prototipo-de-adaptable-linux-platform-alp-ya-esta-disponible/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – octubre de 2022](https://victorhckinthefreeworld.com/2022/10/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-octubre-de-2022/)
 - [¿Cómo enviar un informe de un «bug» en KDE? Ahora es más sencillo](https://victorhckinthefreeworld.com/2022/10/03/como-enviar-un-informe-de-un-bug-en-kde-ahora-es-mas-sencillo/)
 - [#openSUSE Tumbleweed revisión de la semana 39 de 2022](https://victorhckinthefreeworld.com/2022/10/01/opensuse-tumbleweed-revision-de-la-semana-39-de-2022/)
-- [Programa de charlas de Akademy-es y Akademy 2022](https://victorhckinthefreeworld.com/2022/09/26/programa-de-charlas-de-akademy-es-y-akademy-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

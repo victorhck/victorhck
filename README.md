@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Cómo escribir en Vim caracteres unicode que no existen en el teclado](https://victorhckinthefreeworld.com/2022/10/12/como-escribir-en-vim-caracteres-unicode-que-no-existen-en-el-teclado/)
 - [Kmon una herramienta para gestionar los módulos del kernel #Linux](https://victorhckinthefreeworld.com/2022/10/11/kmon-una-herramienta-para-gestionar-los-modulos-del-kernel-linux/)
 - [Unos cuantos trucos para la shell fish que quizás no conocías](https://victorhckinthefreeworld.com/2022/10/06/unos-cuantos-trucos-para-la-shell-fish-que-quizas-no-conocias/)
 - [7 hábitos para una edición de texto más eficiente con el editor Vim](https://victorhckinthefreeworld.com/2022/10/05/7-habitos-para-una-edicion-de-texto-mas-eficiente-con-el-editor-vim/)
 - [¡El primer prototipo de Adaptable Linux Platform &lpar;ALP&rpar; ya está disponible!](https://victorhckinthefreeworld.com/2022/10/04/el-primer-prototipo-de-adaptable-linux-platform-alp-ya-esta-disponible/)
-- [Recopilación del boletín de noticias de la Free Software Foundation – octubre de 2022](https://victorhckinthefreeworld.com/2022/10/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-octubre-de-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

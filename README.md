@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Campañas médicas solidadrias con software libre: openSUSE + GNU Health](https://victorhckinthefreeworld.com/2022/10/20/campanas-medicas-solidadrias-con-software-libre-opensuse-gnu-health/)
 - [Chaos Computer Club ahorra al sistema sanitario 400 millones de euros](https://victorhckinthefreeworld.com/2022/10/16/chaos-computer-club-ahorra-al-sistema-sanitario-400-millones-de-euros/)
 - [#openSUSE Tumbleweed revisión de las semanas 40 y 41 de 2022](https://victorhckinthefreeworld.com/2022/10/14/opensuse-tumbleweed-revision-de-las-semanas-40-y-41-de-2022/)
 - [Cómo escribir en Vim caracteres unicode que no existen en el teclado](https://victorhckinthefreeworld.com/2022/10/12/como-escribir-en-vim-caracteres-unicode-que-no-existen-en-el-teclado/)
 - [Kmon una herramienta para gestionar los módulos del kernel #Linux](https://victorhckinthefreeworld.com/2022/10/11/kmon-una-herramienta-para-gestionar-los-modulos-del-kernel-linux/)
-- [Unos cuantos trucos para la shell fish que quizás no conocías](https://victorhckinthefreeworld.com/2022/10/06/unos-cuantos-trucos-para-la-shell-fish-que-quizas-no-conocias/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

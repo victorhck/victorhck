@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [El gestor de ventanas iceWM publica la versión 3.2.0](https://victorhckinthefreeworld.com/2022/11/03/el-gestor-de-ventanas-icewm-publica-la-version-3-2-0/)
 - [Mostrar el recuento de carpetas y archivos en la terminal](https://victorhckinthefreeworld.com/2022/11/02/mostrar-el-recuento-de-carpetas-y-archivos-en-la-terminal/)
 - [El comando tree en GNU/Linux](https://victorhckinthefreeworld.com/2022/10/31/el-comando-tree-en-gnu-linux/)
 - [#openSUSE Tumbleweed revisión de la semana 43 de 2022](https://victorhckinthefreeworld.com/2022/10/28/opensuse-tumbleweed-revision-de-la-semana-43-de-2022/)
 - [Ayuda a testear el nuevo instalador de YaST de openSUSE y SUSE](https://victorhckinthefreeworld.com/2022/10/27/ayuda-a-testear-el-nuevo-instalador-de-yast-de-opensuse-y-suse/)
-- [Utilizando las sesiones en el editor Kate](https://victorhckinthefreeworld.com/2022/10/25/utilizando-las-sesiones-en-el-editor-kate/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

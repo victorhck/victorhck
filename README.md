@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Solución al Problema con sudo en openSUSE Tumbleweed](https://victorhckinthefreeworld.com/2022/11/05/solucion-problema-sudo-opensuse-tumbleweed/)
 - [#openSUSE Tumbleweed revisión de la semana 44 de 2022](https://victorhckinthefreeworld.com/2022/11/04/opensuse-tumbleweed-revision-de-la-semana-44-de-2022/)
 - [El gestor de ventanas iceWM publica la versión 3.2.0](https://victorhckinthefreeworld.com/2022/11/03/el-gestor-de-ventanas-icewm-publica-la-version-3-2-0/)
 - [Mostrar el recuento de carpetas y archivos en la terminal](https://victorhckinthefreeworld.com/2022/11/02/mostrar-el-recuento-de-carpetas-y-archivos-en-la-terminal/)
 - [El comando tree en GNU/Linux](https://victorhckinthefreeworld.com/2022/10/31/el-comando-tree-en-gnu-linux/)
-- [#openSUSE Tumbleweed revisión de la semana 43 de 2022](https://victorhckinthefreeworld.com/2022/10/28/opensuse-tumbleweed-revision-de-la-semana-43-de-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

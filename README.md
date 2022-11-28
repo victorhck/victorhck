@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Webminars de la asociación Dédalo sobre la Semana del software libre](https://victorhckinthefreeworld.com/2022/11/28/webminars-de-la-asociacion-dedalo-sobre-la-semana-del-software-libre/)
 - [#openSUSE Tumbleweed revisión de la semana 47 de 2022](https://victorhckinthefreeworld.com/2022/11/26/opensuse-tumbleweed-revision-de-la-semana-47-de-2022/)
 - [#openSUSE Tumbleweed revisión de la semana 46 de 2022](https://victorhckinthefreeworld.com/2022/11/18/opensuse-tumbleweed-revision-de-la-semana-46-de-2022/)
 - [Gestiona tus marcadores en GNU/Linux con unas sencillas herramientas](https://victorhckinthefreeworld.com/2022/11/16/gestiona-tus-marcadores-en-gnu-linux-con-unas-sencillas-herramientas/)
 - [Software libre de KDE para creadores gráficos](https://victorhckinthefreeworld.com/2022/11/14/software-libre-de-kde-para-creadores-graficos/)
-- [#openSUSE Tumbleweed revisión de la semana 45 de 2022](https://victorhckinthefreeworld.com/2022/11/12/opensuse-tumbleweed-revision-de-la-semana-45-de-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

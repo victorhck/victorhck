@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
-- [Recopilación del boletín de noticias de la Free Software Foundation – noviembre de 2022](https://victorhckinthefreeworld.com/2022/12/06/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-noviembre-de-2022-2/)
+- [Recopilación del boletín de noticias de la Free Software Foundation – diciembre de 2022](https://victorhckinthefreeworld.com/2022/12/06/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-diciembre-de-2022/)
 - [Los foros oficiales de openSUSE migrarán de vBulletin a Discourse](https://victorhckinthefreeworld.com/2022/12/05/los-foros-oficiales-de-opensuse-migraran-de-vbulletin-a-discourse/)
 - [#openSUSE Tumbleweed revisión de la semana 48 de 2022](https://victorhckinthefreeworld.com/2022/12/02/opensuse-tumbleweed-revision-de-la-semana-48-de-2022/)
 - [Trabaja en KDE](https://victorhckinthefreeworld.com/2022/11/30/trabaja-en-kde/)

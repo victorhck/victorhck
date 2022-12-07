@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Traducción del libro «El programador mediocre»](https://victorhckinthefreeworld.com/2022/12/07/traduccion-del-libro-el-programador-mediocre/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – diciembre de 2022](https://victorhckinthefreeworld.com/2022/12/06/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-diciembre-de-2022/)
 - [Los foros oficiales de openSUSE migrarán de vBulletin a Discourse](https://victorhckinthefreeworld.com/2022/12/05/los-foros-oficiales-de-opensuse-migraran-de-vbulletin-a-discourse/)
 - [#openSUSE Tumbleweed revisión de la semana 48 de 2022](https://victorhckinthefreeworld.com/2022/12/02/opensuse-tumbleweed-revision-de-la-semana-48-de-2022/)
 - [Trabaja en KDE](https://victorhckinthefreeworld.com/2022/11/30/trabaja-en-kde/)
-- [Webminars de la asociación Dédalo sobre la Semana del software libre](https://victorhckinthefreeworld.com/2022/11/28/webminars-de-la-asociacion-dedalo-sobre-la-semana-del-software-libre/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

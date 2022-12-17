@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 50 de 2022](https://victorhckinthefreeworld.com/2022/12/17/opensuse-tumbleweed-revision-de-la-semana-50-de-2022/)
 - [Día internacional contra el DRM #FreedomtoShare #DayAgainstDRM.](https://victorhckinthefreeworld.com/2022/12/16/dia-internacional-contra-el-drm-2022/)
 - [El libro «El programador mediocre» disponible en formatos epub, PDF y html](https://victorhckinthefreeworld.com/2022/12/14/el-libro-el-programador-mediocre-disponible-en-epub-pdf-y-html/)
 - [El programador mediocre ya tiene portada también en español](https://victorhckinthefreeworld.com/2022/12/12/el-programador-mediocre-ya-tiene-portada-tambien-en-espanol/)
 - [#openSUSE Tumbleweed revisión de la semana 49 de 2022](https://victorhckinthefreeworld.com/2022/12/10/opensuse-tumbleweed-revision-de-la-semana-49-de-2022/)
-- [Traducción del libro «El programador mediocre»](https://victorhckinthefreeworld.com/2022/12/07/traduccion-del-libro-el-programador-mediocre/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

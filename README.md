@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Forgejo un reeplazo comunitario para Gitea](https://victorhckinthefreeworld.com/2022/12/27/forgejo-un-reeplazo-comunitario-para-gitea/)
 - [Blender vuelve a la carga con un nuevo corto](https://victorhckinthefreeworld.com/2022/12/26/blender-vuelve-a-la-carga-con-un-nuevo-corto/)
 - [#openSUSE Tumbleweed revisión de la semana 51 de 2022](https://victorhckinthefreeworld.com/2022/12/23/opensuse-tumbleweed-revision-de-la-semana-51-de-2022/)
 - [Disponible el segundo prototipo de Adaptable Linux Platform &lpar;ALP&rpar;](https://victorhckinthefreeworld.com/2022/12/22/disponible-el-segundo-prototipo-de-adaptable-linux-platform-alp/)
 - [#openSUSE Tumbleweed revisión de la semana 50 de 2022](https://victorhckinthefreeworld.com/2022/12/17/opensuse-tumbleweed-revision-de-la-semana-50-de-2022/)
-- [Día internacional contra el DRM #FreedomtoShare #DayAgainstDRM.](https://victorhckinthefreeworld.com/2022/12/16/dia-internacional-contra-el-drm-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

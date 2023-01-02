@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Las novedades en el editor Kate de KDE](https://victorhckinthefreeworld.com/2023/01/02/las-novedades-en-el-editor-kate-de-kde/)
 - [#openSUSE Tumbleweed revisión de la semana 52 de 2022](https://victorhckinthefreeworld.com/2022/12/30/opensuse-tumbleweed-revision-de-la-semana-52-de-2022/)
 - [Forgejo un reeplazo comunitario para Gitea](https://victorhckinthefreeworld.com/2022/12/27/forgejo-un-reeplazo-comunitario-para-gitea/)
 - [Blender vuelve a la carga con un nuevo corto](https://victorhckinthefreeworld.com/2022/12/26/blender-vuelve-a-la-carga-con-un-nuevo-corto/)
 - [#openSUSE Tumbleweed revisión de la semana 51 de 2022](https://victorhckinthefreeworld.com/2022/12/23/opensuse-tumbleweed-revision-de-la-semana-51-de-2022/)
-- [Disponible el segundo prototipo de Adaptable Linux Platform &lpar;ALP&rpar;](https://victorhckinthefreeworld.com/2022/12/22/disponible-el-segundo-prototipo-de-adaptable-linux-platform-alp/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

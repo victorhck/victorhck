@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [openSUSE Leap 15.3 llega a su fin de soporte](https://victorhckinthefreeworld.com/2023/01/16/opensuse-leap-15-3-llega-a-su-fin-de-soporte/)
 - [#openSUSE Tumbleweed revisión de la semana 2 de 2023](https://victorhckinthefreeworld.com/2023/01/13/opensuse-tumbleweed-revision-de-la-semana-2-de-2023/)
 - [10 años sin Aaron Swartz, pero su legado sigue vivo](https://victorhckinthefreeworld.com/2023/01/11/10-anos-sin-aaron-swartz-pero-su-legado-sigue-vivo/)
 - [La supercomutadora más rápida del mundo ejecuta SUSE Linux Enterprise Server](https://victorhckinthefreeworld.com/2023/01/09/la-supercomutadora-mas-rapida-del-mundo-ejecuta-suse-linux-enterprise-server/)
 - [#openSUSE Tumbleweed revisión de la semana 1 de 2023](https://victorhckinthefreeworld.com/2023/01/06/opensuse-tumbleweed-revision-de-la-semana-1-de-2023/)
-- [Recopilación del boletín de noticias de la Free Software Foundation – enero de 2023](https://victorhckinthefreeworld.com/2023/01/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-enero-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

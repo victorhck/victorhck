@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Entrevista exclusiva a Mercé Molist, autora del libro hackstory](https://victorhckinthefreeworld.com/2023/02/01/entrevista-exclusiva-a-merce-molist-autora-del-libro-hackstory/)
 - [¿Cuanto sabes de GNU/Linux? Ponte a prueba](https://victorhckinthefreeworld.com/2023/01/30/cuanto-sabes-de-gnu-linux-ponte-a-prueba/)
 - [#openSUSE Tumbleweed revisión de la semana 4 de 2023](https://victorhckinthefreeworld.com/2023/01/27/opensuse-tumbleweed-revision-de-la-semana-4-de-2023/)
 - [Breve historia del comando ls de GNU](https://victorhckinthefreeworld.com/2023/01/23/breve-historia-del-comando-ls-de-gnu/)
 - [#openSUSE Tumbleweed revisión de la semana 3 de 2023](https://victorhckinthefreeworld.com/2023/01/20/opensuse-tumbleweed-revision-de-la-semana-3-de-2023/)
-- [openSUSE Leap 15.3 llega a su fin de soporte](https://victorhckinthefreeworld.com/2023/01/16/opensuse-leap-15-3-llega-a-su-fin-de-soporte/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

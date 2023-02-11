@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 6 de 2023](https://victorhckinthefreeworld.com/2023/02/11/opensuse-tumbleweed-revision-de-la-semana-6-de-2023/)
 - [El futuro del cliente de correo Thunderbird](https://victorhckinthefreeworld.com/2023/02/10/el-futuro-del-cliente-de-correo-thunderbird/)
 - [Entrevista a un artista que usa Linux y software libre para crear su arte](https://victorhckinthefreeworld.com/2023/02/08/entrevista-a-un-artista-que-usa-linux-y-software-libre-para-crear-su-arte/)
 - [Concurso de imagen para la pantalla «Acerca de» de Inkscape 1.3](https://victorhckinthefreeworld.com/2023/02/06/concurso-de-imagen-para-la-pantalla-acerca-de-de-inkscape-1-3/)
 - [#openSUSE Tumbleweed revisión de la semana 5 de 2023](https://victorhckinthefreeworld.com/2023/02/03/opensuse-tumbleweed-revision-de-la-semana-5-de-2023/)
-- [Recopilación del boletín de noticias de la Free Software Foundation – febrero de 2023](https://victorhckinthefreeworld.com/2023/02/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-febrero-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

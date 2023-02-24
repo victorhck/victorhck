@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 8 de 2023](https://victorhckinthefreeworld.com/2023/02/24/opensuse-tumbleweed-revision-de-la-semana-8-de-2023/)
 - [Disponible la versión Beta de openSUSE Leap 15.5](https://victorhckinthefreeworld.com/2023/02/21/disponible-la-version-beta-de-opensuse-leap-15-5/)
 - [#openSUSE Tumbleweed revisión de la semana 7 de 2023](https://victorhckinthefreeworld.com/2023/02/17/opensuse-tumbleweed-revision-de-la-semana-7-de-2023/)
 - [Amor renovado por el software libre #Ilovefs](https://victorhckinthefreeworld.com/2023/02/14/amor-renovado-por-el-software-libre-ilovefs/)
 - [Charlando sobre distribuciones Linux no basadas en Debian en Podcast Linux](https://victorhckinthefreeworld.com/2023/02/13/charlando-sobre-distribuciones-linux-no-basadas-en-debian-en-podcast-linux/)
-- [#openSUSE Tumbleweed revisión de la semana 6 de 2023](https://victorhckinthefreeworld.com/2023/02/11/opensuse-tumbleweed-revision-de-la-semana-6-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

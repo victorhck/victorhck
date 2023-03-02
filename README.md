@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Recopilación del boletín de noticias de la Free Software Foundation – marzo de 2023](https://victorhckinthefreeworld.com/2023/03/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-marzo-de-2023/)
 - [Todo lo que siempre quisiste saber sobre GNU Guix y no sabías donde encontrarlo](https://victorhckinthefreeworld.com/2023/02/28/todo-lo-que-siempre-quisiste-saber-sobre-gnu-guix-y-no-sabias-donde-encontrarlo/)
 - [¿Cuanto sabes de GNU/Linux? Ponte a prueba &lpar;febrero&rpar;](https://victorhckinthefreeworld.com/2023/02/27/cuanto-sabes-de-gnu-linux-ponte-a-prueba-febrero/)
 - [#openSUSE Tumbleweed revisión de la semana 8 de 2023](https://victorhckinthefreeworld.com/2023/02/24/opensuse-tumbleweed-revision-de-la-semana-8-de-2023/)
 - [Disponible la versión Beta de openSUSE Leap 15.5](https://victorhckinthefreeworld.com/2023/02/21/disponible-la-version-beta-de-opensuse-leap-15-5/)
-- [#openSUSE Tumbleweed revisión de la semana 7 de 2023](https://victorhckinthefreeworld.com/2023/02/17/opensuse-tumbleweed-revision-de-la-semana-7-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

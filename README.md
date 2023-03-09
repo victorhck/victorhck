@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Thunderbird para Android derivado de K9mail sigue su desarrollo](https://victorhckinthefreeworld.com/2023/03/09/thunderbird-para-android-derivado-de-k9mail-sigue-su-desarrollo/)
 - [Entrevista exclusiva con el creador del fondo de Plasma 5.27 de KDE](https://victorhckinthefreeworld.com/2023/03/07/entrevista-exclusiva-con-el-creador-del-fondo-de-plasma-5-27-de-kde/)
 - [youtube-dl no me funciona. Esta es la alternativa](https://victorhckinthefreeworld.com/2023/03/06/youtube-dl-no-me-funciona-esta-es-la-alternativa/)
 - [#openSUSE Tumbleweed revisión de la semana 9 de 2023](https://victorhckinthefreeworld.com/2023/03/03/opensuse-tumbleweed-revision-de-la-semana-9-de-2023/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – marzo de 2023](https://victorhckinthefreeworld.com/2023/03/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-marzo-de-2023/)
-- [Todo lo que siempre quisiste saber sobre GNU Guix y no sabías donde encontrarlo](https://victorhckinthefreeworld.com/2023/02/28/todo-lo-que-siempre-quisiste-saber-sobre-gnu-guix-y-no-sabias-donde-encontrarlo/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

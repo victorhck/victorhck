@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 12 de 2023](https://victorhckinthefreeworld.com/2023/03/24/opensuse-tumbleweed-revision-de-la-semana-12-de-2023/)
 - [Analiza el tiempo de arranque de #Linux con systemd-analyze](https://victorhckinthefreeworld.com/2023/03/23/analiza-el-tiempo-de-arranque-de-linux-con-systemd-analyze/)
 - [Git jump un script para saltar a partes interesantes del proyecto](https://victorhckinthefreeworld.com/2023/03/22/git-jump-un-script-para-saltar-a-partes-interesantes-del-proyecto/)
 - [La herramienta cURL cumple 25 años](https://victorhckinthefreeworld.com/2023/03/20/la-herramienta-curl-cumple-25-anos/)
 - [#openSUSE Tumbleweed revisión de la semana 11 de 2023](https://victorhckinthefreeworld.com/2023/03/17/opensuse-tumbleweed-revision-de-la-semana-11-de-2023/)
-- [#openSUSE Tumbleweed revisión de la semana 10 de 2023](https://victorhckinthefreeworld.com/2023/03/10/opensuse-tumbleweed-revision-de-la-semana-10-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

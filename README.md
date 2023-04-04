@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Recopilación del boletín de noticias de la Free Software Foundation – abril de 2023](https://victorhckinthefreeworld.com/2023/04/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-abril-de-2023/)
 - [#openSUSE Tumbleweed revisión de la semana 13 de 2023](https://victorhckinthefreeworld.com/2023/03/31/opensuse-tumbleweed-revision-de-la-semana-13-de-2023/)
 - [El complemento docklike para #Xfce ya está disponible en #openSUSE](https://victorhckinthefreeworld.com/2023/03/28/el-complemento-docklike-para-xfce-ya-esta-disponible-en-opensuse/)
 - [¿Cuanto sabes de GNU/Linux? Ponte a prueba &lpar;marzo&rpar;](https://victorhckinthefreeworld.com/2023/03/27/cuanto-sabes-de-gnu-linux-ponte-a-prueba-marzo/)
 - [#openSUSE Tumbleweed revisión de la semana 12 de 2023](https://victorhckinthefreeworld.com/2023/03/24/opensuse-tumbleweed-revision-de-la-semana-12-de-2023/)
-- [Analiza el tiempo de arranque de #Linux con systemd-analyze](https://victorhckinthefreeworld.com/2023/03/23/analiza-el-tiempo-de-arranque-de-linux-con-systemd-analyze/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

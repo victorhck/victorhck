@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Mi Pi-hole no filtra publicidad en Firefox. Te cuento cual era el problema](https://victorhckinthefreeworld.com/2023/04/10/mi-pi-hole-no-filtra-publicidad-en-firefox-te-cuento-cual-era-el-problema/)
 - [#openSUSE Tumbleweed revisión de la semana 14 de 2023](https://victorhckinthefreeworld.com/2023/04/07/opensuse-tumbleweed-revision-de-la-semana-14-de-2023/)
 - [El complemento HTTPS Everywhere deja de estar mantenido](https://victorhckinthefreeworld.com/2023/04/05/el-complemento-https-everywhere-deja-de-estar-mantenido/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – abril de 2023](https://victorhckinthefreeworld.com/2023/04/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-abril-de-2023/)
 - [#openSUSE Tumbleweed revisión de la semana 13 de 2023](https://victorhckinthefreeworld.com/2023/03/31/opensuse-tumbleweed-revision-de-la-semana-13-de-2023/)
-- [El complemento docklike para #Xfce ya está disponible en #openSUSE](https://victorhckinthefreeworld.com/2023/03/28/el-complemento-docklike-para-xfce-ya-esta-disponible-en-opensuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

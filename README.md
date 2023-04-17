@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Arianna el lector de ePub basado en Qt y Kirigami para KDE](https://victorhckinthefreeworld.com/2023/04/17/arianna-el-lector-de-epub-basado-en-qt-y-kirigami-para-kde/)
 - [#openSUSE Tumbleweed revisión de la semana 15 de 2023](https://victorhckinthefreeworld.com/2023/04/14/opensuse-tumbleweed-revision-de-la-semana-15-de-2023/)
 - [KDE Connect se prepara para recibir unas mejoras sustanciales](https://victorhckinthefreeworld.com/2023/04/13/kde-connect-se-prepara-para-recibir-unas-mejoras-sustanciales/)
 - [Vota por las mejores funcionalidades para Thunderbird](https://victorhckinthefreeworld.com/2023/04/13/vota-por-las-mejores-funcionalidades-para-thunderbird/)
 - [Mi Pi-hole no filtra publicidad en Firefox. Te cuento cual era el problema](https://victorhckinthefreeworld.com/2023/04/10/mi-pi-hole-no-filtra-publicidad-en-firefox-te-cuento-cual-era-el-problema/)
-- [#openSUSE Tumbleweed revisión de la semana 14 de 2023](https://victorhckinthefreeworld.com/2023/04/07/opensuse-tumbleweed-revision-de-la-semana-14-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

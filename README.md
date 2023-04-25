@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Una red social bajo el protocolo Gemini](https://victorhckinthefreeworld.com/2023/04/25/una-red-social-bajo-el-protocolo-gemini/)
 - [¿Cuanto sabes de GNU/Linux? Ponte a prueba &lpar;abril&rpar;](https://victorhckinthefreeworld.com/2023/04/24/cuanto-sabes-de-gnu-linux-ponte-a-prueba-abril/)
 - [#openSUSE Tumbleweed revisión de la semana 16 de 2023](https://victorhckinthefreeworld.com/2023/04/21/opensuse-tumbleweed-revision-de-la-semana-16-de-2023/)
 - [openSUSE ALP: Estado actual y punto de comienzo del debate](https://victorhckinthefreeworld.com/2023/04/19/opensuse-alp-estado-actual-y-punto-de-comienzo-del-debate/)
 - [Arianna el lector de ePub basado en Qt y Kirigami para KDE](https://victorhckinthefreeworld.com/2023/04/17/arianna-el-lector-de-epub-basado-en-qt-y-kirigami-para-kde/)
-- [#openSUSE Tumbleweed revisión de la semana 15 de 2023](https://victorhckinthefreeworld.com/2023/04/14/opensuse-tumbleweed-revision-de-la-semana-15-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

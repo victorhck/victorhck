@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Recopilación del boletín de noticias de la Free Software Foundation – mayo de 2023](https://victorhckinthefreeworld.com/2023/05/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-mayo-de-2023/)
 - [Usar diff y patch para generar y aplicar parches](https://victorhckinthefreeworld.com/2023/05/02/usar-diff-y-patch-para-generar-y-aplicar-parches/)
 - [#openSUSE Tumbleweed revisión de la semana 17 de 2023](https://victorhckinthefreeworld.com/2023/04/28/opensuse-tumbleweed-revision-de-la-semana-17-de-2023/)
 - [Encuentra lo que cambió en cada commit de Git](https://victorhckinthefreeworld.com/2023/04/27/encuentra-lo-que-cambio-en-cada-commit-de-git/)
 - [Una red social bajo el protocolo Gemini](https://victorhckinthefreeworld.com/2023/04/25/una-red-social-bajo-el-protocolo-gemini/)
-- [¿Cuanto sabes de GNU/Linux? Ponte a prueba &lpar;abril&rpar;](https://victorhckinthefreeworld.com/2023/04/24/cuanto-sabes-de-gnu-linux-ponte-a-prueba-abril/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

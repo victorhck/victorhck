@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 18 de 2023](https://victorhckinthefreeworld.com/2023/05/07/opensuse-tumbleweed-revision-de-la-semana-18-de-2023/)
 - [Carta abierta: Proteger nuestros derechos a la privacidad, la libertad de expresión y la libertad de prensa](https://victorhckinthefreeworld.com/2023/05/05/carta-abierta-proteger-nuestros-derechos-a-la-privacidad-la-libertad-de-expresion-y-la-libertad-de-prensa/)
 - [Estadísticas de software de KDE instalado en sistemas Windows](https://victorhckinthefreeworld.com/2023/05/04/estadisticas-de-software-de-kde-instalado-en-sistemas-windows/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – mayo de 2023](https://victorhckinthefreeworld.com/2023/05/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-mayo-de-2023/)
 - [Usar diff y patch para generar y aplicar parches](https://victorhckinthefreeworld.com/2023/05/02/usar-diff-y-patch-para-generar-y-aplicar-parches/)
-- [#openSUSE Tumbleweed revisión de la semana 17 de 2023](https://victorhckinthefreeworld.com/2023/04/28/opensuse-tumbleweed-revision-de-la-semana-17-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Así uso yo los escritorios virtuales en KDE Plasma](https://victorhckinthefreeworld.com/2023/05/29/asi-uso-yo-los-escritorios-virtuales-en-kde-plasma/)
 - [Tu a Abu Dabi y yo a Oxford &lpar;si puedo&rpar;](https://victorhckinthefreeworld.com/2023/05/16/tu-a-abu-dabi-y-yo-a-oxford-si-puedo/)
 - [Cómo reportar bugs o errores](https://victorhckinthefreeworld.com/2023/05/15/como-reportar-bugs-o-errores/)
 - [Málaga es la ciudad elegida para acoger Akademy-es 2023](https://victorhckinthefreeworld.com/2023/05/09/malaga-es-la-ciudad-elegida-para-acoger-akademy-es-2023/)
 - [#openSUSE Tumbleweed revisión de la semana 18 de 2023](https://victorhckinthefreeworld.com/2023/05/07/opensuse-tumbleweed-revision-de-la-semana-18-de-2023/)
-- [Carta abierta: Proteger nuestros derechos a la privacidad, la libertad de expresión y la libertad de prensa](https://victorhckinthefreeworld.com/2023/05/05/carta-abierta-proteger-nuestros-derechos-a-la-privacidad-la-libertad-de-expresion-y-la-libertad-de-prensa/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

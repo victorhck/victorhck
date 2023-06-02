@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [ccat el comando cat para mostrar archivos en la terminal pero con resaltado de colores](https://victorhckinthefreeworld.com/2023/06/02/ccat-el-comando-cat-para-mostrar-archivos-en-la-terminal-pero-con-resaltado-de-colores/)
 - [openSUSE MicroOS con escritorios GNOME y Plasma](https://victorhckinthefreeworld.com/2023/06/01/opensuse-microos-con-escritorios-gnome-y-plasma/)
 - [Así uso yo los escritorios virtuales en KDE Plasma](https://victorhckinthefreeworld.com/2023/05/29/asi-uso-yo-los-escritorios-virtuales-en-kde-plasma/)
 - [Tu a Abu Dabi y yo a Oxford &lpar;si puedo&rpar;](https://victorhckinthefreeworld.com/2023/05/16/tu-a-abu-dabi-y-yo-a-oxford-si-puedo/)
 - [Cómo reportar bugs o errores](https://victorhckinthefreeworld.com/2023/05/15/como-reportar-bugs-o-errores/)
-- [Málaga es la ciudad elegida para acoger Akademy-es 2023](https://victorhckinthefreeworld.com/2023/05/09/malaga-es-la-ciudad-elegida-para-acoger-akademy-es-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

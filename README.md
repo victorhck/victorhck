@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [openSUSE anuncia que habrá una versión Leap 15.6](https://victorhckinthefreeworld.com/2023/06/06/opensuse-anuncia-que-habra-una-version-leap-15-6/)
 - [Programa de charlas Akademy-es 2023 en Málaga](https://victorhckinthefreeworld.com/2023/06/06/programa-de-charlas-akademy-es-2023-en-malaga/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – junio de 2023](https://victorhckinthefreeworld.com/2023/06/05/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-junio-de-2023/)
 - [#openSUSE Tumbleweed revisión de las semanas 19 a 22 de 2023](https://victorhckinthefreeworld.com/2023/06/03/opensuse-tumbleweed-revision-de-las-semanas-19-a-22-de-2023/)
 - [ccat el comando cat para mostrar archivos en la terminal pero con resaltado de colores](https://victorhckinthefreeworld.com/2023/06/02/ccat-el-comando-cat-para-mostrar-archivos-en-la-terminal-pero-con-resaltado-de-colores/)
-- [openSUSE MicroOS con escritorios GNOME y Plasma](https://victorhckinthefreeworld.com/2023/06/01/opensuse-microos-con-escritorios-gnome-y-plasma/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

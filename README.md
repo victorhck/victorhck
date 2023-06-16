@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de las semanas 23 y 24 de 2023](https://victorhckinthefreeworld.com/2023/06/16/opensuse-tumbleweed-revision-de-las-semanas-23-y-24-de-2023/)
 - [Participa en la encuesta sobre la publicación de openSUSE Leap 15.5](https://victorhckinthefreeworld.com/2023/06/14/encuesta-publicacion-opensuse-leap-15-5/)
 - [Este blog no usa ni usará una IA para crear su contenido](https://victorhckinthefreeworld.com/2023/06/13/este-blog-no-usa-ni-usara-una-ia-para-crear-su-contenido/)
 - [Kernel Panic en mi PC de escritorio ¿me ayudas?](https://victorhckinthefreeworld.com/2023/06/12/kernel-panic-en-mi-pc-de-escritorio-me-ayudas/)
 - [KDE ofrece software para activistas](https://victorhckinthefreeworld.com/2023/06/09/kde-ofrece-software-para-activistas/)
-- [Publicado openSUSE Leap 15.5](https://victorhckinthefreeworld.com/2023/06/07/publicado-opensuse-leap-15-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

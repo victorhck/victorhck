@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Necesitamos más de Richard Stallman, no menos](https://victorhckinthefreeworld.com/2023/06/26/necesitamos-mas-de-richard-stallman-no-menos/)
 - [Celebrando los 25 años de la KDE Free Qt Foundation](https://victorhckinthefreeworld.com/2023/06/24/celebrando-los-25-anos-de-la-kde-free-qt-foundation/)
 - [#openSUSE Tumbleweed revisión de la semana 25 de 2023](https://victorhckinthefreeworld.com/2023/06/23/opensuse-tumbleweed-revision-de-la-semana-25-de-2023/)
 - [LibreOffice y Thunderbird colaborarán para integrar su software](https://victorhckinthefreeworld.com/2023/06/20/libreoffice-y-thunderbird-colaboraran-para-integrar-su-software/)
 - [¿YouTube/Google no quiere Invidious? ¡Pues toma 3 tazas!](https://victorhckinthefreeworld.com/2023/06/19/youtube-google-no-quiere-invidious-pues-toma-3-tazas/)
-- [Firefox se cuelga al arrancar en openSUSE Tumbleweed](https://victorhckinthefreeworld.com/2023/06/16/firefox-se-cuelga-al-arrancar-en-opensuse-tumbleweed/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

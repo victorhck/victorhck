@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Recopilación del boletín de noticias de la Free Software Foundation – julio de 2023](https://victorhckinthefreeworld.com/2023/07/06/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-julio-de-2023/)
 - [Cómo guardar en Vim archivos abiertos como solo lectura](https://victorhckinthefreeworld.com/2023/07/05/como-guardar-en-vim-archivos-abiertos-como-solo-lectura/)
 - [10 razones para migrar de CentOS a openSUSE](https://victorhckinthefreeworld.com/2023/07/03/10-razones-para-migrar-de-centos-a-opensuse/)
 - [Taller de edición de vídeo con Kdenlive](https://victorhckinthefreeworld.com/2023/07/03/taller-de-edicion-de-video-con-kdenlive/)
 - [#openSUSE Tumbleweed revisión de la semana 26 de 2023](https://victorhckinthefreeworld.com/2023/07/01/opensuse-tumbleweed-revision-de-la-semana-26-de-2023/)
-- [Necesitamos más de Richard Stallman, no menos](https://victorhckinthefreeworld.com/2023/06/26/necesitamos-mas-de-richard-stallman-no-menos/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

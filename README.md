@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de las semanas 27 y 28 de 2023](https://victorhckinthefreeworld.com/2023/07/14/opensuse-tumbleweed-revision-de-las-semanas-27-y-28-de-2023/)
 - [openSUSE no se verá afectada por el fork de RedHat que creará SUSE](https://victorhckinthefreeworld.com/2023/07/11/opensuse-no-se-vera-afectada-por-el-fork-de-redhat-que-creara-suse/)
 - [De CentOS a openSUSE Leap. Cómo sentirte como en casa](https://victorhckinthefreeworld.com/2023/07/10/de-centos-a-opensuse-leap-como-sentirte-como-en-casa/)
 - [La importancia de la informática de la salud en Kenia – Cirugía Solidaria y GNU Health](https://victorhckinthefreeworld.com/2023/07/08/la-importancia-de-la-informatica-de-la-salud-en-kenia-cirugia-solidaria-y-gnu-health/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – julio de 2023](https://victorhckinthefreeworld.com/2023/07/06/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-julio-de-2023/)
-- [Cómo guardar en Vim archivos abiertos como solo lectura](https://victorhckinthefreeworld.com/2023/07/05/como-guardar-en-vim-archivos-abiertos-como-solo-lectura/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

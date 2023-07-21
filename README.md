@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 29 de 2023](https://victorhckinthefreeworld.com/2023/07/21/opensuse-tumbleweed-revision-de-la-semana-29-de-2023/)
 - [Linux en el espacio](https://victorhckinthefreeworld.com/2023/07/20/linux-en-el-espacio/)
 - [Trucos útiles para la barra de direcciones de Firefox](https://victorhckinthefreeworld.com/2023/07/19/trucos-utiles-para-la-barra-de-direcciones-de-firefox/)
 - [#openSUSE Tumbleweed revisión de las semanas 27 y 28 de 2023](https://victorhckinthefreeworld.com/2023/07/14/opensuse-tumbleweed-revision-de-las-semanas-27-y-28-de-2023/)
 - [openSUSE no se verá afectada por el fork de RedHat que creará SUSE](https://victorhckinthefreeworld.com/2023/07/11/opensuse-no-se-vera-afectada-por-el-fork-de-redhat-que-creara-suse/)
-- [De CentOS a openSUSE Leap. Cómo sentirte como en casa](https://victorhckinthefreeworld.com/2023/07/10/de-centos-a-opensuse-leap-como-sentirte-como-en-casa/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

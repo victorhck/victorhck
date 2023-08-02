@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2023](https://victorhckinthefreeworld.com/2023/08/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2023/)
 - [Thunderbird planea resucitar el servicio Firefox send](https://victorhckinthefreeworld.com/2023/07/31/thunderbird-planea-resucitar-el-servicio-firefox-send/)
 - [A nadie le importa tu blog](https://victorhckinthefreeworld.com/2023/07/31/a-nadie-le-importa-tu-blog/)
 - [Los roles del sistema en openSUSE ¿qué es cada uno?](https://victorhckinthefreeworld.com/2023/07/24/los-roles-del-sistema-en-opensuse-que-es-cada-uno/)
 - [#openSUSE Tumbleweed revisión de la semana 29 de 2023](https://victorhckinthefreeworld.com/2023/07/21/opensuse-tumbleweed-revision-de-la-semana-29-de-2023/)
-- [Linux en el espacio](https://victorhckinthefreeworld.com/2023/07/20/linux-en-el-espacio/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

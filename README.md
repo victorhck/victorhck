@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [De charla con Yoyo en Salmorejo Geek](https://victorhckinthefreeworld.com/2023/08/07/de-charla-con-yoyo-en-salmorejo-geek/)
 - [Muere Bram Moolenaar el creador y desarrollador del editor Vim](https://victorhckinthefreeworld.com/2023/08/05/muere-bram-moolenaar-el-creador-y-desarrollador-del-editor-vim/)
 - [#openSUSE Tumbleweed revisión de las semanas 30 y 31 de 2023](https://victorhckinthefreeworld.com/2023/08/04/opensuse-tumbleweed-revision-de-las-semanas-30-y-31-de-2023/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2023](https://victorhckinthefreeworld.com/2023/08/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2023/)
 - [Thunderbird planea resucitar el servicio Firefox send](https://victorhckinthefreeworld.com/2023/07/31/thunderbird-planea-resucitar-el-servicio-firefox-send/)
-- [A nadie le importa tu blog](https://victorhckinthefreeworld.com/2023/07/31/a-nadie-le-importa-tu-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

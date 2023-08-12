@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 32 de 2023](https://victorhckinthefreeworld.com/2023/08/12/opensuse-tumbleweed-revision-de-la-semana-32-de-2023/)
 - [Participa en la encuesta sobre el futuro de #openSUSE Leap](https://victorhckinthefreeworld.com/2023/08/11/participa-en-la-encuesta-sobre-el-futuro-de-opensuse-leap/)
 - [¡openSUSE cumple 18 años!](https://victorhckinthefreeworld.com/2023/08/10/opensuse-cumple-18-anos/)
 - [De charla con Yoyo en Salmorejo Geek](https://victorhckinthefreeworld.com/2023/08/07/de-charla-con-yoyo-en-salmorejo-geek/)
 - [Muere Bram Moolenaar el creador y desarrollador del editor Vim](https://victorhckinthefreeworld.com/2023/08/05/muere-bram-moolenaar-el-creador-y-desarrollador-del-editor-vim/)
-- [#openSUSE Tumbleweed revisión de las semanas 30 y 31 de 2023](https://victorhckinthefreeworld.com/2023/08/04/opensuse-tumbleweed-revision-de-las-semanas-30-y-31-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

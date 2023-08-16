@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Montar al inicio del arranque de Linux un disco duro modificando el archivo fstab](https://victorhckinthefreeworld.com/2023/08/16/montar-al-inicio-del-arranque-de-linux-un-disco-duro-modificando-el-archivo-fstab/)
 - [Cambiar el mensaje de bienvenida en la shell Fish](https://victorhckinthefreeworld.com/2023/08/14/cambiar-el-mensaje-de-bienvenida-en-la-shell-fish/)
 - [#openSUSE Tumbleweed revisión de la semana 32 de 2023](https://victorhckinthefreeworld.com/2023/08/12/opensuse-tumbleweed-revision-de-la-semana-32-de-2023/)
 - [Participa en la encuesta sobre el futuro de #openSUSE Leap](https://victorhckinthefreeworld.com/2023/08/11/participa-en-la-encuesta-sobre-el-futuro-de-opensuse-leap/)
 - [¡openSUSE cumple 18 años!](https://victorhckinthefreeworld.com/2023/08/10/opensuse-cumple-18-anos/)
-- [De charla con Yoyo en Salmorejo Geek](https://victorhckinthefreeworld.com/2023/08/07/de-charla-con-yoyo-en-salmorejo-geek/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

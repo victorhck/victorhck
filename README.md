@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 34 de 2023](https://victorhckinthefreeworld.com/2023/08/25/opensuse-tumbleweed-revision-de-la-semana-34-de-2023/)
 - [Novedades en Agama el nuevo instalador de openSUSE](https://victorhckinthefreeworld.com/2023/08/24/novedades-en-agama-el-nuevo-instalador-de-opensuse/)
 - [#openSUSE Tumbleweed revisión de la semana 33 de 2023](https://victorhckinthefreeworld.com/2023/08/18/opensuse-tumbleweed-revision-de-la-semana-33-de-2023/)
 - [Montar al inicio del arranque de Linux un disco duro modificando el archivo fstab](https://victorhckinthefreeworld.com/2023/08/16/montar-al-inicio-del-arranque-de-linux-un-disco-duro-modificando-el-archivo-fstab/)
 - [Cambiar el mensaje de bienvenida en la shell Fish](https://victorhckinthefreeworld.com/2023/08/14/cambiar-el-mensaje-de-bienvenida-en-la-shell-fish/)
-- [#openSUSE Tumbleweed revisión de la semana 32 de 2023](https://victorhckinthefreeworld.com/2023/08/12/opensuse-tumbleweed-revision-de-la-semana-32-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

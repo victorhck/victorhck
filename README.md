@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 35 de 2023](https://victorhckinthefreeworld.com/2023/09/01/opensuse-tumbleweed-revision-de-la-semana-35-de-2023/)
 - [Cómo escuchar somafm en la terminal con este escript en Bash](https://victorhckinthefreeworld.com/2023/08/29/como-escuchar-somafm-en-la-terminal-con-este-escript-en-bash/)
 - [La herramienta Bugzilla cumple 25 años](https://victorhckinthefreeworld.com/2023/08/28/la-herramienta-bugzilla-cumple-25-anos/)
 - [#openSUSE Tumbleweed revisión de la semana 34 de 2023](https://victorhckinthefreeworld.com/2023/08/25/opensuse-tumbleweed-revision-de-la-semana-34-de-2023/)
 - [Novedades en Agama el nuevo instalador de openSUSE](https://victorhckinthefreeworld.com/2023/08/24/novedades-en-agama-el-nuevo-instalador-de-opensuse/)
-- [#openSUSE Tumbleweed revisión de la semana 33 de 2023](https://victorhckinthefreeworld.com/2023/08/18/opensuse-tumbleweed-revision-de-la-semana-33-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

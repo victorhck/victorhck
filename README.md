@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Resultados de la encuesta sobre el futuro que debe tomar openSUSE](https://victorhckinthefreeworld.com/2023/09/06/resultados-de-la-encuesta-sobre-el-futuro-que-debe-tomar-opensuse/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – septiembre de 2023](https://victorhckinthefreeworld.com/2023/09/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-septiembre-de-2023/)
 - [#openSUSE Tumbleweed revisión de la semana 35 de 2023](https://victorhckinthefreeworld.com/2023/09/01/opensuse-tumbleweed-revision-de-la-semana-35-de-2023/)
 - [Cómo escuchar somafm en la terminal con este escript en Bash](https://victorhckinthefreeworld.com/2023/08/29/como-escuchar-somafm-en-la-terminal-con-este-escript-en-bash/)
 - [La herramienta Bugzilla cumple 25 años](https://victorhckinthefreeworld.com/2023/08/28/la-herramienta-bugzilla-cumple-25-anos/)
-- [#openSUSE Tumbleweed revisión de la semana 34 de 2023](https://victorhckinthefreeworld.com/2023/08/25/opensuse-tumbleweed-revision-de-la-semana-34-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

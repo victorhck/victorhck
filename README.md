@@ -26,13 +26,12 @@ Here are some ideas to get you started:
 </ul>
 
 <strong>💬 Otros medios:</strong>
-* [![Mi blog](https://s1.wp.com/wp-content/mu-plugins/post-flair/sharing/images/icon-wordpress.png) Mi blog](https://victorhckinthefreeworld.com)
-* [![Mastodon](https://pod.orkz.net/uploads/images/scaled_full_439a55d6cac2086fdd94.png) Mastodon](https://mastodon.social/@victorhck)
-* [![diaspora*](https://pod.orkz.net/uploads/images/scaled_full_a87cf779ccf3face1d8a.png) diaspora*](https://pod.orkz.net/u/victorhck)
-* [![PixelFed](https://pod.orkz.net/uploads/images/scaled_full_b7c16a11d5410ab02911.png) PixelFed](https://pixelfed.social/victorhck)
-* [![Archive.org](https://pod.orkz.net/uploads/images/scaled_full_04908d5bfcc639b55841.jpg) Archive](https://archive.org/details/@victorhck)
-* [![YouTube](https://pod.orkz.net/uploads/images/scaled_full_7156003ff74aaa4308f7.png) YouTube](https://www.youtube.com/user/jcwl70/)
-* [![GitLab](https://pod.orkz.net/uploads/images/scaled_full_af4ca769a2cd313d8363.png) GitLab](https://gitlab.com/victorhck)
+* [Mi blog](https://victorhckinthefreeworld.com)
+* [Mastodon](https://mastodon.social/@victorhck)
+* [PixelFed](https://pixelfed.social/victorhck)
+* [Archive](https://archive.org/details/@victorhck)
+* [YouTube](https://www.youtube.com/user/jcwl70/)
+* [GitLab](https://gitlab.com/victorhck)
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->

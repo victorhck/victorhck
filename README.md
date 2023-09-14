@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Activar la previsualización de imágenes en Konsole](https://victorhckinthefreeworld.com/2023/09/14/activar-la-previsualizacion-de-imagenes-en-konsole/)
 - [Eza el reemplazo comunitario a exa como sustituto para el comando ls](https://victorhckinthefreeworld.com/2023/09/13/eza-el-reemplazo-comunitario-a-exa-como-sustituto-para-el-comando-ls/)
 - [Prueba openSUSE Slowroll una nueva versión semi-rolling release](https://victorhckinthefreeworld.com/2023/09/12/prueba-opensuse-slowroll-una-nueva-version-semi-rolling-release/)
 - [Trucos útiles para el navegador Firefox](https://victorhckinthefreeworld.com/2023/09/11/trucos-utiles-para-el-navegador-firefox/)
 - [Resultados de la encuesta sobre el futuro que debe tomar openSUSE](https://victorhckinthefreeworld.com/2023/09/06/resultados-de-la-encuesta-sobre-el-futuro-que-debe-tomar-opensuse/)
-- [Recopilación del boletín de noticias de la Free Software Foundation – septiembre de 2023](https://victorhckinthefreeworld.com/2023/09/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-septiembre-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

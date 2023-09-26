@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [openSUSE Slowroll mantendrá el nombre](https://victorhckinthefreeworld.com/2023/09/26/opensuse-slowroll-mantendra-el-nombre/)
 - [#openSUSE Tumbleweed revisión de la semana 38 de 2023](https://victorhckinthefreeworld.com/2023/09/22/opensuse-tumbleweed-revision-de-la-semana-38-de-2023/)
 - [Vota por el nombre de la nueva openSUSE Slowroll](https://victorhckinthefreeworld.com/2023/09/21/vota-por-el-nombre-de-la-nueva-opensuse-slowroll/)
 - [Wayland vs. X11 en Linux](https://victorhckinthefreeworld.com/2023/09/19/wayland-vs-x11-en-linux/)
 - [HackMeeting 2023 en Hospitalet de Llobregat.](https://victorhckinthefreeworld.com/2023/09/18/hackmeeting-2023-en-hospitalet-de-llobregat/)
-- [#openSUSE Tumbleweed revisión de las semanas 36 y 37 de 2023](https://victorhckinthefreeworld.com/2023/09/15/opensuse-tumbleweed-revision-de-las-semanas-36-y-37-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

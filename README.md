@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Tutoriales sobre Git con trucos y consejos para estudiar y practicar](https://victorhckinthefreeworld.com/2023/10/04/tutoriales-sobre-git-con-trucos-y-consejos-para-estudiar-y-practicar/)
 - [Richard Stallman anuncia que tiene un cáncer](https://victorhckinthefreeworld.com/2023/09/30/richard-stallman-anuncia-que-tiene-un-cancer/)
 - [40 aniversario del proyecto GNU](https://victorhckinthefreeworld.com/2023/09/27/40-aniversario-del-proyecto-gnu/)
 - [openSUSE Slowroll mantendrá el nombre](https://victorhckinthefreeworld.com/2023/09/26/opensuse-slowroll-mantendra-el-nombre/)
 - [#openSUSE Tumbleweed revisión de la semana 38 de 2023](https://victorhckinthefreeworld.com/2023/09/22/opensuse-tumbleweed-revision-de-la-semana-38-de-2023/)
-- [Vota por el nombre de la nueva openSUSE Slowroll](https://victorhckinthefreeworld.com/2023/09/21/vota-por-el-nombre-de-la-nueva-opensuse-slowroll/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 41 de 2023](https://victorhckinthefreeworld.com/2023/10/14/opensuse-tumbleweed-revision-de-la-semana-41-de-2023/)
 - [Publicada openSUSE Leap Micro 5.5](https://victorhckinthefreeworld.com/2023/10/12/publicada-opensuse-leap-micro-5-5/)
 - [NeoMutt el cliente de correo para la terminal](https://victorhckinthefreeworld.com/2023/10/11/neomutt-el-cliente-de-correo-para-la-terminal/)
 - [Un tribunal regional de Hambugo cierra la página web del proyecto yt-dl](https://victorhckinthefreeworld.com/2023/10/10/un-tribunal-regional-de-hambugo-cierra-la-pagina-web-del-proyecto-yt-dl/)
 - [#openSUSE Tumbleweed revisión de las semanas 39 y 40 de 2023](https://victorhckinthefreeworld.com/2023/10/07/opensuse-tumbleweed-revision-de-las-semanas-39-y-40-de-2023/)
-- [Recopilación del boletín de noticias de la Free Software Foundation – octubre de 2023](https://victorhckinthefreeworld.com/2023/10/06/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-octubre-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

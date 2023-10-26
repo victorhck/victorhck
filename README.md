@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicada la versión 5 del nuevo instalados Agama para #openSUSE](https://victorhckinthefreeworld.com/2023/10/26/publicada-la-version-5-del-nuevo-instalados-agama-para-opensuse/)
 - [Diseña el nuevo logo para #openSUSE](https://victorhckinthefreeworld.com/2023/10/25/disena-el-nuevo-logo-para-opensuse/)
 - [Los archivos de configuración en NeoMutt](https://victorhckinthefreeworld.com/2023/10/25/los-archivos-de-configuracion-en-neomutt/)
 - [#openSUSE Tumbleweed revisión de la semana 42 de 2023](https://victorhckinthefreeworld.com/2023/10/20/opensuse-tumbleweed-revision-de-la-semana-42-de-2023/)
 - [Disponible #openSUSE Leap 15.6 Alfa](https://victorhckinthefreeworld.com/2023/10/19/disponible-opensuse-leap-15-6-alfa/)
-- [Configurar mi cuenta de correo en NeoMutt](https://victorhckinthefreeworld.com/2023/10/18/configurar-mi-cuenta-de-correo-en-neomutt/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

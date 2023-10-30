@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Cómo instalar el navegador Chrome en #openSUSE Tumbleweed](https://victorhckinthefreeworld.com/2023/10/30/como-instalar-el-navegador-chrome-en-opensuse-tumbleweed/)
 - [#openSUSE Tumbleweed revisión de la semana 43 de 2023](https://victorhckinthefreeworld.com/2023/10/27/opensuse-tumbleweed-revision-de-la-semana-43-de-2023/)
 - [Publicada la versión 5 del nuevo instalados Agama para #openSUSE](https://victorhckinthefreeworld.com/2023/10/26/publicada-la-version-5-del-nuevo-instalados-agama-para-opensuse/)
 - [Diseña el nuevo logo para #openSUSE](https://victorhckinthefreeworld.com/2023/10/25/disena-el-nuevo-logo-para-opensuse/)
 - [Los archivos de configuración en NeoMutt](https://victorhckinthefreeworld.com/2023/10/25/los-archivos-de-configuracion-en-neomutt/)
-- [#openSUSE Tumbleweed revisión de la semana 42 de 2023](https://victorhckinthefreeworld.com/2023/10/20/opensuse-tumbleweed-revision-de-la-semana-42-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

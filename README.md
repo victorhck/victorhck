@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Cifrar el archivo de contraseñas de nuestro correo en #NeoMutt](https://victorhckinthefreeworld.com/2023/11/15/cifrar-el-archivo-de-contrasenas-de-nuestro-correo-en-neomutt/)
 - [#openSUSE Tumbleweed revisión de la semana 45 de 2023](https://victorhckinthefreeworld.com/2023/11/10/opensuse-tumbleweed-revision-de-la-semana-45-de-2023/)
 - [Ordenar en orden inverso los correos y mostrar la fecha más amigable en NeoMutt](https://victorhckinthefreeworld.com/2023/11/08/ordenar-en-orden-inverso-los-correos-y-mostrar-la-fecha-mas-amigable-en-neomutt/)
 - [Ver las actualizaciones disponibles en openSUSE sin instalarlas](https://victorhckinthefreeworld.com/2023/11/07/ver-las-actualizaciones-disponibles-en-opensuse-sin-instalarlas/)
 - [Limpiando PlanetaLibre](https://victorhckinthefreeworld.com/2023/11/06/limpiando-planetalibre/)
-- [#openSUSE Tumbleweed revisión de la semana 44 de 2023](https://victorhckinthefreeworld.com/2023/11/03/opensuse-tumbleweed-revision-de-la-semana-44-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

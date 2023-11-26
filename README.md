@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 47 de 2023](https://victorhckinthefreeworld.com/2023/11/26/opensuse-tumbleweed-revision-de-la-semana-47-de-2023/)
 - [A website that compiles announcements of new #openSUSE Tumbleweed snapshots](https://victorhckinthefreeworld.com/2023/11/23/a-website-that-compiles-announcements-of-new-opensuse-tumbleweed-snapshots/)
 - [Una web para ver los anuncios de nuevas snapshots de #openSUSE Tumbleweed](https://victorhckinthefreeworld.com/2023/11/23/una-web-para-ver-los-anuncios-de-nuevas-snapshots-de-opensuse-tumbleweed/)
 - [Significado en #Neomutt de los indicadores de estado en los correos](https://victorhckinthefreeworld.com/2023/11/21/significado-en-neomutt-de-los-indicadores-de-estado-en-los-correos/)
 - [#openSUSE Tumbleweed revisión de la semana 46 de 2023](https://victorhckinthefreeworld.com/2023/11/17/opensuse-tumbleweed-revision-de-la-semana-46-de-2023/)
-- [PodcastLinux dice adiós después de 7 años divulgando sobre Linux y software libre](https://victorhckinthefreeworld.com/2023/11/16/podcastlinux-dice-adios-despues-de-7-anos-divulgando-sobre-linux-y-software-libre/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

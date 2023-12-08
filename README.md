@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de las semanas 48 y 49 de 2023](https://victorhckinthefreeworld.com/2023/12/08/opensuse-tumbleweed-revision-de-las-semanas-48-y-49-de-2023/)
 - [Cómo descargar los puzzles de #AdventOfCode desde la línea de comandos](https://victorhckinthefreeworld.com/2023/12/05/como-descargar-los-puzzles-de-adventofcode-desde-la-linea-de-comandos/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – diciembre de 2023](https://victorhckinthefreeworld.com/2023/12/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-diciembre-de-2023/)
 - [Las donaciones de DuckDuckGo reparten 1M a diversas organizaciones en este 2023](https://victorhckinthefreeworld.com/2023/12/01/las-donaciones-de-duckduckgo-reparten-1m-a-diversas-organizaciones-en-este-2023/)
 - [#openSUSE Tumbleweed revisión de la semana 47 de 2023](https://victorhckinthefreeworld.com/2023/11/26/opensuse-tumbleweed-revision-de-la-semana-47-de-2023/)
-- [A website that compiles announcements of new #openSUSE Tumbleweed snapshots](https://victorhckinthefreeworld.com/2023/11/23/a-website-that-compiles-announcements-of-new-opensuse-tumbleweed-snapshots/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

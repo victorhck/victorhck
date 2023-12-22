@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicada la versión 7 de Agama el nuevo instalador para SUSE y openSUSE](https://victorhckinthefreeworld.com/2023/12/22/publicada-la-version-7-de-agama-el-nuevo-instalador-para-suse-y-opensuse/)
 - [#openSUSE Tumbleweed revisión de la semana 50 de 2023](https://victorhckinthefreeworld.com/2023/12/15/opensuse-tumbleweed-revision-de-la-semana-50-de-2023/)
 - [Curso de Vim: Consejos y trucos de Vimgrep](https://victorhckinthefreeworld.com/2023/12/13/curso-de-vim-consejos-y-trucos-de-vimgrep/)
 - [Qué son esas pantallas que vemos en NeoMutt](https://victorhckinthefreeworld.com/2023/12/11/que-son-esas-pantallas-que-vemos-en-neomutt/)
 - [#openSUSE Tumbleweed revisión de las semanas 48 y 49 de 2023](https://victorhckinthefreeworld.com/2023/12/08/opensuse-tumbleweed-revision-de-las-semanas-48-y-49-de-2023/)
-- [Cómo descargar los puzzles de #AdventOfCode desde la línea de comandos](https://victorhckinthefreeworld.com/2023/12/05/como-descargar-los-puzzles-de-adventofcode-desde-la-linea-de-comandos/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

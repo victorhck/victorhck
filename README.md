@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [La shell Fish publica su versión 3.7.0](https://victorhckinthefreeworld.com/2024/01/03/la-shell-fish-publica-su-version-3-7-0/)
 - [sudo !! en la shell Fish](https://victorhckinthefreeworld.com/2024/01/02/sudo-en-la-shell-fish/)
 - [#openSUSE Tumbleweed revisión de la semana 52 de 2023](https://victorhckinthefreeworld.com/2023/12/30/opensuse-tumbleweed-revision-de-la-semana-52-de-2023/)
 - [Más trucos útiles para la shell Fish](https://victorhckinthefreeworld.com/2023/12/26/mas-trucos-utiles-para-la-shell-fish/)
 - [#openSUSE Tumbleweed revisión de la semana 51 de 2023](https://victorhckinthefreeworld.com/2023/12/23/opensuse-tumbleweed-revision-de-la-semana-51-de-2023/)
-- [Publicada la versión 7 de Agama el nuevo instalador para SUSE y openSUSE](https://victorhckinthefreeworld.com/2023/12/22/publicada-la-version-7-de-agama-el-nuevo-instalador-para-suse-y-opensuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

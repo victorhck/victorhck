@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Recopilación del boletín de noticias de la Free Software Foundation – enero de 2024](https://victorhckinthefreeworld.com/2024/01/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-enero-de-2024/)
 - [La shell Fish publica su versión 3.7.0](https://victorhckinthefreeworld.com/2024/01/03/la-shell-fish-publica-su-version-3-7-0/)
 - [sudo !! en la shell Fish](https://victorhckinthefreeworld.com/2024/01/02/sudo-en-la-shell-fish/)
 - [#openSUSE Tumbleweed revisión de la semana 52 de 2023](https://victorhckinthefreeworld.com/2023/12/30/opensuse-tumbleweed-revision-de-la-semana-52-de-2023/)
 - [Más trucos útiles para la shell Fish](https://victorhckinthefreeworld.com/2023/12/26/mas-trucos-utiles-para-la-shell-fish/)
-- [#openSUSE Tumbleweed revisión de la semana 51 de 2023](https://victorhckinthefreeworld.com/2023/12/23/opensuse-tumbleweed-revision-de-la-semana-51-de-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

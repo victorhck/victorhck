@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Añadiendo colores al comando cal de #Linux](https://victorhckinthefreeworld.com/2024/01/10/anadiendo-colores-al-comando-cal-de-linux/)
 - [Cómo mostrar en #Linux un calendario en la terminal](https://victorhckinthefreeworld.com/2024/01/09/como-mostrar-en-linux-un-calendario-en-la-terminal/)
 - [Año nuevo, ¿blog nuevo?](https://victorhckinthefreeworld.com/2024/01/08/ano-nuevo-blog-nuevo/)
 - [#openSUSE Tumbleweed revisión de la semana 1 de 2024](https://victorhckinthefreeworld.com/2024/01/06/opensuse-tumbleweed-revision-de-la-semana-1-de-2024/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – enero de 2024](https://victorhckinthefreeworld.com/2024/01/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-enero-de-2024/)
-- [La shell Fish publica su versión 3.7.0](https://victorhckinthefreeworld.com/2024/01/03/la-shell-fish-publica-su-version-3-7-0/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

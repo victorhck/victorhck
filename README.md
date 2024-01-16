@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicado #Vim 9.1 la primera versión sin Bram Moolenaar](https://victorhckinthefreeworld.com/2024/01/16/publicado-vim-9-1-la-primera-version-sin-bram-moolenaar/)
 - [#openSUSE Leap seguirá su salto a openSUSE Leap 16](https://victorhckinthefreeworld.com/2024/01/15/opensuse-leap-seguira-su-salto-a-opensuse-leap-16/)
 - [#openSUSE Tumbleweed revisión de la semana 2 de 2024](https://victorhckinthefreeworld.com/2024/01/12/opensuse-tumbleweed-revision-de-la-semana-2-de-2024/)
 - [Sobre la delincuencia y el acceso al conocimiento](https://victorhckinthefreeworld.com/2024/01/11/sobre-la-delincuencia-y-el-acceso-al-conocimiento/)
 - [Añadiendo colores al comando cal de #Linux](https://victorhckinthefreeworld.com/2024/01/10/anadiendo-colores-al-comando-cal-de-linux/)
-- [Cómo mostrar en #Linux un calendario en la terminal](https://victorhckinthefreeworld.com/2024/01/09/como-mostrar-en-linux-un-calendario-en-la-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

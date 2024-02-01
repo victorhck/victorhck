@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Recopilación del boletín de noticias de la Free Software Foundation – febrero de 2024](https://victorhckinthefreeworld.com/2024/02/01/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-febrero-de-2024/)
 - [Aprendiendo lo básico de #GNU sed](https://victorhckinthefreeworld.com/2024/01/30/aprendiendo-lo-basico-de-gnu-sed/)
 - [Publicada una nueva versión del editor GNU Moe](https://victorhckinthefreeworld.com/2024/01/23/publicada-una-nueva-version-del-editor-gnu-moe/)
 - [#openSUSE Tumbleweed revisión de la semana 3 de 2024](https://victorhckinthefreeworld.com/2024/01/19/opensuse-tumbleweed-revision-de-la-semana-3-de-2024/)
 - [Publicado #Vim 9.1 la primera versión sin Bram Moolenaar](https://victorhckinthefreeworld.com/2024/01/16/publicado-vim-9-1-la-primera-version-sin-bram-moolenaar/)
-- [#openSUSE Leap seguirá su salto a openSUSE Leap 16](https://victorhckinthefreeworld.com/2024/01/15/opensuse-leap-seguira-su-salto-a-opensuse-leap-16/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#iLoveFS 2024](https://victorhckinthefreeworld.com/2024/02/14/ilovefs-2024/)
 - [GNU ddrescue publica su versión 1.28](https://victorhckinthefreeworld.com/2024/02/12/gnu-ddrescue-publica-su-version-1-28/)
 - [#openSUSE Tumbleweed revisión de la semana 6 de 2024](https://victorhckinthefreeworld.com/2024/02/09/opensuse-tumbleweed-revision-de-la-semana-6-de-2024/)
 - [Saca todo el partido a #LibreOffice Writer 24.2 con este libro](https://victorhckinthefreeworld.com/2024/02/06/saca-todo-el-partido-a-libreoffice-writer-24-2-con-este-libro/)
 - [#openSUSE Tumbleweed revisión de las semanas 4 y 5 de 2024](https://victorhckinthefreeworld.com/2024/02/05/opensuse-tumbleweed-revision-de-las-semanas-4-y-5-de-2024/)
-- [Recopilación del boletín de noticias de la Free Software Foundation – febrero de 2024](https://victorhckinthefreeworld.com/2024/02/01/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-febrero-de-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

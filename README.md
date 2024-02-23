@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 8 de 2024](https://victorhckinthefreeworld.com/2024/02/23/opensuse-tumbleweed-revision-de-la-semana-8-de-2024/)
 - [Planes de Agama, el nuevo instalador de #openSUSE, para 2024](https://victorhckinthefreeworld.com/2024/02/19/planes-de-agama-el-nuevo-instalador-de-opensuse-para-2024/)
 - [#openSUSE Tumbleweed revisión de la semana 7 de 2024](https://victorhckinthefreeworld.com/2024/02/16/opensuse-tumbleweed-revision-de-la-semana-7-de-2024/)
 - [#iLoveFS 2024](https://victorhckinthefreeworld.com/2024/02/14/ilovefs-2024/)
 - [GNU ddrescue publica su versión 1.28](https://victorhckinthefreeworld.com/2024/02/12/gnu-ddrescue-publica-su-version-1-28/)
-- [#openSUSE Tumbleweed revisión de la semana 6 de 2024](https://victorhckinthefreeworld.com/2024/02/09/opensuse-tumbleweed-revision-de-la-semana-6-de-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

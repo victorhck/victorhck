@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Disponible #openSUSE Leap 15.6 Beta ¿Te animas a pobarla?](https://victorhckinthefreeworld.com/2024/03/07/disponible-opensuse-leap-15-6-beta-te-animas-a-pobarla/)
 - [Cómo Google ayudó a destruir la expansión de los feeds RSS](https://victorhckinthefreeworld.com/2024/03/05/como-google-ayudo-a-destruir-la-expansion-de-los-feeds-rss/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – marzo de 2024](https://victorhckinthefreeworld.com/2024/03/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-marzo-de-2024/)
 - [#openSUSE Tumbleweed revisión de la semana 9 de 2024](https://victorhckinthefreeworld.com/2024/03/01/opensuse-tumbleweed-revision-de-la-semana-9-de-2024/)
 - [Plasma 6 a la vuelta de la esquina](https://victorhckinthefreeworld.com/2024/02/26/plasma-6-a-la-vuelta-de-la-esquina/)
-- [#openSUSE Tumbleweed revisión de la semana 8 de 2024](https://victorhckinthefreeworld.com/2024/02/23/opensuse-tumbleweed-revision-de-la-semana-8-de-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

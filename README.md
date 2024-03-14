@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [El Megarelease 6 de KDE en openSUSE Tumbleweed](https://victorhckinthefreeworld.com/2024/03/14/el-megarelease-6-de-kde-en-opensuse-tumbleweed/)
 - [Cómo grabar el audio de un streaming en un archivo en Linux](https://victorhckinthefreeworld.com/2024/03/12/como-grabar-el-audio-de-un-streaming-en-un-archivo-en-linux/)
 - [#openSUSE Tumbleweed revisión de la semana 10 de 2024](https://victorhckinthefreeworld.com/2024/03/08/opensuse-tumbleweed-revision-de-la-semana-10-de-2024/)
 - [Disponible #openSUSE Leap 15.6 Beta ¿Te animas a probarla?](https://victorhckinthefreeworld.com/2024/03/07/disponible-opensuse-leap-15-6-beta-te-animas-a-pobarla/)
 - [Cómo Google ayudó a destruir la expansión de los feeds RSS](https://victorhckinthefreeworld.com/2024/03/05/como-google-ayudo-a-destruir-la-expansion-de-los-feeds-rss/)
-- [Recopilación del boletín de noticias de la Free Software Foundation – marzo de 2024](https://victorhckinthefreeworld.com/2024/03/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-marzo-de-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

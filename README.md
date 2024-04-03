@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Adiós a Craig Maloney el creador del libro «El programador mediocre»](https://victorhckinthefreeworld.com/2024/04/03/adios-a-craig-maloney-el-creador-del-libro-el-programador-mediocre/)
 - [Ejecutar scripts al inicio o cierre de sesión en Plasma 6 de KDE](https://victorhckinthefreeworld.com/2024/04/02/ejecutar-scripts-al-inicio-o-cierre-de-sesion-en-plasma-6-de-kde/)
 - [Modo compacto en la barra de pestañas de Firefox](https://victorhckinthefreeworld.com/2024/04/01/modo-compacto-en-la-barra-de-pestanas-de-firefox/)
 - [#openSUSE Tumbleweed revisión de las semanas 12 y 13 de 2024](https://victorhckinthefreeworld.com/2024/03/30/opensuse-tumbleweed-revision-de-las-semanas-12-y-13-de-2024/)
 - [Tercera actualización de Plasma 6 de la comunidad #KDE](https://victorhckinthefreeworld.com/2024/03/26/tercera-actualizacion-de-plasma-6-de-la-comunidad-kde/)
-- [#openSUSE Tumbleweed revisión de la semana 11 de 2024](https://victorhckinthefreeworld.com/2024/03/15/opensuse-tumbleweed-revision-de-la-semana-11-de-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

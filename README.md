@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#Thunderbird continua su desarrollo para Android con #K9mail](https://victorhckinthefreeworld.com/2024/04/12/thunderbird-continua-su-desarrollo-para-android-con-k9mail/)
 - [Amarok 3.0 quizás en verano de 2024](https://victorhckinthefreeworld.com/2024/04/05/amarok-3-0-quizas-en-verano-de-2024/)
 - [Marknote el bloc de notas en formato Markdown de #KDE](https://victorhckinthefreeworld.com/2024/04/04/marknote-el-bloc-de-notas-en-formato-markdown-de-kde/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – abril de 2024](https://victorhckinthefreeworld.com/2024/04/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-abril-de-2024/)
 - [Adiós a Craig Maloney el creador del libro «El programador mediocre»](https://victorhckinthefreeworld.com/2024/04/03/adios-a-craig-maloney-el-creador-del-libro-el-programador-mediocre/)
-- [Ejecutar scripts al inicio o cierre de sesión en Plasma 6 de KDE](https://victorhckinthefreeworld.com/2024/04/02/ejecutar-scripts-al-inicio-o-cierre-de-sesion-en-plasma-6-de-kde/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

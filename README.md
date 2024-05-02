@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Abandonado el desarrollo de Neofecth](https://victorhckinthefreeworld.com/2024/05/02/abandonado-el-desarrollo-de-neofecth/)
 - [Publicado Amarok 3.0 «Castaway»](https://victorhckinthefreeworld.com/2024/04/30/publicado-amarok-3-0-castaway/)
 - [PlanetaLibre cambia su aspecto](https://victorhckinthefreeworld.com/2024/04/29/planetalibre-cambia-su-aspecto/)
 - [#openSUSE Tumbleweed revisión de la semana 16 de 2024](https://victorhckinthefreeworld.com/2024/04/19/opensuse-tumbleweed-revision-de-la-semana-16-de-2024/)
 - [Configurar los mensajes graciosos de sudo cuando introduces mal la contraseña](https://victorhckinthefreeworld.com/2024/04/17/configurar-los-mensajes-graciosos-de-sudo-cuando-introduces-mal-la-contrasena/)
-- [Dónde ubicar un archivo .desktop para que sea visible en el menú aplicaciones de KDE](https://victorhckinthefreeworld.com/2024/04/16/donde-ubicar-un-archivo-desktop-para-que-sea-visible-en-el-menu-aplicaciones-de-kde/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

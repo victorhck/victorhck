@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
-- [Lista de reproducción con las emisoras de somaGM](https://victorhckinthefreeworld.com/2024/05/06/lista-de-reproduccion-con-las-emisoras-de-somagm/)
+- [Lista de reproducción con las emisoras de SomaFM](https://victorhckinthefreeworld.com/2024/05/06/lista-de-reproduccion-con-las-emisoras-de-somagm/)
 - [#openSUSE Tumbleweed revisión de las semanas 17 y 18 de 2024](https://victorhckinthefreeworld.com/2024/05/03/opensuse-tumbleweed-revision-de-las-semanas-17-y-18-de-2024/)
 - [Abandonado el desarrollo de Neofecth](https://victorhckinthefreeworld.com/2024/05/02/abandonado-el-desarrollo-de-neofecth/)
 - [Publicado Amarok 3.0 «Castaway»](https://victorhckinthefreeworld.com/2024/04/30/publicado-amarok-3-0-castaway/)

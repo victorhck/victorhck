@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Reproducir música mediante ssh con VLC](https://victorhckinthefreeworld.com/2024/05/07/reproducir-musica-mediante-ssh-con-vlc/)
 - [Lista de reproducción con las emisoras de SomaFM](https://victorhckinthefreeworld.com/2024/05/06/lista-de-reproduccion-con-las-emisoras-de-somagm/)
 - [#openSUSE Tumbleweed revisión de las semanas 17 y 18 de 2024](https://victorhckinthefreeworld.com/2024/05/03/opensuse-tumbleweed-revision-de-las-semanas-17-y-18-de-2024/)
 - [Abandonado el desarrollo de Neofecth](https://victorhckinthefreeworld.com/2024/05/02/abandonado-el-desarrollo-de-neofecth/)
 - [Publicado Amarok 3.0 «Castaway»](https://victorhckinthefreeworld.com/2024/04/30/publicado-amarok-3-0-castaway/)
-- [PlanetaLibre cambia su aspecto](https://victorhckinthefreeworld.com/2024/04/29/planetalibre-cambia-su-aspecto/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

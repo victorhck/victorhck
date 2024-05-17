@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicado Agama 8, el nuevo instalador de openSUSE y SUSE](https://victorhckinthefreeworld.com/2024/05/17/publicado-agama-8-el-nuevo-instalador-de-opensuse-y-suse/)
 - [#openSUSE Tumbleweed revisión de las semanas 19 y 20 de 2024](https://victorhckinthefreeworld.com/2024/05/17/opensuse-tumbleweed-revision-de-las-semanas-19-y-20-de-2024/)
 - [Cursores múltiples en el editor Kate de KDE](https://victorhckinthefreeworld.com/2024/05/15/cursores-multiples-en-el-editor-kate-de-kde/)
 - [Reproducir música mediante ssh con VLC](https://victorhckinthefreeworld.com/2024/05/07/reproducir-musica-mediante-ssh-con-vlc/)
 - [Lista de reproducción con las emisoras de SomaFM](https://victorhckinthefreeworld.com/2024/05/06/lista-de-reproduccion-con-las-emisoras-de-somagm/)
-- [#openSUSE Tumbleweed revisión de las semanas 17 y 18 de 2024](https://victorhckinthefreeworld.com/2024/05/03/opensuse-tumbleweed-revision-de-las-semanas-17-y-18-de-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

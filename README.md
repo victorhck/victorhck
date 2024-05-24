@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 21 de 2024](https://victorhckinthefreeworld.com/2024/05/24/opensuse-tumbleweed-revision-de-la-semana-21-de-2024/)
 - [Publicado MarkNote 1.2 de #KDE](https://victorhckinthefreeworld.com/2024/05/21/publicado-marknote-1-2-de-kde/)
 - [Menos de una semana para #Akademyes 2024 en Valencia](https://victorhckinthefreeworld.com/2024/05/20/menos-de-una-semana-para-akademyes-2024-en-valencia/)
 - [Publicado Agama 8, el nuevo instalador de openSUSE y SUSE](https://victorhckinthefreeworld.com/2024/05/17/publicado-agama-8-el-nuevo-instalador-de-opensuse-y-suse/)
 - [#openSUSE Tumbleweed revisión de las semanas 19 y 20 de 2024](https://victorhckinthefreeworld.com/2024/05/17/opensuse-tumbleweed-revision-de-las-semanas-19-y-20-de-2024/)
-- [Cursores múltiples en el editor Kate de KDE](https://victorhckinthefreeworld.com/2024/05/15/cursores-multiples-en-el-editor-kate-de-kde/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

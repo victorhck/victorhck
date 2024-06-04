@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Recopilación del boletín de noticias de la Free Software Foundation – junio de 2024](https://victorhckinthefreeworld.com/2024/06/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-junio-de-2024/)
 - [Publicado Amarok 3.0.1](https://victorhckinthefreeworld.com/2024/06/03/publicado-amarok-3-0-1/)
 - [#openSUSE Tumbleweed revisión de la semana 21 de 2024](https://victorhckinthefreeworld.com/2024/05/24/opensuse-tumbleweed-revision-de-la-semana-21-de-2024/)
 - [Publicado MarkNote 1.2 de #KDE](https://victorhckinthefreeworld.com/2024/05/21/publicado-marknote-1-2-de-kde/)
 - [Menos de una semana para #Akademyes 2024 en Valencia](https://victorhckinthefreeworld.com/2024/05/20/menos-de-una-semana-para-akademyes-2024-en-valencia/)
-- [Publicado Agama 8, el nuevo instalador de openSUSE y SUSE](https://victorhckinthefreeworld.com/2024/05/17/publicado-agama-8-el-nuevo-instalador-de-opensuse-y-suse/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

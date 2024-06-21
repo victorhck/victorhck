@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Disponible MyGNUHealth 2.2](https://victorhckinthefreeworld.com/2024/06/21/disponible-mygnuhealth-2-2/)
 - [Acceder más rápido al contenido del portapapeles de KDE](https://victorhckinthefreeworld.com/2024/06/20/acceder-mas-rapido-al-contenido-del-portapapeles-de-kde/)
 - [kinfo de KDE en la línea de comandos](https://victorhckinthefreeworld.com/2024/06/18/kinfo-de-kde-en-la-linea-de-comandos/)
 - [Etiquetar archivos de audio con Kid3 desde MusicBrainz](https://victorhckinthefreeworld.com/2024/06/17/etiquetar-archivos-de-audio-con-kid3-desde-musicbrainz/)
 - [#openSUSE Tumbleweed revisión de la semana 24 de 2024](https://victorhckinthefreeworld.com/2024/06/14/opensuse-tumbleweed-revision-de-la-semana-24-de-2024/)
-- [Publicado openSUSE Leap 15.6](https://victorhckinthefreeworld.com/2024/06/12/publicado-opensuse-leap-15-6/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

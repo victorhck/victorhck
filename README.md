@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Zellij la alternativa a Tmux como multiplexador de tu terminal](https://victorhckinthefreeworld.com/2024/06/24/zellij-la-alternativa-a-tmux-como-multiplexador-de-tu-terminal/)
 - [#openSUSE Tumbleweed revisión de la semana 25 de 2024](https://victorhckinthefreeworld.com/2024/06/22/opensuse-tumbleweed-revision-de-la-semana-25-de-2024/)
 - [Disponible MyGNUHealth 2.2](https://victorhckinthefreeworld.com/2024/06/21/disponible-mygnuhealth-2-2/)
 - [Acceder más rápido al contenido del portapapeles de KDE](https://victorhckinthefreeworld.com/2024/06/20/acceder-mas-rapido-al-contenido-del-portapapeles-de-kde/)
 - [kinfo de KDE en la línea de comandos](https://victorhckinthefreeworld.com/2024/06/18/kinfo-de-kde-en-la-linea-de-comandos/)
-- [Etiquetar archivos de audio con Kid3 desde MusicBrainz](https://victorhckinthefreeworld.com/2024/06/17/etiquetar-archivos-de-audio-con-kid3-desde-musicbrainz/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

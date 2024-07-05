@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de las semanas 26 y 27 de 2024](https://victorhckinthefreeworld.com/2024/07/05/opensuse-tumbleweed-revision-de-las-semanas-26-y-27-de-2024/)
 - [Thunderbird 128 a la vuelta de la esquina](https://victorhckinthefreeworld.com/2024/07/05/thunderbird-128-a-la-vuelta-de-la-esquina/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – julio de 2024](https://victorhckinthefreeworld.com/2024/07/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-julio-de-2024/)
 - [Zellij la alternativa a Tmux como multiplexador de tu terminal](https://victorhckinthefreeworld.com/2024/06/24/zellij-la-alternativa-a-tmux-como-multiplexador-de-tu-terminal/)
 - [#openSUSE Tumbleweed revisión de la semana 25 de 2024](https://victorhckinthefreeworld.com/2024/06/22/opensuse-tumbleweed-revision-de-la-semana-25-de-2024/)
-- [Disponible MyGNUHealth 2.2](https://victorhckinthefreeworld.com/2024/06/21/disponible-mygnuhealth-2-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Ejecutar un script antes de apagar el equipo con systemd en #Linux](https://victorhckinthefreeworld.com/2024/07/15/ejecutar-un-script-antes-de-apagar-el-equipo-con-systemd-en-linux/)
 - [Disponible Thunderbird 128 Nebula](https://victorhckinthefreeworld.com/2024/07/12/disponible-thunderbird-128-nebula/)
 - [Comparte software libre con tus amigos y colegas](https://victorhckinthefreeworld.com/2024/07/11/comparte-software-libre-con-tus-amigos-y-colegas/)
 - [Tiling Window en Plasma de #KDE](https://victorhckinthefreeworld.com/2024/07/10/tiling-window-en-plasma-de-kde/)
 - [Atajos de teclado con la tecla «meta» de Plasma de KDE](https://victorhckinthefreeworld.com/2024/07/09/atajos-de-teclado-con-la-tecla-meta-de-plasma-de-kde/)
-- [#openSUSE Tumbleweed revisión de las semanas 26 y 27 de 2024](https://victorhckinthefreeworld.com/2024/07/05/opensuse-tumbleweed-revision-de-las-semanas-26-y-27-de-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

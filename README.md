@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Comprobar si un equipo remoto está accesible por ssh en Linux](https://victorhckinthefreeworld.com/2024/07/29/comprobar-si-un-equipo-remoto-esta-accesible-por-ssh-en-linux/)
 - [#openSUSE Tumbleweed revisión de las semanas 28, 29 y 30 de 2024](https://victorhckinthefreeworld.com/2024/07/26/opensuse-tumbleweed-revision-de-las-semanas-28-29-y-30-de-2024/)
 - [Disponible la Beta del reproductor de música Amarok de KDE](https://victorhckinthefreeworld.com/2024/07/25/disponible-la-beta-del-reproductor-de-musica-amarok-de-kde/)
 - [Crystal Dock, tu dock para el escritorio de tu sistema #Linux](https://victorhckinthefreeworld.com/2024/07/16/crystal-dock-tu-dock-para-el-escritorio-de-tu-sistema-linux/)
 - [Ejecutar un script antes de apagar el equipo con systemd en #Linux](https://victorhckinthefreeworld.com/2024/07/15/ejecutar-un-script-antes-de-apagar-el-equipo-con-systemd-en-linux/)
-- [Disponible Thunderbird 128 Nebula](https://victorhckinthefreeworld.com/2024/07/12/disponible-thunderbird-128-nebula/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

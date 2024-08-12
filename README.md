@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Servicios libres y éticos como alternativa a las grandes tecnológicas](https://victorhckinthefreeworld.com/2024/08/12/servicios-libres-y-eticos-como-alternativa-a-las-grandes-tecnologicas/)
 - [#openSUSE Tumbleweed revisión de la semana 32 de 2024](https://victorhckinthefreeworld.com/2024/08/09/opensuse-tumbleweed-revision-de-la-semana-32-de-2024/)
 - [Cómo usar las plantillas de mensajes en Thunderbird](https://victorhckinthefreeworld.com/2024/08/08/como-usar-las-plantillas-de-mensajes-en-thunderbird/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2024](https://victorhckinthefreeworld.com/2024/08/05/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2024/)
 - [Publicado Amarok 3.1 el reproductor de música de #KDE](https://victorhckinthefreeworld.com/2024/08/04/publicado-amarok-3-1-el-reproductor-de-musica-de-kde/)
-- [#openSUSE Tumbleweed revisión de la semana 31 de 2024](https://victorhckinthefreeworld.com/2024/08/02/opensuse-tumbleweed-revision-de-la-semana-31-de-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

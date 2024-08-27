@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Crea tu web con Portabloc. El CMS minimalista, ligero y personalible.](https://victorhckinthefreeworld.com/2024/08/27/portabloc-cms-minimalista-ligero-y-personalible/)
 - [lsd el reemplazo en Rust del comando ls de GNU](https://victorhckinthefreeworld.com/2024/08/26/lsd-el-reemplazo-en-rust-del-comando-ls-de-gnu/)
 - [Ver vídeos de YouTube sin entrar en su web con el reproductor mpv](https://victorhckinthefreeworld.com/2024/08/24/ver-videos-de-youtube-sin-entrar-en-su-web-con-el-reproductor-mpv/)
 - [#openSUSE Tumbleweed revisión de la semana 34 de 2024](https://victorhckinthefreeworld.com/2024/08/23/opensuse-tumbleweed-revision-de-la-semana-34-de-2024/)
 - [#openSUSE Tumbleweed revisión de la semana 33 de 2024](https://victorhckinthefreeworld.com/2024/08/16/opensuse-tumbleweed-revision-de-la-semana-33-de-2024/)
-- [Servicios libres y éticos como alternativa a las grandes tecnológicas](https://victorhckinthefreeworld.com/2024/08/12/servicios-libres-y-eticos-como-alternativa-a-las-grandes-tecnologicas/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

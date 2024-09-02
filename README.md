@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [SUSE libera su fuente tipográfica para que la uses donde quieras](https://victorhckinthefreeworld.com/2024/09/02/suse-libera-su-fuente-tipografica-para-que-la-uses-donde-quieras/)
 - [#openSUSE Tumbleweed revisión de la semana 35 de 2024](https://victorhckinthefreeworld.com/2024/08/30/opensuse-tumbleweed-revision-de-la-semana-35-de-2024/)
 - [Oh My Posh da color e información al prompt de tu terminal](https://victorhckinthefreeworld.com/2024/08/29/oh-my-posh-da-color-e-informacion-al-prompt-de-tu-terminal/)
 - [Añadir una nueva fuente tipográfica en el escritorio Plasma de KDE](https://victorhckinthefreeworld.com/2024/08/28/anadir-una-nueva-fuente-tipografica-en-el-escritorio-plasma-de-kde/)
 - [Crea tu web con Portabloc. El CMS minimalista, ligero y personalible.](https://victorhckinthefreeworld.com/2024/08/27/portabloc-cms-minimalista-ligero-y-personalible/)
-- [lsd el reemplazo en Rust del comando ls de GNU](https://victorhckinthefreeworld.com/2024/08/26/lsd-el-reemplazo-en-rust-del-comando-ls-de-gnu/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

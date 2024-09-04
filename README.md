@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Recopilación del boletín de noticias de la Free Software Foundation – septiembre de 2024](https://victorhckinthefreeworld.com/2024/09/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-septiembre-de-2024/)
 - [Appointment de Thunderbird simplifica la programación de reuniones](https://victorhckinthefreeworld.com/2024/09/03/appointment-de-thunderbird-simplifica-la-programacion-de-reuniones/)
 - [SUSE libera su fuente tipográfica para que la uses donde quieras](https://victorhckinthefreeworld.com/2024/09/02/suse-libera-su-fuente-tipografica-para-que-la-uses-donde-quieras/)
 - [#openSUSE Tumbleweed revisión de la semana 35 de 2024](https://victorhckinthefreeworld.com/2024/08/30/opensuse-tumbleweed-revision-de-la-semana-35-de-2024/)
 - [Oh My Posh da color e información al prompt de tu terminal](https://victorhckinthefreeworld.com/2024/08/29/oh-my-posh-da-color-e-informacion-al-prompt-de-tu-terminal/)
-- [Añadir una nueva fuente tipográfica en el escritorio Plasma de KDE](https://victorhckinthefreeworld.com/2024/08/28/anadir-una-nueva-fuente-tipografica-en-el-escritorio-plasma-de-kde/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

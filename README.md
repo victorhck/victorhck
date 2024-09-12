@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [ReactFlux una interfaz web para tu instancia de Miniflux](https://victorhckinthefreeworld.com/2024/09/12/reactflux-una-interfaz-web-para-tu-instancia-de-miniflux/)
 - [Miniflux el lector de feeds minimalista y obstinado](https://victorhckinthefreeworld.com/2024/09/11/miniflux-el-lector-de-feeds-minimalista-y-obstinado/)
 - [La multinacional Hachette contra la cultura que ofrece Internet Archive](https://victorhckinthefreeworld.com/2024/09/05/la-multinacional-hachette-contra-la-cultura-que-ofrece-internet-archive/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – septiembre de 2024](https://victorhckinthefreeworld.com/2024/09/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-septiembre-de-2024/)
 - [Appointment de Thunderbird simplifica la programación de reuniones](https://victorhckinthefreeworld.com/2024/09/03/appointment-de-thunderbird-simplifica-la-programacion-de-reuniones/)
-- [SUSE libera su fuente tipográfica para que la uses donde quieras](https://victorhckinthefreeworld.com/2024/09/02/suse-libera-su-fuente-tipografica-para-que-la-uses-donde-quieras/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

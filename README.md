@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [CommaFeed el lector de RSS inspirado en Google Reader](https://victorhckinthefreeworld.com/2024/09/16/commafeed-el-lector-de-rss-inspirado-en-google-reader/)
 - [#openSUSE Tumbleweed revisión de las semana 36 y 37 de 2024](https://victorhckinthefreeworld.com/2024/09/13/opensuse-tumbleweed-revision-de-las-semana-36-y-37-de-2024/)
 - [ReactFlux una interfaz web para tu instancia de Miniflux](https://victorhckinthefreeworld.com/2024/09/12/reactflux-una-interfaz-web-para-tu-instancia-de-miniflux/)
 - [Miniflux el lector de feeds minimalista y obstinado](https://victorhckinthefreeworld.com/2024/09/11/miniflux-el-lector-de-feeds-minimalista-y-obstinado/)
 - [La multinacional Hachette contra la cultura que ofrece Internet Archive](https://victorhckinthefreeworld.com/2024/09/05/la-multinacional-hachette-contra-la-cultura-que-ofrece-internet-archive/)
-- [Recopilación del boletín de noticias de la Free Software Foundation – septiembre de 2024](https://victorhckinthefreeworld.com/2024/09/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-septiembre-de-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

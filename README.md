@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Es hora de recuperar Internet](https://victorhckinthefreeworld.com/2024/10/01/es-hora-de-recuperar-internet/)
 - [Publicado Amarok 3.1.1](https://victorhckinthefreeworld.com/2024/09/30/publicado-amarok-3-1-1/)
 - [#openSUSE Tumbleweed revisión de la semana 39 de 2024](https://victorhckinthefreeworld.com/2024/09/27/opensuse-tumbleweed-revision-de-la-semana-39-de-2024/)
 - [Configurar OTP en pass](https://victorhckinthefreeworld.com/2024/09/25/configurar-otp-en-pass/)
 - [#openSUSE Tumbleweed revisión de la semana 38 de 2024](https://victorhckinthefreeworld.com/2024/09/20/opensuse-tumbleweed-revision-de-la-semana-38-de-2024/)
-- [Cómo bloquear un remitente en Thunderbird](https://victorhckinthefreeworld.com/2024/09/19/como-bloquear-un-remitente-en-thunderbird/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

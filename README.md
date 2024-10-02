@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Copiar en la terminal la salidad de un comando en el portapapeles de Linux](https://victorhckinthefreeworld.com/2024/10/02/copiar-en-la-terminal-la-salidad-de-un-comando-en-el-portapapeles-de-linux/)
 - [Ya puedes probar la versión Beta del cliente de correo Thunderbird para Android](https://victorhckinthefreeworld.com/2024/10/01/ya-puedes-probar-la-version-beta-del-cliente-de-correo-thunderbird-para-android/)
 - [Es hora de recuperar Internet](https://victorhckinthefreeworld.com/2024/10/01/es-hora-de-recuperar-internet/)
 - [Publicado Amarok 3.1.1](https://victorhckinthefreeworld.com/2024/09/30/publicado-amarok-3-1-1/)
 - [#openSUSE Tumbleweed revisión de la semana 39 de 2024](https://victorhckinthefreeworld.com/2024/09/27/opensuse-tumbleweed-revision-de-la-semana-39-de-2024/)
-- [Configurar OTP en pass](https://victorhckinthefreeworld.com/2024/09/25/configurar-otp-en-pass/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Ya se empieza a perfilar la próxima openSUSE Leap 16](https://victorhckinthefreeworld.com/2024/10/07/ya-se-empieza-a-perfilar-la-proxima-opensuse-leap-16/)
 - [#openSUSE Tumbleweed revisión de la semana 40 de 2024](https://victorhckinthefreeworld.com/2024/10/04/opensuse-tumbleweed-revision-de-la-semana-40-de-2024/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – octubre de 2024](https://victorhckinthefreeworld.com/2024/10/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-octubre-de-2024/)
 - [Copiar en la terminal la salidad de un comando en el portapapeles de Linux](https://victorhckinthefreeworld.com/2024/10/02/copiar-en-la-terminal-la-salidad-de-un-comando-en-el-portapapeles-de-linux/)
 - [Ya puedes probar la versión Beta del cliente de correo Thunderbird para Android](https://victorhckinthefreeworld.com/2024/10/01/ya-puedes-probar-la-version-beta-del-cliente-de-correo-thunderbird-para-android/)
-- [Es hora de recuperar Internet](https://victorhckinthefreeworld.com/2024/10/01/es-hora-de-recuperar-internet/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 42 de 2024](https://victorhckinthefreeworld.com/2024/10/18/opensuse-tumbleweed-revision-de-la-semana-42-de-2024/)
 - [Toma nota KDE](https://victorhckinthefreeworld.com/2024/10/16/toma-nota-kde/)
 - [#openSUSE Tumbleweed revisión de la semana 41 de 2024](https://victorhckinthefreeworld.com/2024/10/11/opensuse-tumbleweed-revision-de-la-semana-41-de-2024/)
 - [Ya se empieza a perfilar la próxima openSUSE Leap 16](https://victorhckinthefreeworld.com/2024/10/07/ya-se-empieza-a-perfilar-la-proxima-opensuse-leap-16/)
 - [#openSUSE Tumbleweed revisión de la semana 40 de 2024](https://victorhckinthefreeworld.com/2024/10/04/opensuse-tumbleweed-revision-de-la-semana-40-de-2024/)
-- [Recopilación del boletín de noticias de la Free Software Foundation – octubre de 2024](https://victorhckinthefreeworld.com/2024/10/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-octubre-de-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

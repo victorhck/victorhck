@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 44 de 2024](https://victorhckinthefreeworld.com/2024/11/02/opensuse-tumbleweed-revision-de-la-semana-44-de-2024/)
 - [Ya disponible Thunderbird 8 para Android](https://victorhckinthefreeworld.com/2024/10/30/ya-disponible-thunderbird-8-para-android/)
 - [La funcionalidad «escondida» de los marcadores de Firefox](https://victorhckinthefreeworld.com/2024/10/28/la-funcionalidad-escondida-de-los-marcadores-de-firefox/)
 - [#openSUSE Tumbleweed revisión de la semana 43 de 2024](https://victorhckinthefreeworld.com/2024/10/25/opensuse-tumbleweed-revision-de-la-semana-43-de-2024/)
 - [#openSUSE Tumbleweed revisión de la semana 42 de 2024](https://victorhckinthefreeworld.com/2024/10/18/opensuse-tumbleweed-revision-de-la-semana-42-de-2024/)
-- [Toma nota KDE](https://victorhckinthefreeworld.com/2024/10/16/toma-nota-kde/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

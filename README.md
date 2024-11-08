@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [El desarrollador de Vim, Bram Moolenaar, recibe póstumamente el Premio Europeo SFS](https://victorhckinthefreeworld.com/2024/11/08/el-desarrollador-de-vim-bram-moolenaar-recibe-postumamente-el-premio-europeo-sfs/)
 - [Concurso para diseñar el logotipo de celebración de los 40 años de la FSF](https://victorhckinthefreeworld.com/2024/11/06/concurso-para-disenar-el-logotipo-de-celebracion-de-los-40-anos-de-la-fsf/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – noviembre de 2024](https://victorhckinthefreeworld.com/2024/11/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-noviembre-de-2024/)
 - [#openSUSE Tumbleweed revisión de la semana 44 de 2024](https://victorhckinthefreeworld.com/2024/11/02/opensuse-tumbleweed-revision-de-la-semana-44-de-2024/)
 - [Ya disponible Thunderbird 8 para Android](https://victorhckinthefreeworld.com/2024/10/30/ya-disponible-thunderbird-8-para-android/)
-- [La funcionalidad «escondida» de los marcadores de Firefox](https://victorhckinthefreeworld.com/2024/10/28/la-funcionalidad-escondida-de-los-marcadores-de-firefox/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

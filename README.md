@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [20 años del navegador Firefox](https://victorhckinthefreeworld.com/2024/11/19/20-anos-del-navegador-firefox/)
 - [#openSUSE Tumbleweed revisión de la semana 46 de 2024](https://victorhckinthefreeworld.com/2024/11/15/opensuse-tumbleweed-revision-de-la-semana-46-de-2024/)
 - [El software libre como derecho humano](https://victorhckinthefreeworld.com/2024/11/14/el-software-libre-como-derecho-humano/)
 - [#openSUSE Tumbleweed revisión de la semana 45 de 2024](https://victorhckinthefreeworld.com/2024/11/08/opensuse-tumbleweed-revision-de-la-semana-45-de-2024/)
 - [El desarrollador de Vim, Bram Moolenaar, recibe póstumamente el Premio Europeo SFS](https://victorhckinthefreeworld.com/2024/11/08/el-desarrollador-de-vim-bram-moolenaar-recibe-postumamente-el-premio-europeo-sfs/)
-- [Concurso para diseñar el logotipo de celebración de los 40 años de la FSF](https://victorhckinthefreeworld.com/2024/11/06/concurso-para-disenar-el-logotipo-de-celebracion-de-los-40-anos-de-la-fsf/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

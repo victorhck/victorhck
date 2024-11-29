@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 48 de 2024](https://victorhckinthefreeworld.com/2024/11/29/opensuse-tumbleweed-revision-de-la-semana-48-de-2024/)
 - [#openSUSE Tumbleweed revisión de la semana 47 de 2024](https://victorhckinthefreeworld.com/2024/11/22/opensuse-tumbleweed-revision-de-la-semana-47-de-2024/)
 - [20 años del navegador Firefox](https://victorhckinthefreeworld.com/2024/11/19/20-anos-del-navegador-firefox/)
 - [#openSUSE Tumbleweed revisión de la semana 46 de 2024](https://victorhckinthefreeworld.com/2024/11/15/opensuse-tumbleweed-revision-de-la-semana-46-de-2024/)
 - [El software libre como derecho humano](https://victorhckinthefreeworld.com/2024/11/14/el-software-libre-como-derecho-humano/)
-- [#openSUSE Tumbleweed revisión de la semana 45 de 2024](https://victorhckinthefreeworld.com/2024/11/08/opensuse-tumbleweed-revision-de-la-semana-45-de-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

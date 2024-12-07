@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [El cliente de correo Thunderbird cumple 20 años](https://victorhckinthefreeworld.com/2024/12/07/el-cliente-de-correo-thunderbird-cumple-20-anos/)
 - [#openSUSE Tumbleweed revisión de la semana 49 de 2024](https://victorhckinthefreeworld.com/2024/12/06/opensuse-tumbleweed-revision-de-la-semana-49-de-2024/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – diciembre de 2024](https://victorhckinthefreeworld.com/2024/12/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-diciembre-de-2024/)
 - [Herramienta para actualizar entre distintas versiones de openSUSE](https://victorhckinthefreeworld.com/2024/12/02/herramienta-para-actualizar-entre-distintas-versiones-de-opensuse/)
 - [#openSUSE Tumbleweed revisión de la semana 48 de 2024](https://victorhckinthefreeworld.com/2024/11/29/opensuse-tumbleweed-revision-de-la-semana-48-de-2024/)
-- [#openSUSE Tumbleweed revisión de la semana 47 de 2024](https://victorhckinthefreeworld.com/2024/11/22/opensuse-tumbleweed-revision-de-la-semana-47-de-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

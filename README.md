@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 50 de 2024](https://victorhckinthefreeworld.com/2024/12/20/opensuse-tumbleweed-revision-de-la-semana-51-de-2024/)
 - [HTML para personas ahora también en Markdown y PDF](https://victorhckinthefreeworld.com/2024/12/17/html-para-personas-ahora-tambien-en-markdown-y-pdf/)
 - [#openSUSE Tumbleweed revisión de la semana 50 de 2024](https://victorhckinthefreeworld.com/2024/12/13/opensuse-tumbleweed-revision-de-la-semana-50-de-2024/)
 - [Aprende HTML desde cero y crea tu propio sitio web](https://victorhckinthefreeworld.com/2024/12/11/aprende-html-desde-cero-y-crea-tu-propio-sitio-web/)
 - [Eliminar toots antiguos de Mastodon de manera nativa](https://victorhckinthefreeworld.com/2024/12/09/eliminar-toots-antiguos-de-mastodon-de-manera-nativa/)
-- [El cliente de correo Thunderbird cumple 20 años](https://victorhckinthefreeworld.com/2024/12/07/el-cliente-de-correo-thunderbird-cumple-20-anos/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

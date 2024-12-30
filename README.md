@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicado Amarok 3.2 «Punkadiddle»](https://victorhckinthefreeworld.com/2024/12/30/publicado-amarok-3-2-punkadiddle/)
 - [YQPKG un nuevo gestor de software de #openSUSE como reemplazo a YaST](https://victorhckinthefreeworld.com/2024/12/26/yqpkg-un-nuevo-gestor-de-software-de-opensuse-como-reemplazo-a-yast/)
 - [#openSUSE Tumbleweed revisión de la semana 50 de 2024](https://victorhckinthefreeworld.com/2024/12/20/opensuse-tumbleweed-revision-de-la-semana-51-de-2024/)
 - [HTML para personas ahora también en Markdown y PDF](https://victorhckinthefreeworld.com/2024/12/17/html-para-personas-ahora-tambien-en-markdown-y-pdf/)
 - [#openSUSE Tumbleweed revisión de la semana 50 de 2024](https://victorhckinthefreeworld.com/2024/12/13/opensuse-tumbleweed-revision-de-la-semana-50-de-2024/)
-- [Aprende HTML desde cero y crea tu propio sitio web](https://victorhckinthefreeworld.com/2024/12/11/aprende-html-desde-cero-y-crea-tu-propio-sitio-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

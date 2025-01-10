@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 50 de 2024](https://victorhckinthefreeworld.com/2025/01/10/opensuse-tumbleweed-revision-de-la-semana-50-de-2024-2/)
 - [El diseño gráfico en los proyectos comunitarios de software libre](https://victorhckinthefreeworld.com/2025/01/10/el-diseno-grafico-en-los-proyectos-comunitarios-de-software-libre/)
 - [Aprende mecanografía en la terminal con Gtypist](https://victorhckinthefreeworld.com/2025/01/09/aprende-mecanografia-en-la-terminal-con-gtypist/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – enero de 2025](https://victorhckinthefreeworld.com/2025/01/07/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-diciembre-de-2024-2/)
 - [La suma de nuestras decisiones](https://victorhckinthefreeworld.com/2025/01/05/la-suma-de-nuestras-decisiones/)
-- [Publicado Amarok 3.2 «Punkadiddle»](https://victorhckinthefreeworld.com/2024/12/30/publicado-amarok-3-2-punkadiddle/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

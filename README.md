@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Curso interactivo de #Vim en el navegador](https://victorhckinthefreeworld.com/2025/01/15/curso-interactivo-de-vim-en-el-navegador/)
 - [Aprende mecanografía con Ktouch de KDE](https://victorhckinthefreeworld.com/2025/01/14/aprende-mecanografia-con-ktouch-de-kde/)
 - [Publicado Amarok 3.2.1](https://victorhckinthefreeworld.com/2025/01/13/publicado-amarok-3-2-1/)
 - [Pasa página…](https://victorhckinthefreeworld.com/2025/01/12/pasa-pagina/)
 - [#openSUSE Tumbleweed revisión de la semana 50 de 2024](https://victorhckinthefreeworld.com/2025/01/10/opensuse-tumbleweed-revision-de-la-semana-50-de-2024-2/)
-- [El diseño gráfico en los proyectos comunitarios de software libre](https://victorhckinthefreeworld.com/2025/01/10/el-diseno-grafico-en-los-proyectos-comunitarios-de-software-libre/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

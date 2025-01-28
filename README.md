@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicado Agama 11](https://victorhckinthefreeworld.com/2025/01/28/publicado-agama-11/)
 - [Comunal en lo digital. Individual en la vida real](https://victorhckinthefreeworld.com/2025/01/26/comunal-en-lo-digital-individual-en-la-vida-real/)
 - [#openSUSE Tumbleweed revisión de la semana 4 de 2025](https://victorhckinthefreeworld.com/2025/01/24/opensuse-tumbleweed-revision-de-la-semana-4-de-2025/)
 - [Descubriendo Haruna el reproductor multimedia de #KDE](https://victorhckinthefreeworld.com/2025/01/23/descubriendo-haruna-el-reproductor-multimedia-de-kde/)
 - [Trabajando con Git en el editor Kate de KDE](https://victorhckinthefreeworld.com/2025/01/22/trabajando-con-git-en-el-editor-kate-de-kde/)
-- [PowerToys de Microsoft para no añorar mi KDE en Windows](https://victorhckinthefreeworld.com/2025/01/20/powertoys-de-microsoft-para-no-anorar-mi-kde-en-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

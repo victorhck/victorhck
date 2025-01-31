@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 5 de 2025](https://victorhckinthefreeworld.com/2025/01/31/opensuse-tumbleweed-revision-de-la-semana-5-de-2025/)
 - [Mi blog forma parte del fediverso](https://victorhckinthefreeworld.com/2025/01/29/mi-blog-forma-parte-del-fediverso/)
 - [Publicado Agama 11](https://victorhckinthefreeworld.com/2025/01/28/publicado-agama-11/)
 - [Comunal en lo digital. Individual en la vida real](https://victorhckinthefreeworld.com/2025/01/26/comunal-en-lo-digital-individual-en-la-vida-real/)
 - [#openSUSE Tumbleweed revisión de la semana 4 de 2025](https://victorhckinthefreeworld.com/2025/01/24/opensuse-tumbleweed-revision-de-la-semana-4-de-2025/)
-- [Descubriendo Haruna el reproductor multimedia de #KDE](https://victorhckinthefreeworld.com/2025/01/23/descubriendo-haruna-el-reproductor-multimedia-de-kde/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

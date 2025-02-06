@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Glaxnimate forma parte de la comunidad #KDE](https://victorhckinthefreeworld.com/2025/02/06/glaxnimate-forma-parte-de-la-comunidad-kde/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – febrero de 2025](https://victorhckinthefreeworld.com/2025/02/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-febrero-de-2025/)
 - [Fue la última vez y no lo sabías](https://victorhckinthefreeworld.com/2025/02/02/fue-la-ultima-vez-y-no-lo-sabias/)
 - [#openSUSE Tumbleweed revisión de la semana 5 de 2025](https://victorhckinthefreeworld.com/2025/01/31/opensuse-tumbleweed-revision-de-la-semana-5-de-2025/)
 - [Mi blog forma parte del fediverso](https://victorhckinthefreeworld.com/2025/01/29/mi-blog-forma-parte-del-fediverso/)
-- [Publicado Agama 11](https://victorhckinthefreeworld.com/2025/01/28/publicado-agama-11/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

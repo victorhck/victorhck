@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [openSUSE Tumbleweed KDE Plasma: post instalación, consejos y recomendaciones](https://victorhckinthefreeworld.com/2025/02/11/opensuse-tumbleweed-kde-plasma-post-instalacion-consejos-y-recomendaciones/)
 - [Yqpkg ahora es Myrlyn la herramienta para gestionar tu software en #openSUSE](https://victorhckinthefreeworld.com/2025/02/10/yqpkg-ahora-es-myrlyn-la-herramienta-para-gestionar-tu-software-en-opensuse/)
 - [¿Yo soy aquel?](https://victorhckinthefreeworld.com/2025/02/09/yo-soy-aquel/)
 - [#openSUSE Tumbleweed revisión de la semana 6 de 2025](https://victorhckinthefreeworld.com/2025/02/07/opensuse-tumbleweed-revision-de-la-semana-6-de-2025/)
 - [Glaxnimate forma parte de la comunidad #KDE](https://victorhckinthefreeworld.com/2025/02/06/glaxnimate-forma-parte-de-la-comunidad-kde/)
-- [Recopilación del boletín de noticias de la Free Software Foundation – febrero de 2025](https://victorhckinthefreeworld.com/2025/02/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-febrero-de-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

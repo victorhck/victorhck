@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Carta abierta a Mark Zuckerberg](https://victorhckinthefreeworld.com/2025/02/16/carta-abierta-a-mark-zuckerberg/)
 - [#openSUSE Tumbleweed revisión de la semana 7 de 2025](https://victorhckinthefreeworld.com/2025/02/15/opensuse-tumbleweed-revision-de-la-semana-7-de-2025/)
 - [I ❤️ Free Software Day 2025: Proyectos ocultos #Ilovefs](https://victorhckinthefreeworld.com/2025/02/14/i-%e2%9d%a4%ef%b8%8f-free-software-day-2025-proyectos-ocultos-ilovefs/)
 - [Boletín de noticias de la Free Software Foundation Europe – Febrero 2025](https://victorhckinthefreeworld.com/2025/02/13/boletin-de-noticias-de-la-free-software-foundation-europe-febrero-2025/)
 - [openSUSE Tumbleweed KDE Plasma: post instalación, consejos y recomendaciones](https://victorhckinthefreeworld.com/2025/02/11/opensuse-tumbleweed-kde-plasma-post-instalacion-consejos-y-recomendaciones/)
-- [Yqpkg ahora es Myrlyn la herramienta para gestionar tu software en #openSUSE](https://victorhckinthefreeworld.com/2025/02/10/yqpkg-ahora-es-myrlyn-la-herramienta-para-gestionar-tu-software-en-opensuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

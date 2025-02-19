@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [openSUSE se plantea abandonar la compatibilidad con BIOS Legacy](https://victorhckinthefreeworld.com/2025/02/19/opensuse-se-plantea-abandonar-la-compatibilidad-con-bios-legacy/)
 - [openSUSE Tumbleweed utilizará SELinux de manera predeterminada](https://victorhckinthefreeworld.com/2025/02/18/opensuse-tumbleweed-utilizara-selinux-de-manera-predeterminada/)
 - [Publicado Amarok 3.2.2](https://victorhckinthefreeworld.com/2025/02/17/publicado-amarok-3-2-2/)
 - [Carta abierta a Mark Zuckerberg](https://victorhckinthefreeworld.com/2025/02/16/carta-abierta-a-mark-zuckerberg/)
 - [#openSUSE Tumbleweed revisión de la semana 7 de 2025](https://victorhckinthefreeworld.com/2025/02/15/opensuse-tumbleweed-revision-de-la-semana-7-de-2025/)
-- [I ❤️ Free Software Day 2025: Proyectos ocultos #Ilovefs](https://victorhckinthefreeworld.com/2025/02/14/i-%e2%9d%a4%ef%b8%8f-free-software-day-2025-proyectos-ocultos-ilovefs/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

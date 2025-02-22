@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 8 de 2025](https://victorhckinthefreeworld.com/2025/02/22/opensuse-tumbleweed-revision-de-la-semana-8-de-2025/)
 - [Crow Translate es parte del proyecto #KDE](https://victorhckinthefreeworld.com/2025/02/20/crow-translate-es-parte-del-proyecto-kde/)
 - [openSUSE se plantea abandonar la compatibilidad con BIOS Legacy](https://victorhckinthefreeworld.com/2025/02/19/opensuse-se-plantea-abandonar-la-compatibilidad-con-bios-legacy/)
 - [openSUSE Tumbleweed utilizará SELinux de manera predeterminada](https://victorhckinthefreeworld.com/2025/02/18/opensuse-tumbleweed-utilizara-selinux-de-manera-predeterminada/)
 - [Publicado Amarok 3.2.2](https://victorhckinthefreeworld.com/2025/02/17/publicado-amarok-3-2-2/)
-- [Carta abierta a Mark Zuckerberg](https://victorhckinthefreeworld.com/2025/02/16/carta-abierta-a-mark-zuckerberg/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

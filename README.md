@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicado Fish 4.0.0 la primera versión de esta shell en Rust](https://victorhckinthefreeworld.com/2025/02/27/publicado-fish-4-0-0-la-primera-version-de-esta-shell-en-rust/)
 - [#KDE pone una oferta de trabajo para contratar un ingeniero de software](https://victorhckinthefreeworld.com/2025/02/25/kde-pone-una-oferta-de-trabajo-para-contratar-un-ingeniero-de-software/)
 - [Software libre y política](https://victorhckinthefreeworld.com/2025/02/23/software-libre-y-politica/)
 - [#openSUSE Tumbleweed revisión de la semana 8 de 2025](https://victorhckinthefreeworld.com/2025/02/22/opensuse-tumbleweed-revision-de-la-semana-8-de-2025/)
 - [Crow Translate es parte del proyecto #KDE](https://victorhckinthefreeworld.com/2025/02/20/crow-translate-es-parte-del-proyecto-kde/)
-- [openSUSE se plantea abandonar la compatibilidad con BIOS Legacy](https://victorhckinthefreeworld.com/2025/02/19/opensuse-se-plantea-abandonar-la-compatibilidad-con-bios-legacy/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

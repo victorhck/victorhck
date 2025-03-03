@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Conversaciones con blogueros. Mi entrevista para Tecnolocuras](https://victorhckinthefreeworld.com/2025/03/03/conversaciones-con-blogueros-mi-entrevista-para-tecnolocuras/)
 - [Libro «La filosofía es La Polla» del escritor Tomás García Azkonobieta](https://victorhckinthefreeworld.com/2025/03/02/la-filosofia-es-la-polla-de-tomas-garcia-azkonobieta/)
 - [#openSUSE Tumbleweed revisión de la semana 9 de 2025](https://victorhckinthefreeworld.com/2025/03/01/opensuse-tumbleweed-revision-de-la-semana-9-de-2025/)
 - [Agama el nuevo instalador de SUSE y openSUSE publica su versión 12](https://victorhckinthefreeworld.com/2025/02/28/agama-el-nuevo-instalador-de-suse-y-opensuse-publica-su-version-12/)
 - [Publicado Fish 4.0.0 la primera versión de esta shell en Rust](https://victorhckinthefreeworld.com/2025/02/27/publicado-fish-4-0-0-la-primera-version-de-esta-shell-en-rust/)
-- [#KDE pone una oferta de trabajo para contratar un ingeniero de software](https://victorhckinthefreeworld.com/2025/02/25/kde-pone-una-oferta-de-trabajo-para-contratar-un-ingeniero-de-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

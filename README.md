@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Recopilación del boletín de noticias de la Free Software Foundation – marzo de 2025](https://victorhckinthefreeworld.com/2025/03/11/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-marzo-de-2025/)
 - [Librecan 2025 el evento en Canarias para entusiastas del #softwarelibre](https://victorhckinthefreeworld.com/2025/03/10/librecan-2025-el-evento-en-canarias-para-entusiastas-del-softwarelibre/)
 - [#openSUSE Tumbleweed revisión de la semana 10 de 2025](https://victorhckinthefreeworld.com/2025/03/07/opensuse-tumbleweed-revision-de-la-semana-10-de-2025/)
 - [Ada &amp; Zangemann – Un cuento sobre software, monopatines y helado de frambuesa](https://victorhckinthefreeworld.com/2025/03/05/ada-zangemann-un-cuento-sobre-software-monopatines-y-helado-de-frambuesa/)
 - [Boletín de noticias de la Free Software Foundation Europe – marzo 2025](https://victorhckinthefreeworld.com/2025/03/04/boletin-de-noticias-de-la-free-software-foundation-europe-marzo-2025/)
-- [Conversaciones con blogueros. Mi entrevista para Tecnolocuras](https://victorhckinthefreeworld.com/2025/03/03/conversaciones-con-blogueros-mi-entrevista-para-tecnolocuras/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

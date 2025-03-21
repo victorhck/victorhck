@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de las semanas 11 y 12 de 2025](https://victorhckinthefreeworld.com/2025/03/21/opensuse-tumbleweed-revision-de-las-semanas-11-y-12-de-2025/)
 - [Instalar la shell Fish 4 en #openSUSE Tumbleweed](https://victorhckinthefreeworld.com/2025/03/21/instalar-la-shell-fish-4-en-opensuse-tumbleweed/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – marzo de 2025](https://victorhckinthefreeworld.com/2025/03/11/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-marzo-de-2025/)
 - [Librecan 2025 el evento en Canarias para entusiastas del #softwarelibre](https://victorhckinthefreeworld.com/2025/03/10/librecan-2025-el-evento-en-canarias-para-entusiastas-del-softwarelibre/)
 - [#openSUSE Tumbleweed revisión de la semana 10 de 2025](https://victorhckinthefreeworld.com/2025/03/07/opensuse-tumbleweed-revision-de-la-semana-10-de-2025/)
-- [Ada &amp; Zangemann – Un cuento sobre software, monopatines y helado de frambuesa](https://victorhckinthefreeworld.com/2025/03/05/ada-zangemann-un-cuento-sobre-software-monopatines-y-helado-de-frambuesa/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

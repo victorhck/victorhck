@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [wl-clipboard para copiar/pegar en la línea de comandos en Wayland](https://victorhckinthefreeworld.com/2025/03/31/wl-clipboard-para-copiar-pegar-en-la-linea-de-comandos-en-wayland/)
 - [#openSUSE Tumbleweed revisión de la semana 13 de 2025](https://victorhckinthefreeworld.com/2025/03/28/opensuse-tumbleweed-revision-de-la-semana-13-de-2025/)
 - [Zypper el gestor de paquetes de openSUSE mejora su velocidad](https://victorhckinthefreeworld.com/2025/03/27/zypper-el-gestor-de-paquetes-de-opensuse-mejora-su-velocidad/)
 - [Abelujo, el único software libre disponible para la gestión de librerías](https://victorhckinthefreeworld.com/2025/03/26/abelujo-el-unico-software-libre-disponible-para-la-gestion-de-librerias/)
 - [#openSUSE Tumbleweed revisión de las semanas 11 y 12 de 2025](https://victorhckinthefreeworld.com/2025/03/21/opensuse-tumbleweed-revision-de-las-semanas-11-y-12-de-2025/)
-- [Instalar la shell Fish 4 en #openSUSE Tumbleweed](https://victorhckinthefreeworld.com/2025/03/21/instalar-la-shell-fish-4-en-opensuse-tumbleweed/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

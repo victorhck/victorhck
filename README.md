@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicado Agama 13. El nuevo instalador de SUSE y openSUSE](https://victorhckinthefreeworld.com/2025/04/09/publicado-agama-13-el-nuevo-instalador-de-suse-y-opensuse/)
 - [#openSUSE Tumbleweed revisión de la semana 14 de 2025](https://victorhckinthefreeworld.com/2025/04/04/opensuse-tumbleweed-revision-de-la-semana-14-de-2025/)
 - [KDE Slimbook VI se convierte en mi nuevo portátil](https://victorhckinthefreeworld.com/2025/04/03/kde-slimbook-vi-se-convierte-en-mi-nuevo-portatil/)
 - [Boletín de noticias de la Free Software Foundation Europe – abril 2025](https://victorhckinthefreeworld.com/2025/04/02/boletin-de-noticias-de-la-free-software-foundation-europe-abril-2025/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – abril de 2025](https://victorhckinthefreeworld.com/2025/04/01/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-abril-de-2025/)
-- [wl-clipboard para copiar/pegar en la línea de comandos en Wayland](https://victorhckinthefreeworld.com/2025/03/31/wl-clipboard-para-copiar-pegar-en-la-linea-de-comandos-en-wayland/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

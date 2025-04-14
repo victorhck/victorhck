@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Disponible la beta para Amarok 3.3](https://victorhckinthefreeworld.com/2025/04/14/disponible-la-beta-para-amarok-3-3/)
 - [#openSUSE Tumbleweed revisión de la semana 15 de 2025](https://victorhckinthefreeworld.com/2025/04/11/opensuse-tumbleweed-revision-de-la-semana-15-de-2025/)
 - [No mostrar en Thunderbird la pantalla de bienvenida](https://victorhckinthefreeworld.com/2025/04/10/no-mostrar-en-thunderbird-la-pantalla-de-bienvenida/)
 - [Publicado Agama 13. El nuevo instalador de SUSE y openSUSE](https://victorhckinthefreeworld.com/2025/04/09/publicado-agama-13-el-nuevo-instalador-de-suse-y-opensuse/)
 - [#openSUSE Tumbleweed revisión de la semana 14 de 2025](https://victorhckinthefreeworld.com/2025/04/04/opensuse-tumbleweed-revision-de-la-semana-14-de-2025/)
-- [KDE Slimbook VI se convierte en mi nuevo portátil](https://victorhckinthefreeworld.com/2025/04/03/kde-slimbook-vi-se-convierte-en-mi-nuevo-portatil/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

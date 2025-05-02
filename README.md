@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 18 de 2025](https://victorhckinthefreeworld.com/2025/05/02/opensuse-tumbleweed-revision-de-la-semana-18-de-2025/)
 - [Disponible openSUSE Leap 16 Beta](https://victorhckinthefreeworld.com/2025/04/30/disponible-opensuse-leap-16-beta/)
 - [¿Existe un internet artesanal?](https://victorhckinthefreeworld.com/2025/04/27/existe-un-internet-artesanal/)
 - [#openSUSE Tumbleweed revisión de las semanas 16 y 17 de 2025](https://victorhckinthefreeworld.com/2025/04/25/opensuse-tumbleweed-revision-de-las-semanas-16-y-17-de-2025/)
 - [Bash-it para añadir complementos, temas y alias a tu Bash](https://victorhckinthefreeworld.com/2025/04/23/bash-it-para-anadir-complementos-temas-y-alias-a-tu-bash/)
-- [Dale estilo y funcionalidades a tu shell Bash con Oh My Bash](https://victorhckinthefreeworld.com/2025/04/16/dale-estilo-y-funcionalidades-a-tu-shell-bash-con-oh-my-bash/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

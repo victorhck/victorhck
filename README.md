@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Boletín de noticias de la Free Software Foundation Europe – mayo 2025](https://victorhckinthefreeworld.com/2025/05/07/boletin-de-noticias-de-la-free-software-foundation-europe-mayo-2025/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – mayo de 2025](https://victorhckinthefreeworld.com/2025/05/06/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-mayo-de-2025/)
 - [Publicado Qactus 3.0 un cliente Qt para Open Build Service](https://victorhckinthefreeworld.com/2025/05/05/publicado-qactus-3-0-un-cliente-qt-para-open-build-service/)
 - [#openSUSE Tumbleweed revisión de la semana 18 de 2025](https://victorhckinthefreeworld.com/2025/05/02/opensuse-tumbleweed-revision-de-la-semana-18-de-2025/)
 - [Disponible openSUSE Leap 16 Beta](https://victorhckinthefreeworld.com/2025/04/30/disponible-opensuse-leap-16-beta/)
-- [¿Existe un internet artesanal?](https://victorhckinthefreeworld.com/2025/04/27/existe-un-internet-artesanal/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

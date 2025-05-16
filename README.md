@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de las semanas 19 y 20 de 2025](https://victorhckinthefreeworld.com/2025/05/16/opensuse-tumbleweed-revision-de-las-semanas-19-y-20-de-2025/)
 - [Cómo tener siempre al día Thunderbird en openSUSE Tumbleweed](https://victorhckinthefreeworld.com/2025/05/14/como-tener-siempre-al-dia-thunderbird-en-opensuse-tumbleweed/)
 - [Cumpleaños de un reloj](https://victorhckinthefreeworld.com/2025/05/11/cumpleanos-de-un-reloj/)
 - [Boletín de noticias de la Free Software Foundation Europe – mayo 2025](https://victorhckinthefreeworld.com/2025/05/07/boletin-de-noticias-de-la-free-software-foundation-europe-mayo-2025/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – mayo de 2025](https://victorhckinthefreeworld.com/2025/05/06/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-mayo-de-2025/)
-- [Publicado Qactus 3.0 un cliente Qt para Open Build Service](https://victorhckinthefreeworld.com/2025/05/05/publicado-qactus-3-0-un-cliente-qt-para-open-build-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

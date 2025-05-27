@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicado Agama 15](https://victorhckinthefreeworld.com/2025/05/27/publicado-agama-15/)
 - [Libro «La ciudad y sus muros inciertos» de Haruki Murakami](https://victorhckinthefreeworld.com/2025/05/25/libro-la-ciudad-y-sus-muros-inciertos-de-haruki-murakami/)
 - [Thundermail y Thunderbird Pro los nuevos servicios de Thunderbird](https://victorhckinthefreeworld.com/2025/05/21/thundermail-y-thunderbird-pro-los-nuevos-servicios-de-thunderbird/)
 - [Radio 3, no eres tu, soy yo](https://victorhckinthefreeworld.com/2025/05/18/radio-3-no-eres-tu-soy-yo/)
 - [#openSUSE Tumbleweed revisión de las semanas 19 y 20 de 2025](https://victorhckinthefreeworld.com/2025/05/16/opensuse-tumbleweed-revision-de-las-semanas-19-y-20-de-2025/)
-- [Cómo tener siempre al día Thunderbird en openSUSE Tumbleweed](https://victorhckinthefreeworld.com/2025/05/14/como-tener-siempre-al-dia-thunderbird-en-opensuse-tumbleweed/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Script en Bash para escuchar somafm en la terminal](https://victorhckinthefreeworld.com/2025/06/03/script-en-bash-para-escuchar-somafm-en-la-terminal/)
 - [Mostrar el tiempo de wttr.in en tu escritorio con Conky](https://victorhckinthefreeworld.com/2025/06/02/mostrar-el-tiempo-de-wttr-in-en-tu-escritorio-con-conky/)
 - [El museo del Beat y el Pop en Santa Colomba de Somoza](https://victorhckinthefreeworld.com/2025/06/01/el-museo-del-beat-y-el-pop-en-santa-colomba-de-somoza/)
 - [#openSUSE Tumbleweed revisión de las semanas 21 y 22 de 2025](https://victorhckinthefreeworld.com/2025/05/30/opensuse-tumbleweed-revision-de-las-semanas-21-y-22-de-2025/)
 - [Publicado Agama 15](https://victorhckinthefreeworld.com/2025/05/27/publicado-agama-15/)
-- [Libro «La ciudad y sus muros inciertos» de Haruki Murakami](https://victorhckinthefreeworld.com/2025/05/25/libro-la-ciudad-y-sus-muros-inciertos-de-haruki-murakami/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

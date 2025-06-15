@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
-- [Libro «Un calor muy cercano» de Maruja Torres](https://victorhckinthefreeworld.com/2025/06/15/libro-un-calor-muy-cercano-de-maruja-torres/)
+- [Libro «Un calor tan cercano» de Maruja Torres](https://victorhckinthefreeworld.com/2025/06/15/libro-un-calor-muy-cercano-de-maruja-torres/)
 - [#openSUSE Tumbleweed revisión de las semanas 23 y 24 de 2025](https://victorhckinthefreeworld.com/2025/06/13/opensuse-tumbleweed-revision-de-las-semanas-23-y-24-de-2025/)
 - [Libro «El teorema» de Adam Fawer](https://victorhckinthefreeworld.com/2025/06/08/libro-el-teorema-de-adam-fawer/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – junio de 2025](https://victorhckinthefreeworld.com/2025/06/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-junio-de-2025/)

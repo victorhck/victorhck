@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 25 de 2025](https://victorhckinthefreeworld.com/2025/06/20/opensuse-tumbleweed-revision-de-la-semana-25-de-2025/)
 - [timg un visor de imágenes y vídeos integrado en tu terminal](https://victorhckinthefreeworld.com/2025/06/18/timg-un-visor-de-imagenes-y-videos-integrado-en-tu-terminal/)
 - [Dejar solo el botón de «Cerrar ventana» en Plasma de #KDE](https://victorhckinthefreeworld.com/2025/06/16/dejar-solo-el-boton-de-cerrar-ventana-en-plasma-de-kde/)
 - [Libro «Un calor tan cercano» de Maruja Torres](https://victorhckinthefreeworld.com/2025/06/15/libro-un-calor-muy-cercano-de-maruja-torres/)
 - [#openSUSE Tumbleweed revisión de las semanas 23 y 24 de 2025](https://victorhckinthefreeworld.com/2025/06/13/opensuse-tumbleweed-revision-de-las-semanas-23-y-24-de-2025/)
-- [Libro «El teorema» de Adam Fawer](https://victorhckinthefreeworld.com/2025/06/08/libro-el-teorema-de-adam-fawer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

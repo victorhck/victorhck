@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Boletín de la FSF de primavera de 2025](https://victorhckinthefreeworld.com/2025/07/01/boletin-de-la-fsf-de-primavera-de-2025/)
 - [Publicado GNU Health HIS 5](https://victorhckinthefreeworld.com/2025/06/30/publicado-gnu-health-his-5/)
 - [Segunda Beta de Amarok 3.3 ya disponible](https://victorhckinthefreeworld.com/2025/06/26/segunda-beta-de-amarok-3-3-ya-disponible/)
 - [Charlando con Yoyo &lpar;Salmorejo Geek&rpar; y Christian &lpar;The_Cheis&rpar;](https://victorhckinthefreeworld.com/2025/06/22/charlando-con-yoyo-salmorejo-geek-y-christian-the_cheis/)
 - [#openSUSE Tumbleweed revisión de la semana 25 de 2025](https://victorhckinthefreeworld.com/2025/06/20/opensuse-tumbleweed-revision-de-la-semana-25-de-2025/)
-- [timg un visor de imágenes y vídeos integrado en tu terminal](https://victorhckinthefreeworld.com/2025/06/18/timg-un-visor-de-imagenes-y-videos-integrado-en-tu-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

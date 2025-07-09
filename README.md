@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicado Amarok 3.3 la primera versión basada en Qt6/KF6](https://victorhckinthefreeworld.com/2025/07/09/publicado-amarok-3-3-la-primera-version-basada-en-qt6-kf6/)
 - [Publicado Thunderbird 140 Eclipse](https://victorhckinthefreeworld.com/2025/07/08/publicado-thunderbird-140-eclipse/)
 - [Publicado Agama 16](https://victorhckinthefreeworld.com/2025/07/04/publicado-agama-16/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – julio de 2025](https://victorhckinthefreeworld.com/2025/07/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-julio-de-2025/)
 - [Personalizar el fondo de la pantalla de nueva pestaña en Firefox](https://victorhckinthefreeworld.com/2025/07/02/personalizar-el-fondo-de-la-pantalla-de-nueva-pestana-en-firefox/)
-- [Boletín de la FSF de primavera de 2025](https://victorhckinthefreeworld.com/2025/07/01/boletin-de-la-fsf-de-primavera-de-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

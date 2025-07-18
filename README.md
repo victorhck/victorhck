@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [RTVE bloqueará todas las aplicaciones no oficiales para acceder a sus podcasts](https://victorhckinthefreeworld.com/2025/07/18/rtve-bloqueara-todas-las-aplicaciones-no-oficiales-para-acceder-a-sus-podcasts/)
 - [RTVE bloquea sus podcats a la aplicación AntennaPod](https://victorhckinthefreeworld.com/2025/07/16/rtve-bloquea-sus-podcats-a-la-aplicacion-antennapod/)
 - [Añadir acceso a distintas carpetas de nuestro Home en el lanzador de aplicaciones de Plasma de KDE](https://victorhckinthefreeworld.com/2025/07/15/anadir-acceso-a-distintas-carpetas-de-nuestro-home-en-el-lanzador-de-aplicaciones-de-plasma-de-kde/)
 - [Publicado Amarok 3.3 la primera versión basada en Qt6/KF6](https://victorhckinthefreeworld.com/2025/07/09/publicado-amarok-3-3-la-primera-version-basada-en-qt6-kf6/)
 - [Publicado Thunderbird 140 Eclipse](https://victorhckinthefreeworld.com/2025/07/08/publicado-thunderbird-140-eclipse/)
-- [Publicado Agama 16](https://victorhckinthefreeworld.com/2025/07/04/publicado-agama-16/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

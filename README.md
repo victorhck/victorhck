@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Toma notas en texto plano en una pestaña de tu navegador](https://victorhckinthefreeworld.com/2025/08/04/toma-notas-en-texto-plano-en-una-pestana-de-tu-navegador/)
 - [Una alternativa a 12ft.io. Tu propia web de eliminación de muros de pago, publicidad, cookies.](https://victorhckinthefreeworld.com/2025/07/30/una-alternativa-a-12ft-io-tu-propia-web-de-eliminacion-de-muros-de-pago-publicidad-cookies/)
 - [#openSUSE Tumbleweed revisión de la semana 30 de 2025](https://victorhckinthefreeworld.com/2025/07/25/opensuse-tumbleweed-revision-de-la-semana-30-de-2025/)
 - [El Director de Radio Nacional de España dice que revisará el caso de los bloqueos a AntennaPod](https://victorhckinthefreeworld.com/2025/07/24/el-director-de-radio-nacional-de-espana-dice-que-revisara-el-caso-de-los-bloqueos-a-antennapod/)
 - [Si esa web falsa quiere datos, démosle datos](https://victorhckinthefreeworld.com/2025/07/22/si-esa-web-falsa-quiere-datos-demosle-datos/)
-- [RTVE bloqueará todas las aplicaciones no oficiales para acceder a sus podcasts](https://victorhckinthefreeworld.com/2025/07/18/rtve-bloqueara-todas-las-aplicaciones-no-oficiales-para-acceder-a-sus-podcasts/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [openSUSE migration tool. Migra tu #openSUSE con esta herramienta para la terminal](https://victorhckinthefreeworld.com/2025/08/14/opensuse-migration-tool-migra-tu-opensuse-con-esta-herramienta-para-la-terminal/)
 - [Publicado Amarok 3.3.1](https://victorhckinthefreeworld.com/2025/08/10/publicado-amarok-3-3-1/)
 - [#openSUSE Tumbleweed revisión de las semanas 31 y 32 de 2025](https://victorhckinthefreeworld.com/2025/08/08/opensuse-tumbleweed-revision-de-las-semanas-31-y-32-de-2025/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2025](https://victorhckinthefreeworld.com/2025/08/07/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2025/)
 - [RemovePaywalls la web que elimina los muros de pago de las webs que visites](https://victorhckinthefreeworld.com/2025/08/06/removepaywalls-la-web-que-elimina-los-muros-de-pago-de-las-webs-que-visites/)
-- [Toma notas en texto plano en una pestaña de tu navegador](https://victorhckinthefreeworld.com/2025/08/04/toma-notas-en-texto-plano-en-una-pestana-de-tu-navegador/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [El valor y el precio del navegador Chrome de Google](https://victorhckinthefreeworld.com/2025/08/26/el-valor-y-el-precio-del-navegador-chrome-de-google/)
 - [La lucha contra los bloqueadores de publicidad sigue](https://victorhckinthefreeworld.com/2025/08/25/la-lucha-contra-los-bloqueadores-de-publicidad-sigue/)
 - [Los libros que me eligen](https://victorhckinthefreeworld.com/2025/08/24/los-libros-que-me-eligen/)
 - [#openSUSE Tumbleweed revisión de la semana 34 de 2025](https://victorhckinthefreeworld.com/2025/08/22/opensuse-tumbleweed-revision-de-la-semana-34-de-2025/)
 - [#openSUSE Tumbleweed revisión de la semana 33 de 2025](https://victorhckinthefreeworld.com/2025/08/16/opensuse-tumbleweed-revision-de-la-semana-33-de-2025/)
-- [openSUSE migration tool. Migra tu #openSUSE con esta herramienta para la terminal](https://victorhckinthefreeworld.com/2025/08/14/opensuse-migration-tool-migra-tu-opensuse-con-esta-herramienta-para-la-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

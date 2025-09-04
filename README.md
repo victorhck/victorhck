@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [openSUSE Leap 16 ofrecerá más estabilidad por más tiempo](https://victorhckinthefreeworld.com/2025/09/04/opensuse-leap-16-ofrecera-mas-estabilidad-por-mas-tiempo/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – septiembre de 2025](https://victorhckinthefreeworld.com/2025/09/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-septiembre-de-2025/)
 - [Cómo hacer que Thunderbird muestre el diálogo de archivos de Plasma de KDE](https://victorhckinthefreeworld.com/2025/09/01/como-hacer-que-thunderbird-muestre-el-dialogo-de-archivos-de-plasma-de-kde/)
 - [#openSUSE Tumbleweed revisión de la semana 35 de 2025](https://victorhckinthefreeworld.com/2025/08/29/opensuse-tumbleweed-revision-de-la-semana-35-de-2025/)
 - [Nueva versión del instalador de openSUSE y SUSE. Publicado Agama 17](https://victorhckinthefreeworld.com/2025/08/27/nueva-version-del-instalador-de-opensuse-y-suse-publicado-agama-17/)
-- [El valor y el precio del navegador Chrome de Google](https://victorhckinthefreeworld.com/2025/08/26/el-valor-y-el-precio-del-navegador-chrome-de-google/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

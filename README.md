@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Un primer vistazo a KDE Linux la distro oficial de #KDE](https://victorhckinthefreeworld.com/2025/09/09/un-primer-vistazo-a-kde-linux-la-distro-oficial-de-kde/)
 - [KDE Neon podría tener los días contados](https://victorhckinthefreeworld.com/2025/09/08/kde-neon-podria-tener-los-dias-contados/)
 - [KDE Linux, la nueva distribución de GNU/Linux inmutable oficial de KDE](https://victorhckinthefreeworld.com/2025/09/06/kde-linux-la-nueva-distribucion-de-gnu-linux-inmutable-oficial-de-kde/)
 - [#openSUSE Tumbleweed revisión de la semana 36 de 2025](https://victorhckinthefreeworld.com/2025/09/05/opensuse-tumbleweed-revision-de-la-semana-36-de-2025/)
 - [openSUSE Leap 16 ofrecerá más estabilidad por más tiempo](https://victorhckinthefreeworld.com/2025/09/04/opensuse-leap-16-ofrecera-mas-estabilidad-por-mas-tiempo/)
-- [Recopilación del boletín de noticias de la Free Software Foundation – septiembre de 2025](https://victorhckinthefreeworld.com/2025/09/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-septiembre-de-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

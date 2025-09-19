@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 38 de 2025](https://victorhckinthefreeworld.com/2025/09/19/opensuse-tumbleweed-revision-de-la-semana-38-de-2025/)
 - [Reproducir vídeos o música desde un equipo remoto en otro de tu red local usando SSH](https://victorhckinthefreeworld.com/2025/09/15/reproducir-videos-o-musica-usando-ssh/)
 - [#openSUSE Tumbleweed revisión de la semana 37 de 2025](https://victorhckinthefreeworld.com/2025/09/12/opensuse-tumbleweed-revision-de-la-semana-37-de-2025/)
 - [Un primer vistazo a KDE Linux la distro oficial de #KDE](https://victorhckinthefreeworld.com/2025/09/09/un-primer-vistazo-a-kde-linux-la-distro-oficial-de-kde/)
 - [KDE Neon podría tener los días contados](https://victorhckinthefreeworld.com/2025/09/08/kde-neon-podria-tener-los-dias-contados/)
-- [KDE Linux, la nueva distribución de GNU/Linux inmutable oficial de KDE](https://victorhckinthefreeworld.com/2025/09/06/kde-linux-la-nueva-distribucion-de-gnu-linux-inmutable-oficial-de-kde/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

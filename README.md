@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Yarr tu aplicación de feeds RSS de escritorio o para servidor](https://victorhckinthefreeworld.com/2025/09/29/yarr-tu-aplicacion-de-feeds-rss-de-escritorio-o-para-servidor/)
 - [#openSUSE Tumbleweed revisión de la semana 39 de 2025](https://victorhckinthefreeworld.com/2025/09/26/opensuse-tumbleweed-revision-de-la-semana-39-de-2025/)
 - [Thunderbird tendrá vista de conversación en los correos de la bandeja](https://victorhckinthefreeworld.com/2025/09/25/thunderbird-tendra-vista-de-conversacion-en-los-correos-de-la-bandeja/)
 - [#openSUSE Tumbleweed revisión de la semana 38 de 2025](https://victorhckinthefreeworld.com/2025/09/19/opensuse-tumbleweed-revision-de-la-semana-38-de-2025/)
 - [Reproducir vídeos o música desde un equipo remoto en otro de tu red local usando SSH](https://victorhckinthefreeworld.com/2025/09/15/reproducir-videos-o-musica-usando-ssh/)
-- [#openSUSE Tumbleweed revisión de la semana 37 de 2025](https://victorhckinthefreeworld.com/2025/09/12/opensuse-tumbleweed-revision-de-la-semana-37-de-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

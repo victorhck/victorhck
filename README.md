@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [La Free Software Foundation cumple 40 años](https://victorhckinthefreeworld.com/2025/10/04/la-free-software-foundation-cumple-40-anos/)
 - [#openSUSE Tumbleweed revisión de la semana 40 de 2025](https://victorhckinthefreeworld.com/2025/10/03/opensuse-tumbleweed-revision-de-la-semana-40-de-2025/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – octubre de 2025](https://victorhckinthefreeworld.com/2025/10/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-octubre-de-2025/)
 - [openSUSE Leap 16.0 ya disponible para instalar](https://victorhckinthefreeworld.com/2025/10/01/opensuse-leap-16-0-ya-disponible-para-instalar/)
 - [Yarr tu aplicación de feeds RSS de escritorio o para servidor](https://victorhckinthefreeworld.com/2025/09/29/yarr-tu-aplicacion-de-feeds-rss-de-escritorio-o-para-servidor/)
-- [#openSUSE Tumbleweed revisión de la semana 39 de 2025](https://victorhckinthefreeworld.com/2025/09/26/opensuse-tumbleweed-revision-de-la-semana-39-de-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

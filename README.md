@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Lynis, la herramienta para auditar la seguridad de tu sistema Linux/Unix](https://victorhckinthefreeworld.com/2025/10/27/lynis-la-herramienta-para-auditar-la-seguridad-de-tu-sistema-linux-unix/)
 - [Xeno-canto. La wiki de los cantos de los pájaros](https://victorhckinthefreeworld.com/2025/10/19/xeno-canto-la-wiki-de-los-cantos-de-los-pajaros/)
 - [#openSUSE Tumbleweed revisión de la semana 42 de 2025](https://victorhckinthefreeworld.com/2025/10/17/opensuse-tumbleweed-revision-de-la-semana-42-de-2025/)
 - [#KDE cumple 29 años](https://victorhckinthefreeworld.com/2025/10/14/kde-cumple-29-anos/)
 - [#openSUSE Tumbleweed revisión de la semana 41 de 2025](https://victorhckinthefreeworld.com/2025/10/10/opensuse-tumbleweed-revision-de-la-semana-41-de-2025/)
-- [Kwlejka para Plasma. Simplemente un área de texto para tu escritorio](https://victorhckinthefreeworld.com/2025/10/08/kwlejka-para-plasma-simplemente-un-area-de-texto-para-tu-escritorio/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

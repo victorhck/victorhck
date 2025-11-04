@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Recopilación del boletín de noticias de la Free Software Foundation – noviembre de 2025](https://victorhckinthefreeworld.com/2025/11/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-noviembre-de-2025/)
 - [#openSUSE Tumbleweed revisión de las semanas 43 y 44 de 2025](https://victorhckinthefreeworld.com/2025/10/31/opensuse-tumbleweed-revision-de-las-semanas-43-y-44-de-2025/)
 - [Los documentos Halloween de Microsoft](https://victorhckinthefreeworld.com/2025/10/31/los-documentos-halloween-de-microsoft/)
 - [Las pesadillas del software privativo](https://victorhckinthefreeworld.com/2025/10/30/las-pesadillas-del-software-privativo/)
 - [Un proyecto para exportar más funcionalidades de YaST a Cockpit](https://victorhckinthefreeworld.com/2025/10/30/un-proyecto-para-exportar-mas-funcionalidades-de-yast-a-cockpit/)
-- [Lynis, la herramienta para auditar la seguridad de tu sistema Linux/Unix](https://victorhckinthefreeworld.com/2025/10/27/lynis-la-herramienta-para-auditar-la-seguridad-de-tu-sistema-linux-unix/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

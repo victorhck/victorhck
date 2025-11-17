@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Cómo explicar las 4 libertades del software libre a los niños y niñas](https://victorhckinthefreeworld.com/2025/11/17/como-explicar-las-4-libertades-del-software-libre-a-los-ninos-y-ninas/)
 - [#openSUSE Tumbleweed revisión de la semana 46 de 2025](https://victorhckinthefreeworld.com/2025/11/14/opensuse-tumbleweed-revision-de-la-semana-46-de-2025/)
 - [#openSUSE Tumbleweed revisión de la semana 45 de 2025](https://victorhckinthefreeworld.com/2025/11/07/opensuse-tumbleweed-revision-de-la-semana-45-de-2025/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – noviembre de 2025](https://victorhckinthefreeworld.com/2025/11/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-noviembre-de-2025/)
 - [#openSUSE Tumbleweed revisión de las semanas 43 y 44 de 2025](https://victorhckinthefreeworld.com/2025/10/31/opensuse-tumbleweed-revision-de-las-semanas-43-y-44-de-2025/)
-- [Los documentos Halloween de Microsoft](https://victorhckinthefreeworld.com/2025/10/31/los-documentos-halloween-de-microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

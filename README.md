@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Leí los términos del servicio de mi Smart TV y ahora duermo con un ojo abierto](https://victorhckinthefreeworld.com/2025/11/24/lei-los-terminos-del-servicio-de-mi-smart-tv-y-ahora-duermo-con-un-ojo-abierto/)
 - [La ONG que fundó Bram Moolenaar, el creador de #Vim, cesa su actividad](https://victorhckinthefreeworld.com/2025/11/19/la-ong-que-fundo-bram-moolenaar-el-creador-de-vim-cesa-su-actividad/)
 - [Publicado Agama 18](https://victorhckinthefreeworld.com/2025/11/18/publicado-agama-18/)
 - [Cómo explicar las 4 libertades del software libre a los niños y niñas](https://victorhckinthefreeworld.com/2025/11/17/como-explicar-las-4-libertades-del-software-libre-a-los-ninos-y-ninas/)
 - [#openSUSE Tumbleweed revisión de la semana 46 de 2025](https://victorhckinthefreeworld.com/2025/11/14/opensuse-tumbleweed-revision-de-la-semana-46-de-2025/)
-- [#openSUSE Tumbleweed revisión de la semana 45 de 2025](https://victorhckinthefreeworld.com/2025/11/07/opensuse-tumbleweed-revision-de-la-semana-45-de-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

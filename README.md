@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
-- [GrapheneOS migra sus servidores fuera de Francia por](https://victorhckinthefreeworld.com/2025/11/25/grapheneos-migra-sus-servidores-fuera-de-francia-por/)
+- [GrapheneOS migra sus servidores fuera de Francia por no ser seguro para «proyectos de privacidad de código abierto](https://victorhckinthefreeworld.com/2025/11/25/grapheneos-migra-sus-servidores-fuera-de-francia-por/)
 - [Leí los términos del servicio de mi Smart TV y ahora duermo con un ojo abierto](https://victorhckinthefreeworld.com/2025/11/24/lei-los-terminos-del-servicio-de-mi-smart-tv-y-ahora-duermo-con-un-ojo-abierto/)
 - [La ONG que fundó Bram Moolenaar, el creador de #Vim, cesa su actividad](https://victorhckinthefreeworld.com/2025/11/19/la-ong-que-fundo-bram-moolenaar-el-creador-de-vim-cesa-su-actividad/)
 - [Publicado Agama 18](https://victorhckinthefreeworld.com/2025/11/18/publicado-agama-18/)

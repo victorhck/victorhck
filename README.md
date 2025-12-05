@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 49 de 2025](https://victorhckinthefreeworld.com/2025/12/05/opensuse-tumbleweed-revision-de-la-semana-49-de-2025/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – diciembre de 2025](https://victorhckinthefreeworld.com/2025/12/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-diciembre-de-2025/)
 - [La muerte de un iPod](https://victorhckinthefreeworld.com/2025/12/01/la-muerte-de-un-ipod/)
 - [#openSUSE Tumbleweed revisión de las semanas 47 y 48 de 2025](https://victorhckinthefreeworld.com/2025/11/28/opensuse-tumbleweed-revision-de-las-semanas-47-y-48-de-2025/)
 - [GrapheneOS migra sus servidores fuera de Francia por no ser seguro para «proyectos de privacidad de código abierto](https://victorhckinthefreeworld.com/2025/11/25/grapheneos-migra-sus-servidores-fuera-de-francia-por/)
-- [Leí los términos del servicio de mi Smart TV y ahora duermo con un ojo abierto](https://victorhckinthefreeworld.com/2025/11/24/lei-los-terminos-del-servicio-de-mi-smart-tv-y-ahora-duermo-con-un-ojo-abierto/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

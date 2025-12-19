@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Repaso de lo que ha conseguido #Thunderbird este 2025](https://victorhckinthefreeworld.com/2025/12/19/repaso-de-lo-que-ha-conseguido-thunderbird-este-2025/)
 - [Curso de Vim: Capítulo 2 de vimtutor ya en español](https://victorhckinthefreeworld.com/2025/12/17/curso-de-vim-capitulo-2-de-vimtutor-ya-en-espanol/)
 - [Presenta tu charla al encuentro de #openSUSE en América Latina](https://victorhckinthefreeworld.com/2025/12/15/presenta-tu-charla-al-encuentro-de-opensuse-en-america-latina/)
 - [Libro: El Palacio de los sueños de Ismail Kadaré](https://victorhckinthefreeworld.com/2025/12/14/libro-el-palacio-de-los-suenos-de-ismail-kadare/)
 - [#openSUSE Tumbleweed revisión de la semana 50 de 2025](https://victorhckinthefreeworld.com/2025/12/12/opensuse-tumbleweed-revision-de-la-semana-50-de-2025/)
-- [30 razones por las que ❤️ Plasma de #KDE](https://victorhckinthefreeworld.com/2025/12/09/30-razones-por-las-que-%e2%9d%a4%ef%b8%8f-plasma-de-kde/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Un LLM o Modelo Extenso de lenguaje no sabe mentir](https://victorhckinthefreeworld.com/2026/01/04/un-llm-o-modelo-extenso-de-lenguaje-no-sabe-mentir/)
 - [#openSUSE Tumbleweed revisión de la semana 1 de 2026](https://victorhckinthefreeworld.com/2026/01/03/opensuse-tumbleweed-revision-de-la-semana-1-de-2026/)
 - [#openSUSE Tumbleweed revisión de la semana 52 de 2025](https://victorhckinthefreeworld.com/2025/12/26/opensuse-tumbleweed-revision-de-la-semana-52-de-2025/)
 - [Repaso de lo que ha conseguido #Thunderbird este 2025](https://victorhckinthefreeworld.com/2025/12/19/repaso-de-lo-que-ha-conseguido-thunderbird-este-2025/)
 - [#openSUSE Tumbleweed revisión de la semana 51 de 2025](https://victorhckinthefreeworld.com/2025/12/19/opensuse-tumbleweed-revision-de-la-semana-51-de-2025/)
-- [Curso de Vim: Capítulo 2 de vimtutor ya en español](https://victorhckinthefreeworld.com/2025/12/17/curso-de-vim-capitulo-2-de-vimtutor-ya-en-espanol/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

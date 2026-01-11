@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Un artesano de internet frente al prompt de la IA](https://victorhckinthefreeworld.com/2026/01/11/un-artesano-de-internet-frente-al-prompt-de-la-ia/)
 - [#openSUSE Tumbleweed revisión de la semana 2 de 2026](https://victorhckinthefreeworld.com/2026/01/09/opensuse-tumbleweed-revision-de-la-semana-2-de-2026/)
 - [Simplemente di NO &lpar;a la IA en todo&rpar;](https://victorhckinthefreeworld.com/2026/01/08/simplemente-di-no-a-la-ia-en-todo/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – enero de 2026](https://victorhckinthefreeworld.com/2026/01/07/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-enero-de-2026/)
 - [Un LLM o Modelo Extenso de lenguaje no sabe mentir](https://victorhckinthefreeworld.com/2026/01/04/un-llm-o-modelo-extenso-de-lenguaje-no-sabe-mentir/)
-- [#openSUSE Tumbleweed revisión de la semana 1 de 2026](https://victorhckinthefreeworld.com/2026/01/03/opensuse-tumbleweed-revision-de-la-semana-1-de-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

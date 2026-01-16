@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 3 de 2026](https://victorhckinthefreeworld.com/2026/01/16/opensuse-tumbleweed-revision-de-la-semana-3-de-2026/)
 - [Publicado PixelWheels 1.0.0](https://victorhckinthefreeworld.com/2026/01/13/publicado-pixelwheels-1-0-0/)
 - [Configurar un temporizador y mucho más en Plasma de #KDE](https://victorhckinthefreeworld.com/2026/01/12/configurar-un-temporizador-y-mucho-mas-en-plasma-de-kde/)
 - [Un artesano de internet frente al prompt de la IA](https://victorhckinthefreeworld.com/2026/01/11/un-artesano-de-internet-frente-al-prompt-de-la-ia/)
 - [#openSUSE Tumbleweed revisión de la semana 2 de 2026](https://victorhckinthefreeworld.com/2026/01/09/opensuse-tumbleweed-revision-de-la-semana-2-de-2026/)
-- [Simplemente di NO &lpar;a la IA en todo&rpar;](https://victorhckinthefreeworld.com/2026/01/08/simplemente-di-no-a-la-ia-en-todo/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

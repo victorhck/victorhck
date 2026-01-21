@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicado Myrlyn 1.0 el gestor de paquetes para openSUSE](https://victorhckinthefreeworld.com/2026/01/21/publicado-myrlyn-1-0-el-gestor-de-paquetes-para-opensuse/)
 - [Añadir el repositorio de Firefox Nightly en openSUSE](https://victorhckinthefreeworld.com/2026/01/20/anadir-el-repositorio-de-firefox-nightly-en-opensuse/)
 - [Publicado Amarok 3.3.2](https://victorhckinthefreeworld.com/2026/01/19/publicado-amarok-3-3-2/)
 - [#openSUSE Tumbleweed revisión de la semana 3 de 2026](https://victorhckinthefreeworld.com/2026/01/16/opensuse-tumbleweed-revision-de-la-semana-3-de-2026/)
 - [Publicado PixelWheels 1.0.0](https://victorhckinthefreeworld.com/2026/01/13/publicado-pixelwheels-1-0-0/)
-- [Configurar un temporizador y mucho más en Plasma de #KDE](https://victorhckinthefreeworld.com/2026/01/12/configurar-un-temporizador-y-mucho-mas-en-plasma-de-kde/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

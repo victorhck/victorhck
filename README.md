@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Morphine el «power trio» ecléctico](https://victorhckinthefreeworld.com/2026/01/25/morphine-el-power-trio-eclectico/)
 - [#openSUSE Tumbleweed revisión de la semana 4 de 2026](https://victorhckinthefreeworld.com/2026/01/23/opensuse-tumbleweed-revision-de-la-semana-4-de-2026/)
 - [Abelujo ya dispone de su documentación en español](https://victorhckinthefreeworld.com/2026/01/22/abelujo-ya-dispone-de-su-documentacion-en-espanol/)
 - [Publicado Myrlyn 1.0 el gestor de paquetes para openSUSE](https://victorhckinthefreeworld.com/2026/01/21/publicado-myrlyn-1-0-el-gestor-de-paquetes-para-opensuse/)
 - [Añadir el repositorio de Firefox Nightly en openSUSE](https://victorhckinthefreeworld.com/2026/01/20/anadir-el-repositorio-de-firefox-nightly-en-opensuse/)
-- [Publicado Amarok 3.3.2](https://victorhckinthefreeworld.com/2026/01/19/publicado-amarok-3-3-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

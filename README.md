@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Da más estilo a Fastfetch con las configuraciones que incorpora](https://victorhckinthefreeworld.com/2026/02/02/da-mas-estilo-a-fastfetch-con-las-configuraciones-que-incorpora/)
 - [#openSUSE Tumbleweed revisión de la semana 5 de 2026](https://victorhckinthefreeworld.com/2026/01/30/opensuse-tumbleweed-revision-de-la-semana-5-de-2026/)
 - [Cómo usar mjpg-streamer para hacer un streaming desde la webcam del portátil](https://victorhckinthefreeworld.com/2026/01/29/como-usar-mjpg-streamer-para-hacer-un-streaming-desde-la-webcam-del-portatil/)
 - [Morphine el «power trio» ecléctico](https://victorhckinthefreeworld.com/2026/01/25/morphine-el-power-trio-eclectico/)
 - [#openSUSE Tumbleweed revisión de la semana 4 de 2026](https://victorhckinthefreeworld.com/2026/01/23/opensuse-tumbleweed-revision-de-la-semana-4-de-2026/)
-- [Abelujo ya dispone de su documentación en español](https://victorhckinthefreeworld.com/2026/01/22/abelujo-ya-dispone-de-su-documentacion-en-espanol/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

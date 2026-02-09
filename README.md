@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Precedente legal en España: El acceso al software como garantía de una democracia real](https://victorhckinthefreeworld.com/2026/02/09/precedente-legal-en-espana-el-acceso-al-software-como-garantia-de-una-democracia-real/)
 - [#openSUSE Tumbleweed revisión de la semana 6 de 2026](https://victorhckinthefreeworld.com/2026/02/06/opensuse-tumbleweed-revision-de-la-semana-6-de-2026/)
 - [Añadir notas a pestañas, widgets de listas y temporizador en Firefox Nightly](https://victorhckinthefreeworld.com/2026/02/04/anadir-notas-a-pestanas-widgets-de-listas-y-temporizador-en-firefox-nightly/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – febrero de 2026](https://victorhckinthefreeworld.com/2026/02/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-febrero-de-2026/)
 - [Da más estilo a Fastfetch con las configuraciones que incorpora](https://victorhckinthefreeworld.com/2026/02/02/da-mas-estilo-a-fastfetch-con-las-configuraciones-que-incorpora/)
-- [#openSUSE Tumbleweed revisión de la semana 5 de 2026](https://victorhckinthefreeworld.com/2026/01/30/opensuse-tumbleweed-revision-de-la-semana-5-de-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

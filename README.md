@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 9 de 2026](https://victorhckinthefreeworld.com/2026/02/27/opensuse-tumbleweed-revision-de-la-semana-9-de-2026/)
 - [#openSUSE Tumbleweed revisión de la semana 8 de 2026](https://victorhckinthefreeworld.com/2026/02/21/opensuse-tumbleweed-revision-de-la-semana-8-de-2026/)
 - [Revertir un paquete de software a una versión anterior en openSUSE Tumbleweed](https://victorhckinthefreeworld.com/2026/02/19/revertir-un-paquete-de-software-a-una-version-anterior-en-opensuse-tumbleweed/)
 - [#openSUSE Tumbleweed revisión de la semana 7 de 2026](https://victorhckinthefreeworld.com/2026/02/13/opensuse-tumbleweed-revision-de-la-semana-7-de-2026/)
 - [Mist: para editar archivos en Markdown online de manera colaborativa](https://victorhckinthefreeworld.com/2026/02/13/mist-para-editar-archivos-en-markdown-online-de-manera-colaborativa/)
-- [Precedente legal en España: El acceso al software como garantía de una democracia real](https://victorhckinthefreeworld.com/2026/02/09/precedente-legal-en-espana-el-acceso-al-software-como-garantia-de-una-democracia-real/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

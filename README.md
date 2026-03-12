@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Thunderbird siempre actualizado desde los repositorios de openSUSE Tumbleweed](https://victorhckinthefreeworld.com/2026/03/12/thunderbird-siempre-actualizado-desde-los-repositorios-de-opensuse-tumbleweed/)
 - [Errores de certificados en curl y OpenSSL al actualizar openSUSE Tumbleweed](https://victorhckinthefreeworld.com/2026/03/09/errores-de-certificados-en-curl-y-openssl-al-actualizar-opensuse-tumbleweed/)
 - [#openSUSE Tumbleweed revisión de la semana 10 de 2026](https://victorhckinthefreeworld.com/2026/03/06/opensuse-tumbleweed-revision-de-la-semana-10-de-2026/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – marzo de 2026](https://victorhckinthefreeworld.com/2026/03/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-marzo-de-2026/)
 - [El poder de decir «No»](https://victorhckinthefreeworld.com/2026/02/28/el-poder-de-decir-no/)
-- [#openSUSE Tumbleweed revisión de la semana 9 de 2026](https://victorhckinthefreeworld.com/2026/02/27/opensuse-tumbleweed-revision-de-la-semana-9-de-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

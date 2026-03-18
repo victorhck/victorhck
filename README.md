@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Mostrar información de tu sistema con los plasmoides nativos de Plasma 6 de #KDE](https://victorhckinthefreeworld.com/2026/03/18/mostrar-informacion-de-tu-sistema-con-los-plasmoides-nativos-de-plasma-6-de-kde/)
 - [Mi guía no oficial de #openSUSE cambia de manos y se actualiza](https://victorhckinthefreeworld.com/2026/03/17/mi-guia-no-oficial-de-opensuse-cambia-de-manos-y-se-actualiza/)
 - [Marknote 1.5 llega a #KDE](https://victorhckinthefreeworld.com/2026/03/16/marknote-1-5-llega-a-kde/)
 - [#openSUSE Tumbleweed revisión de la semana 11 de 2026](https://victorhckinthefreeworld.com/2026/03/13/opensuse-tumbleweed-revision-de-la-semana-11-de-2026/)
 - [Thunderbird siempre actualizado desde los repositorios de openSUSE Tumbleweed](https://victorhckinthefreeworld.com/2026/03/12/thunderbird-siempre-actualizado-desde-los-repositorios-de-opensuse-tumbleweed/)
-- [Errores de certificados en curl y OpenSSL al actualizar openSUSE Tumbleweed](https://victorhckinthefreeworld.com/2026/03/09/errores-de-certificados-en-curl-y-openssl-al-actualizar-opensuse-tumbleweed/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

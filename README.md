@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Probando #Hyprland por primera vez en #openSUSE Tumbleweed](https://victorhckinthefreeworld.com/2026/03/25/probando-hyprland-por-primera-vez-en-opensuse-tumbleweed/)
 - [Publicado Agama 19. Un nuevo comienzo para el nuevo instalador de SUSE y openSUSE](https://victorhckinthefreeworld.com/2026/03/23/publicado-agama-19-un-nuevo-comienzo-para-el-nuevo-instalador-de-suse-y-opensuse/)
 - [#openSUSE Tumbleweed revisión de la semana 12 de 2026](https://victorhckinthefreeworld.com/2026/03/20/opensuse-tumbleweed-revision-de-la-semana-12-de-2026/)
 - [Mostrar información de tu sistema con los plasmoides nativos de Plasma 6 de #KDE](https://victorhckinthefreeworld.com/2026/03/18/mostrar-informacion-de-tu-sistema-con-los-plasmoides-nativos-de-plasma-6-de-kde/)
 - [Mi guía no oficial de #openSUSE cambia de manos y se actualiza](https://victorhckinthefreeworld.com/2026/03/17/mi-guia-no-oficial-de-opensuse-cambia-de-manos-y-se-actualiza/)
-- [Marknote 1.5 llega a #KDE](https://victorhckinthefreeworld.com/2026/03/16/marknote-1-5-llega-a-kde/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

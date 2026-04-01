@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Thunderbird y la bandeja de sistema en Linux](https://victorhckinthefreeworld.com/2026/04/01/thunderbird-y-la-bandeja-de-sistema-en-linux/)
 - [#openSUSE Tumbleweed revisión de la semana 13 de 2026](https://victorhckinthefreeworld.com/2026/03/27/opensuse-tumbleweed-revision-de-la-semana-13-de-2026/)
 - [Instalar Firefox Beta en #openSUSE](https://victorhckinthefreeworld.com/2026/03/26/instalar-firefox-beta-en-opensuse/)
 - [Probando #Hyprland por primera vez en #openSUSE Tumbleweed](https://victorhckinthefreeworld.com/2026/03/25/probando-hyprland-por-primera-vez-en-opensuse-tumbleweed/)
 - [Publicado Agama 19. Un nuevo comienzo para el nuevo instalador de SUSE y openSUSE](https://victorhckinthefreeworld.com/2026/03/23/publicado-agama-19-un-nuevo-comienzo-para-el-nuevo-instalador-de-suse-y-opensuse/)
-- [#openSUSE Tumbleweed revisión de la semana 12 de 2026](https://victorhckinthefreeworld.com/2026/03/20/opensuse-tumbleweed-revision-de-la-semana-12-de-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

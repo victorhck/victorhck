@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [LibreCan 2026. El encuentro de software libre en Canarias crece](https://victorhckinthefreeworld.com/2026/04/15/librecan-2026-el-encuentro-de-software-libre-en-canarias-crece/)
 - [#openSUSE Tumbleweed revisión de las semanas 14 y 15 de 2026](https://victorhckinthefreeworld.com/2026/04/10/opensuse-tumbleweed-revision-de-las-semanas-14-y-15-de-2026/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – abril de 2026](https://victorhckinthefreeworld.com/2026/04/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-abril-de-2026/)
 - [Thunderbird y la bandeja de sistema en Linux](https://victorhckinthefreeworld.com/2026/04/01/thunderbird-y-la-bandeja-de-sistema-en-linux/)
 - [#openSUSE Tumbleweed revisión de la semana 13 de 2026](https://victorhckinthefreeworld.com/2026/03/27/opensuse-tumbleweed-revision-de-la-semana-13-de-2026/)
-- [Instalar Firefox Beta en #openSUSE](https://victorhckinthefreeworld.com/2026/03/26/instalar-firefox-beta-en-opensuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

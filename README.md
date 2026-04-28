@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Thunderbird Pro. Las novedades del proyecto en abril de 2026](https://victorhckinthefreeworld.com/2026/04/28/thunderbird-pro-las-novedades-del-proyecto-en-abril-de-2026/)
 - [El compromiso duradero](https://victorhckinthefreeworld.com/2026/04/25/el-compromiso-duradero/)
 - [#openSUSE Tumbleweed revisión de la semana 17 de 2026](https://victorhckinthefreeworld.com/2026/04/24/opensuse-tumbleweed-revision-de-la-semana-17-de-2026/)
 - [Probando Cockpit, el sustituto de YaST en #openSUSE Tumbleweed](https://victorhckinthefreeworld.com/2026/04/22/probando-cockpit-el-sustituto-de-yast-en-opensuse-tumbleweed/)
 - [#openSUSE Tumbleweed revisión de la semana 16 de 2026](https://victorhckinthefreeworld.com/2026/04/17/opensuse-tumbleweed-revision-de-la-semana-16-de-2026/)
-- [LibreCan 2026. El encuentro de software libre en Canarias crece](https://victorhckinthefreeworld.com/2026/04/15/librecan-2026-el-encuentro-de-software-libre-en-canarias-crece/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

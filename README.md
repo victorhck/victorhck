@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Acceder a cockpit de openSUSE desde otro equipo remoto](https://victorhckinthefreeworld.com/2026/05/05/acceder-a-cockpit-de-opensuse-desde-otro-equipo-remoto/)
 - [Gestionar software y repositorios en #openSUSE mediante cockpit](https://victorhckinthefreeworld.com/2026/05/04/gestionar-software-y-repositorios-en-opensuse-mediante-cockpit/)
 - [De norte a sur de este a oeste el software libre presente en 6 meetups de LibreLocal](https://victorhckinthefreeworld.com/2026/05/01/de-norte-a-sur-de-este-a-oeste-el-software-libre-presente-en-6-meetups-de-librelocal/)
 - [Thunderbird Pro. Las novedades del proyecto en abril de 2026](https://victorhckinthefreeworld.com/2026/04/28/thunderbird-pro-las-novedades-del-proyecto-en-abril-de-2026/)
 - [El compromiso duradero](https://victorhckinthefreeworld.com/2026/04/25/el-compromiso-duradero/)
-- [#openSUSE Tumbleweed revisión de la semana 17 de 2026](https://victorhckinthefreeworld.com/2026/04/24/opensuse-tumbleweed-revision-de-la-semana-17-de-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

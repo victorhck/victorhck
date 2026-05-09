@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Cambio en la dirección de la junta de #openSUSE](https://victorhckinthefreeworld.com/2026/05/09/cambio-en-la-direccion-de-la-junta-de-opensuse/)
 - [#openSUSE Tumbleweed revisión de las semanas 18 y 19 de 2026](https://victorhckinthefreeworld.com/2026/05/08/opensuse-tumbleweed-revision-de-las-semanas-18-y-19-de-2026/)
 - [Reproducir con Amarok archivos .wma en openSUSE](https://victorhckinthefreeworld.com/2026/05/07/reproducir-con-amarok-archivos-wma-en-opensuse/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – mayo de 2026](https://victorhckinthefreeworld.com/2026/05/06/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-mayo-de-2026/)
 - [Acceder a cockpit de openSUSE desde otro equipo remoto](https://victorhckinthefreeworld.com/2026/05/05/acceder-a-cockpit-de-opensuse-desde-otro-equipo-remoto/)
-- [Gestionar software y repositorios en #openSUSE mediante cockpit](https://victorhckinthefreeworld.com/2026/05/04/gestionar-software-y-repositorios-en-opensuse-mediante-cockpit/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

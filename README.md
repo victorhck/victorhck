@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Sovereign Tech Fund invierte más de 1 millón de euros en el desarrollo de software #KDE](https://victorhckinthefreeworld.com/2026/05/13/sovereign-tech-fund-invierte-mas-de-1-millon-de-euros-en-el-desarrollo-de-software-kde/)
 - [Cómo modificar en Firefox el desagradable sonido que reproduce al buscar un texto que no encuentra](https://victorhckinthefreeworld.com/2026/05/12/como-modificar-en-firefox-el-desagradable-sonido-que-reproduce-al-buscar-un-texto-que-no-encuentra/)
 - [Firefox no muestra los kanjis o caracteres japoneses &lpar;ni chinos ni koreanos&rpar; en Plasma](https://victorhckinthefreeworld.com/2026/05/11/firefox-no-muestra-los-kanjis-o-caracteres-japoneses-ni-chinos-ni-koreanos-en-plasma/)
 - [Cambio en la dirección de la junta de #openSUSE](https://victorhckinthefreeworld.com/2026/05/09/cambio-en-la-direccion-de-la-junta-de-opensuse/)
 - [#openSUSE Tumbleweed revisión de las semanas 18 y 19 de 2026](https://victorhckinthefreeworld.com/2026/05/08/opensuse-tumbleweed-revision-de-las-semanas-18-y-19-de-2026/)
-- [Reproducir con Amarok archivos .wma en openSUSE](https://victorhckinthefreeworld.com/2026/05/07/reproducir-con-amarok-archivos-wma-en-opensuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

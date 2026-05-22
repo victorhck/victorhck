@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 21 de 2026](https://victorhckinthefreeworld.com/2026/05/22/opensuse-tumbleweed-revision-de-la-semana-21-de-2026/)
 - [#openSUSE Tumbleweed revisión de la semana 20 de 2026](https://victorhckinthefreeworld.com/2026/05/15/opensuse-tumbleweed-revision-de-la-semana-20-de-2026/)
 - [#openSUSE Leap 15.6 llega a su fin de vida. Es hora de actualizar](https://victorhckinthefreeworld.com/2026/05/14/opensuse-leap-15-6-llega-a-su-fin-de-vida-es-hora-de-actualizar/)
 - [Sovereign Tech Fund invierte más de 1 millón de euros en el desarrollo de software #KDE](https://victorhckinthefreeworld.com/2026/05/13/sovereign-tech-fund-invierte-mas-de-1-millon-de-euros-en-el-desarrollo-de-software-kde/)
 - [Cómo modificar en Firefox el desagradable sonido que reproduce al buscar un texto que no encuentra](https://victorhckinthefreeworld.com/2026/05/12/como-modificar-en-firefox-el-desagradable-sonido-que-reproduce-al-buscar-un-texto-que-no-encuentra/)
-- [Firefox no muestra los kanjis o caracteres japoneses &lpar;ni chinos ni koreanos&rpar; en Plasma](https://victorhckinthefreeworld.com/2026/05/11/firefox-no-muestra-los-kanjis-o-caracteres-japoneses-ni-chinos-ni-koreanos-en-plasma/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

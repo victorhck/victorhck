@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Presvisualizar archivos MarkDown en el editor Kate de #KDE](https://victorhckinthefreeworld.com/2026/05/26/presvisualizar-archivos-markdown-en-el-editor-kate-de-kde/)
 - [Publicado Agama 21](https://victorhckinthefreeworld.com/2026/05/22/publicado-agama-21/)
 - [#openSUSE Tumbleweed revisión de la semana 21 de 2026](https://victorhckinthefreeworld.com/2026/05/22/opensuse-tumbleweed-revision-de-la-semana-21-de-2026/)
 - [#openSUSE Tumbleweed revisión de la semana 20 de 2026](https://victorhckinthefreeworld.com/2026/05/15/opensuse-tumbleweed-revision-de-la-semana-20-de-2026/)
 - [#openSUSE Leap 15.6 llega a su fin de vida. Es hora de actualizar](https://victorhckinthefreeworld.com/2026/05/14/opensuse-leap-15-6-llega-a-su-fin-de-vida-es-hora-de-actualizar/)
-- [Sovereign Tech Fund invierte más de 1 millón de euros en el desarrollo de software #KDE](https://victorhckinthefreeworld.com/2026/05/13/sovereign-tech-fund-invierte-mas-de-1-millon-de-euros-en-el-desarrollo-de-software-kde/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

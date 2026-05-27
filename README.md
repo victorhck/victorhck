@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
-- [Presvisualizar archivos MarkDown en el editor Kate de #KDE](https://victorhckinthefreeworld.com/2026/05/26/presvisualizar-archivos-markdown-en-el-editor-kate-de-kde/)
+- [Previsualizar archivos MarkDown en el editor Kate de #KDE](https://victorhckinthefreeworld.com/2026/05/26/presvisualizar-archivos-markdown-en-el-editor-kate-de-kde/)
 - [Publicado Agama 21](https://victorhckinthefreeworld.com/2026/05/22/publicado-agama-21/)
 - [#openSUSE Tumbleweed revisión de la semana 21 de 2026](https://victorhckinthefreeworld.com/2026/05/22/opensuse-tumbleweed-revision-de-la-semana-21-de-2026/)
 - [#openSUSE Tumbleweed revisión de la semana 20 de 2026](https://victorhckinthefreeworld.com/2026/05/15/opensuse-tumbleweed-revision-de-la-semana-20-de-2026/)

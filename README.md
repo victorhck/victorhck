@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Cambiar el número de elementos mostrados en la página de pestaña nueva del navegador Firefox](https://victorhckinthefreeworld.com/2026/06/01/cambiar-el-numero-de-elementos-mostrados-en-la-pagina-de-pestana-nueva-del-navegador-firefox/)
 - [Libro «Nosotros» de Yevgueni Zamiatin](https://victorhckinthefreeworld.com/2026/05/31/libro-nosotros-de-yevgueni-zamiatin/)
 - [Marknote 1.6.0 ya publicado](https://victorhckinthefreeworld.com/2026/05/30/marknote-1-6-0-ya-publicado/)
 - [#openSUSE Tumbleweed revisión de la semana 22 de 2026](https://victorhckinthefreeworld.com/2026/05/29/opensuse-tumbleweed-revision-de-la-semana-22-de-2026/)
 - [Previsualizar archivos MarkDown en el editor Kate de #KDE](https://victorhckinthefreeworld.com/2026/05/26/presvisualizar-archivos-markdown-en-el-editor-kate-de-kde/)
-- [Publicado Agama 21](https://victorhckinthefreeworld.com/2026/05/22/publicado-agama-21/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

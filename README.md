@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 24 de 2026](https://victorhckinthefreeworld.com/2026/06/12/opensuse-tumbleweed-revision-de-la-semana-24-de-2026/)
 - [Todo tiene un precio](https://victorhckinthefreeworld.com/2026/06/07/todo-tiene-un-precio/)
 - [#openSUSE Tumbleweed revisión de la semana 23 de 2026](https://victorhckinthefreeworld.com/2026/06/05/opensuse-tumbleweed-revision-de-la-semana-23-de-2026/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – junio de 2026](https://victorhckinthefreeworld.com/2026/06/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-junio-de-2026/)
 - [Cambiar el número de elementos mostrados en la página de pestaña nueva del navegador Firefox](https://victorhckinthefreeworld.com/2026/06/01/cambiar-el-numero-de-elementos-mostrados-en-la-pagina-de-pestana-nueva-del-navegador-firefox/)
-- [Libro «Nosotros» de Yevgueni Zamiatin](https://victorhckinthefreeworld.com/2026/05/31/libro-nosotros-de-yevgueni-zamiatin/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

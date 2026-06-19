@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicado Agama 22](https://victorhckinthefreeworld.com/2026/06/19/publicado-agama-22/)
 - [Publicado Amarok 3.3.3](https://victorhckinthefreeworld.com/2026/06/18/publicado-amarok-3-3-3/)
 - [Thunderbird hará más sencillo poder colaborar en su aplicación para Android](https://victorhckinthefreeworld.com/2026/06/17/thunderbird-hara-mas-sencillo-poder-colaborar-en-su-aplicacion-para-android/)
 - [Añadir palabra clave para que Thunderbird nos recuerde si queremos añadir un adjunto](https://victorhckinthefreeworld.com/2026/06/15/anadir-palabra-clave-para-que-thunderbird-nos-recuerde-si-queremos-anadir-un-adjunto/)
 - [#openSUSE Tumbleweed revisión de la semana 24 de 2026](https://victorhckinthefreeworld.com/2026/06/12/opensuse-tumbleweed-revision-de-la-semana-24-de-2026/)
-- [Todo tiene un precio](https://victorhckinthefreeworld.com/2026/06/07/todo-tiene-un-precio/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

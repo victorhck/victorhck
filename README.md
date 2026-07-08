@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Thunderbird escucha a las personas que lo usan para mejorar su aplicación de escritorio](https://victorhckinthefreeworld.com/2026/07/08/thunderbird-escucha-a-las-personas-que-lo-usan-para-mejorar-su-aplicacion-de-escritorio/)
 - [Plasmoide para mostrar la información de Meteoclimatic en el escritorio Plasma de #KDE](https://victorhckinthefreeworld.com/2026/07/07/plasmoide-para-mostrar-la-informacion-de-meteoclimatic-en-el-escritorio-plasma-de-kde/)
 - [#openSUSE Tumbleweed revisión de la semana 27 de 2026](https://victorhckinthefreeworld.com/2026/07/03/opensuse-tumbleweed-revision-de-la-semana-27-de-2026/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – julio de 2026](https://victorhckinthefreeworld.com/2026/07/02/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-julio-de-2026/)
 - [#openSUSE Tumbleweed revisión de las semanas 25 y 26 de 2026](https://victorhckinthefreeworld.com/2026/06/27/opensuse-tumbleweed-revision-de-las-semanas-25-y-26-de-2026/)
-- [Publicado Agama 22](https://victorhckinthefreeworld.com/2026/06/19/publicado-agama-22/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

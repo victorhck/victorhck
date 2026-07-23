@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicado Thunderbird 153. La nueva versión de soporte extendido de este cliente de correo de software libre](https://victorhckinthefreeworld.com/2026/07/23/publicado-thunderbird-153-la-nueva-version-de-soporte-extendido-de-este-cliente-de-correo-de-software-libre/)
 - [#openSUSE Tumbleweed revisión de la semana 29 de 2026](https://victorhckinthefreeworld.com/2026/07/17/opensuse-tumbleweed-revision-de-la-semana-29-de-2026/)
 - [Muestra los datos de Meteoclimatic en tu escritorio con este Plasmoide para Plasma 6 de #KDE](https://victorhckinthefreeworld.com/2026/07/16/muestra-los-datos-de-meteoclimatic-en-tu-escritorio-con-este-plasmoide-para-plasma-6-de-kde/)
 - [Script en Bash &lpar;y Fish&rpar; para mostrar los datos de una estación metereológica de Meteoclimatic](https://victorhckinthefreeworld.com/2026/07/13/script-en-bash-y-fish-para-mostrar-los-datos-de-una-estacion-metereologica-de-meteoclimatic/)
 - [#openSUSE Tumbleweed revisión de la semana 28 de 2026](https://victorhckinthefreeworld.com/2026/07/10/opensuse-tumbleweed-revision-de-la-semana-28-de-2026/)
-- [Thunderbird escucha las opiniones de su comunidad para mejorar su aplicación de escritorio](https://victorhckinthefreeworld.com/2026/07/08/thunderbird-escucha-a-las-personas-que-lo-usan-para-mejorar-su-aplicacion-de-escritorio/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

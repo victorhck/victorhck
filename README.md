@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 33 de 2026](https://victorhckinthefreeworld.com/2026/08/14/opensuse-tumbleweed-revision-de-la-semana-33-de-2026/)
 - [Contribuye con la web Number Research en su búsqueda de números con este script en Bash](https://victorhckinthefreeworld.com/2026/08/11/contribuye-con-la-web-number-research-en-su-busqueda-de-numeros-con-este-script-en-bash/)
 - [#openSUSE Tumbleweed revisión de la semana 32 de 2026](https://victorhckinthefreeworld.com/2026/08/07/opensuse-tumbleweed-revision-de-la-semana-32-de-2026/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – agosto de 2026](https://victorhckinthefreeworld.com/2026/08/03/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-agosto-de-2026/)
 - [#openSUSE Tumbleweed revisión de la semana 31 de 2026](https://victorhckinthefreeworld.com/2026/07/31/opensuse-tumbleweed-revision-de-la-semana-31-de-2026/)
-- [#openSUSE Tumbleweed revisión de la semana 30 de 2026](https://victorhckinthefreeworld.com/2026/07/24/opensuse-tumbleweed-revision-de-la-semana-30-de-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

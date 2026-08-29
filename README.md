@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 35 de 2026](https://victorhckinthefreeworld.com/2026/08/28/opensuse-tumbleweed-revision-de-la-semana-35-de-2026/)
 - [Script para monitorizar la potencia de la señal WIFI en la terminal](https://victorhckinthefreeworld.com/2026/08/27/script-para-monitorizar-la-potencia-de-la-senal-wifi-en-la-terminal/)
 - [Publicado Thunderbird 154.0](https://victorhckinthefreeworld.com/2026/08/21/publicado-thunderbird-154-0/)
 - [#openSUSE Tumbleweed revisión de la semana 34 de 2026](https://victorhckinthefreeworld.com/2026/08/21/opensuse-tumbleweed-revision-de-la-semana-34-de-2026/)
 - [Reciclando una entrevista. ¿Merece la pena ser bloguero?](https://victorhckinthefreeworld.com/2026/08/19/reciclando-una-entrevista-merece-la-pena-ser-bloguero/)
-- [#openSUSE Tumbleweed revisión de la semana 33 de 2026](https://victorhckinthefreeworld.com/2026/08/14/opensuse-tumbleweed-revision-de-la-semana-33-de-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [El proyecto del repositorio Packman quedará discontinuado a partir del 1 de enero de 2027](https://victorhckinthefreeworld.com/2026/09/08/el-proyecto-del-repositorio-packman-quedara-discontinuado-a-partir-del-1-de-enero-de-2027/)
 - [Photos como sustituto al visor de imágenes Gwenview de #KDE](https://victorhckinthefreeworld.com/2026/09/07/photos-como-sustituto-al-visor-de-imagenes-gwenview-de-kde/)
 - [Sincronizar el «scroll» en dos pestañas en el editor Kate de #KDE](https://victorhckinthefreeworld.com/2026/09/07/sincronizar-el-scroll-en-dos-pestanas-en-el-editor-kate-de-kde/)
 - [El colectivo hacktivista Autistici/Inventati cierra sus servicios](https://victorhckinthefreeworld.com/2026/09/06/el-colectivo-hacktivista-autistici-inventati-cierra-sus-servicios/)
 - [#openSUSE Tumbleweed revisión de la semana 36 de 2026](https://victorhckinthefreeworld.com/2026/09/04/opensuse-tumbleweed-revision-de-la-semana-36-de-2026/)
-- [Defiende al colectivo Autistici/Inventati y el derecho a construir una comunicación resistente](https://victorhckinthefreeworld.com/2026/09/02/defiende-al-colectivo-autistici-inventati-y-el-derecho-a-construir-una-comunicacion-resistente/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [AkademyES 2026. La reunión más social de #KDE España y simpatizantes del software libre](https://victorhckinthefreeworld.com/2026/09/21/akademyes-2026-la-reunion-mas-social-de-kde-espana-y-simpatizantes-del-software-libre/)
 - [#openSUSE Tumbleweed revisión de la semana 38 de 2026](https://victorhckinthefreeworld.com/2026/09/18/opensuse-tumbleweed-revision-de-la-semana-38-de-2026/)
 - [Descarga una tira aleatoria de Linux Hispano en la terminal](https://victorhckinthefreeworld.com/2026/09/15/descarga-una-tira-aleatoria-de-linux-hispano-en-la-terminal/)
 - [#openSUSE Tumbleweed revisión de la semana 37 de 2026](https://victorhckinthefreeworld.com/2026/09/11/opensuse-tumbleweed-revision-de-la-semana-37-de-2026/)
 - [Cómo mantener un script ejecutándose en segundo plano con SSH y tmux](https://victorhckinthefreeworld.com/2026/09/09/como-mantener-un-script-ejecutandose-en-segundo-plano-con-ssh-y-tmux/)
-- [El proyecto del repositorio Packman quedará discontinuado a partir del 1 de enero de 2027](https://victorhckinthefreeworld.com/2026/09/08/el-proyecto-del-repositorio-packman-quedara-discontinuado-a-partir-del-1-de-enero-de-2027/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

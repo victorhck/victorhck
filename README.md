@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [openSUSE Leap 16.1 tendrá un modo inmutable que tomará el relevo a openSUSE Micro](https://victorhckinthefreeworld.com/2026/09/28/opensuse-leap-16-1-tendra-un-modo-inmutable-que-tomara-el-relevo-a-opensuse-micro/)
 - [#openSUSE Tumbleweed revisión de la semana 39 de 2026](https://victorhckinthefreeworld.com/2026/09/26/opensuse-tumbleweed-revision-de-la-semana-39-de-2026/)
 - [AkademyES 2026. La reunión más social de #KDE España y simpatizantes del software libre](https://victorhckinthefreeworld.com/2026/09/21/akademyes-2026-la-reunion-mas-social-de-kde-espana-y-simpatizantes-del-software-libre/)
 - [#openSUSE Tumbleweed revisión de la semana 38 de 2026](https://victorhckinthefreeworld.com/2026/09/18/opensuse-tumbleweed-revision-de-la-semana-38-de-2026/)
 - [Descarga una tira aleatoria de Linux Hispano en la terminal](https://victorhckinthefreeworld.com/2026/09/15/descarga-una-tira-aleatoria-de-linux-hispano-en-la-terminal/)
-- [#openSUSE Tumbleweed revisión de la semana 37 de 2026](https://victorhckinthefreeworld.com/2026/09/11/opensuse-tumbleweed-revision-de-la-semana-37-de-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

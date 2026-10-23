@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Publicado Agama 25](https://victorhckinthefreeworld.com/2026/10/23/publicado-agama-25/)
 - [#openSUSE Tumbleweed revisión de la semana 42 de 2026](https://victorhckinthefreeworld.com/2026/10/17/opensuse-tumbleweed-revision-de-la-semana-42-de-2026/)
 - [30 años y 1 día. #KDE sigue dándome libertad y funcionalidad con el mejor diseño](https://victorhckinthefreeworld.com/2026/10/15/30-anos-y-1-dia-kde-sigue-dandome-libertad-y-funcionalidad-con-el-mejor-diseno/)
 - [#openSUSE Tumbleweed revisión de la semana 41 de 2026](https://victorhckinthefreeworld.com/2026/10/09/opensuse-tumbleweed-revision-de-la-semana-41-de-2026/)
 - [Los 5 atajos de teclado más útiles para el editor Kate de #KDE](https://victorhckinthefreeworld.com/2026/10/08/los-5-atajos-de-teclado-mas-utiles-para-el-editor-kate-de-kde/)
-- [Mi script en Bash para escuchar somafm en tu terminal](https://victorhckinthefreeworld.com/2026/10/07/mi-script-en-bash-para-escuchar-somafm-en-tu-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

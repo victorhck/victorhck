@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [La comunidad seguirá manteniendo el repositorio Packman](https://victorhckinthefreeworld.com/2026/11/10/la-comunidad-seguira-manteniendo-el-repositorio-packman/)
 - [Muestra el uptime de tu equipo con este Plasmoide para Plasma 6 de KDE](https://victorhckinthefreeworld.com/2026/11/09/muestra-el-uptime-de-tu-equipo-con-este-plasmoide-para-plasma-6-de-kde/)
 - [Más Aaron Swartz y menos Elon, Altman, Zuckerberg](https://victorhckinthefreeworld.com/2026/11/08/mas-aaron-swartz-y-menos-elon-altman-zuckerberg/)
 - [#openSUSE Tumbleweed revisión de la semana 45 de 2026](https://victorhckinthefreeworld.com/2026/11/06/opensuse-tumbleweed-revision-de-la-semana-45-de-2026/)
 - [Recopilación del boletín de noticias de la Free Software Foundation – noviembre de 2026](https://victorhckinthefreeworld.com/2026/11/04/recopilacion-del-boletin-de-noticias-de-la-free-software-foundation-noviembre-de-2026/)
-- [Publicado openSUSE Leap 16.1](https://victorhckinthefreeworld.com/2026/11/03/publicado-opensuse-leap-16-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

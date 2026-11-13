@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [#openSUSE Tumbleweed revisión de la semana 46 de 2026](https://victorhckinthefreeworld.com/2026/11/13/opensuse-tumbleweed-revision-de-la-semana-46-de-2026/)
 - [Neonova wallpaper, una extensión para Plasma de KDE de terceros que incluye malware](https://victorhckinthefreeworld.com/2026/11/12/neonova-wallpaper-plasma-kde-malware/)
 - [La comunidad seguirá manteniendo el repositorio Packman](https://victorhckinthefreeworld.com/2026/11/10/la-comunidad-seguira-manteniendo-el-repositorio-packman/)
 - [Muestra el uptime de tu equipo con este Plasmoide para Plasma 6 de KDE](https://victorhckinthefreeworld.com/2026/11/09/muestra-el-uptime-de-tu-equipo-con-este-plasmoide-para-plasma-6-de-kde/)
 - [Más Aaron Swartz y menos Elon, Altman, Zuckerberg](https://victorhckinthefreeworld.com/2026/11/08/mas-aaron-swartz-y-menos-elon-altman-zuckerberg/)
-- [#openSUSE Tumbleweed revisión de la semana 45 de 2026](https://victorhckinthefreeworld.com/2026/11/06/opensuse-tumbleweed-revision-de-la-semana-45-de-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog

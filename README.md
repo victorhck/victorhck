@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ## Últimos artículos en mi blog:
 <!-- BLOG-POST-LIST:START -->
+- [Conectar el reproductor Strawberry con nuestro servidor de música Navidrome en Linux](https://victorhckinthefreeworld.com/2026/11/17/conectar-el-reproductor-strawberry-con-nuestro-servidor-de-musica-navidrome-en-linux/)
 - [Cul de Sac, la web en la que perder tiempo mientras Outlook se recupera de su caida](https://victorhckinthefreeworld.com/2026/11/16/cul-de-sac-la-web-en-la-que-perder-tiempo-mientras-outlook-se-recupera-de-su-caida/)
 - [#openSUSE Tumbleweed revisión de la semana 46 de 2026](https://victorhckinthefreeworld.com/2026/11/13/opensuse-tumbleweed-revision-de-la-semana-46-de-2026/)
 - [Neonova wallpaper, una extensión para Plasma de KDE de terceros que incluye malware](https://victorhckinthefreeworld.com/2026/11/12/neonova-wallpaper-plasma-kde-malware/)
 - [La comunidad seguirá manteniendo el repositorio Packman](https://victorhckinthefreeworld.com/2026/11/10/la-comunidad-seguira-manteniendo-el-repositorio-packman/)
-- [Muestra el uptime de tu equipo con este Plasmoide para Plasma 6 de KDE](https://victorhckinthefreeworld.com/2026/11/09/muestra-el-uptime-de-tu-equipo-con-este-plasmoide-para-plasma-6-de-kde/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Canal de Telegram del blog
